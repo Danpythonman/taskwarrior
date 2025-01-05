@@ -1,0 +1,35 @@
+**Taskwarrior Cheat Sheet**
+
+**Basic Commands**
+
+* `task add <description>`
+* `task list`
+* `task done <id>`
+* `task delete <id>`
+* `task modify <id> <attribute> <value>`
+* `task show <id>`
+
+**Advanced Commands**
+
+* `task add -p <project> <description>`
+* `task add -d <due> <description>`
+* `task add -t <tag> <description>`
+* `task add -w <wait> <description>`
+* `task add -n <notes> <description>`
+* `task search <query>`
+* `task export <file>`
+* `task import <file>`
+
+**Other Commands**
+
+* `task help`
+* `task config`
+* `task version`
+
+**Additional Tips**
+
+* `+` prefix to add multiple tags
+* `\` character to escape special characters
+* `=` character to set task attributes
+* `()` character to group multiple search criteria
+* `!` character to negate search criteria
