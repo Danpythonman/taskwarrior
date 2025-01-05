@@ -1,0 +1,31 @@
+time 1736040116
+new [description:"refactor network flow scheduler to be modular and have package structure" entry:"1736040116" modified:"1736040116" status:"pending" uuid:"158c7870-0e1d-4be9-9313-94d6bebbc106"]
+---
+time 1736040146
+new [description:"refactor docstring comments to reflect new types" entry:"1736040146" modified:"1736040146" status:"pending" uuid:"15c21e47-4b18-47fe-afa5-2991f2b3b544"]
+---
+time 1736040165
+new [description:"genetic part of scheduler" entry:"1736040165" modified:"1736040165" status:"pending" uuid:"1d130825-1473-4f41-9b77-89252071111e"]
+---
+time 1736049052
+old [description:"refactor network flow scheduler to be modular and have package structure" entry:"1736040116" modified:"1736040116" status:"pending" uuid:"158c7870-0e1d-4be9-9313-94d6bebbc106"]
+new [description:"refactor network flow scheduler to be modular and have package structure" end:"1736049052" entry:"1736040116" modified:"1736049052" status:"completed" uuid:"158c7870-0e1d-4be9-9313-94d6bebbc106"]
+---
+time 1736049076
+new [description:"test test" entry:"1736049076" modified:"1736049076" status:"pending" uuid:"ed0451cc-5c60-49a1-a666-1daabc0d0107"]
+---
+time 1736049086
+old [description:"test test" entry:"1736049076" modified:"1736049076" status:"pending" uuid:"ed0451cc-5c60-49a1-a666-1daabc0d0107"]
+new [description:"test test" end:"1736049085" entry:"1736049076" modified:"1736049086" status:"deleted" uuid:"ed0451cc-5c60-49a1-a666-1daabc0d0107"]
+---
+time 1736049128
+new [description:"use actual data (jobs, satellites, etc.) instead of strings in network flow scheduler" entry:"1736049128" modified:"1736049128" status:"pending" uuid:"30f568ee-28fb-433a-9f83-c8caac1ad2f3"]
+---
+time 1736060986
+old [description:"refactor docstring comments to reflect new types" entry:"1736040146" modified:"1736040146" status:"pending" uuid:"15c21e47-4b18-47fe-afa5-2991f2b3b544"]
+new [description:"refactor docstring comments to reflect new types" end:"1736060986" entry:"1736040146" modified:"1736060986" status:"completed" uuid:"15c21e47-4b18-47fe-afa5-2991f2b3b544"]
+---
+time 1736060993
+old [description:"use actual data (jobs, satellites, etc.) instead of strings in network flow scheduler" entry:"1736049128" modified:"1736049128" status:"pending" uuid:"30f568ee-28fb-433a-9f83-c8caac1ad2f3"]
+new [description:"use actual data (jobs, satellites, etc.) instead of strings in network flow scheduler" end:"1736060993" entry:"1736049128" modified:"1736060993" status:"completed" uuid:"30f568ee-28fb-433a-9f83-c8caac1ad2f3"]
+---

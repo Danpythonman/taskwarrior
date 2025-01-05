@@ -1,0 +1,9 @@
+{"description":"refactor network flow scheduler to be modular and have package structure","entry":"20250105T012156Z","modified":"20250105T012156Z","status":"pending","uuid":"158c7870-0e1d-4be9-9313-94d6bebbc106"}
+{"description":"refactor docstring comments to reflect new types","entry":"20250105T012226Z","modified":"20250105T012226Z","status":"pending","uuid":"15c21e47-4b18-47fe-afa5-2991f2b3b544"}
+{"description":"genetic part of scheduler","entry":"20250105T012245Z","modified":"20250105T012245Z","status":"pending","uuid":"1d130825-1473-4f41-9b77-89252071111e"}
+{"description":"refactor network flow scheduler to be modular and have package structure","end":"20250105T035052Z","entry":"20250105T012156Z","modified":"20250105T035052Z","status":"completed","uuid":"158c7870-0e1d-4be9-9313-94d6bebbc106"}
+{"description":"test test","entry":"20250105T035116Z","modified":"20250105T035116Z","status":"pending","uuid":"ed0451cc-5c60-49a1-a666-1daabc0d0107"}
+{"description":"test test","end":"20250105T035125Z","entry":"20250105T035116Z","modified":"20250105T035126Z","status":"deleted","uuid":"ed0451cc-5c60-49a1-a666-1daabc0d0107"}
+{"description":"use actual data (jobs, satellites, etc.) instead of strings in network flow scheduler","entry":"20250105T035208Z","modified":"20250105T035208Z","status":"pending","uuid":"30f568ee-28fb-433a-9f83-c8caac1ad2f3"}
+{"description":"refactor docstring comments to reflect new types","end":"20250105T070946Z","entry":"20250105T012226Z","modified":"20250105T070946Z","status":"completed","uuid":"15c21e47-4b18-47fe-afa5-2991f2b3b544"}
+{"description":"use actual data (jobs, satellites, etc.) instead of strings in network flow scheduler","end":"20250105T070953Z","entry":"20250105T035208Z","modified":"20250105T070953Z","status":"completed","uuid":"30f568ee-28fb-433a-9f83-c8caac1ad2f3"}
