@@ -7,3 +7,4 @@
 {"description":"use actual data (jobs, satellites, etc.) instead of strings in network flow scheduler","entry":"20250105T035208Z","modified":"20250105T035208Z","status":"pending","uuid":"30f568ee-28fb-433a-9f83-c8caac1ad2f3"}
 {"description":"refactor docstring comments to reflect new types","end":"20250105T070946Z","entry":"20250105T012226Z","modified":"20250105T070946Z","status":"completed","uuid":"15c21e47-4b18-47fe-afa5-2991f2b3b544"}
 {"description":"use actual data (jobs, satellites, etc.) instead of strings in network flow scheduler","end":"20250105T070953Z","entry":"20250105T035208Z","modified":"20250105T070953Z","status":"completed","uuid":"30f568ee-28fb-433a-9f83-c8caac1ad2f3"}
+{"description":"genetic part of scheduler","end":"20250106T053157Z","entry":"20250105T012245Z","modified":"20250106T053157Z","status":"completed","uuid":"1d130825-1473-4f41-9b77-89252071111e"}
