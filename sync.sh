@@ -12,7 +12,7 @@ if [[ `git status --porcelain` ]]; then
     git commit -m "Automated commit: $(date +"%Y-%m-%d %H:%M:%S")"
 
     # Push to the remote repository
-    git push
+    git push origin master
 else
     echo "No changes to commit"
 fi
