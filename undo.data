@@ -68,3 +68,11 @@ new [description:"install iclicker" due:"1736226000" entry:"1736189407" modified
 time 1736192377
 new [description:"test" entry:"1736192377" modified:"1736192377" status:"pending" uuid:"e21073e7-145d-44cc-bffb-09e4bd82b5c4"]
 ---
+time 1736228947
+old [description:"test" entry:"1736192377" modified:"1736192377" status:"pending" uuid:"e21073e7-145d-44cc-bffb-09e4bd82b5c4"]
+new [description:"test" end:"1736228945" entry:"1736192377" modified:"1736228947" status:"deleted" uuid:"e21073e7-145d-44cc-bffb-09e4bd82b5c4"]
+---
+time 1736228966
+old [description:"install iclicker" due:"1736226000" entry:"1736189407" modified:"1736190026" project:"EECS4315" status:"pending" uuid:"3d1f86e6-eb9f-44e9-b98e-4254faa817c5"]
+new [description:"install iclicker" due:"1736226000" end:"1736228966" entry:"1736189407" modified:"1736228966" project:"EECS4315" status:"completed" uuid:"3d1f86e6-eb9f-44e9-b98e-4254faa817c5"]
+---

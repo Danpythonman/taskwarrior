@@ -18,3 +18,5 @@
 {"description":"install iclicker","due":"20250107T050000Z","entry":"20250106T185007Z","modified":"20250106T185314Z","project":"EECS4314","status":"pending","uuid":"3d1f86e6-eb9f-44e9-b98e-4254faa817c5"}
 {"description":"install iclicker","due":"20250107T050000Z","entry":"20250106T185007Z","modified":"20250106T190026Z","project":"EECS4315","status":"pending","uuid":"3d1f86e6-eb9f-44e9-b98e-4254faa817c5"}
 {"description":"test","entry":"20250106T193937Z","modified":"20250106T193937Z","status":"pending","uuid":"e21073e7-145d-44cc-bffb-09e4bd82b5c4"}
+{"description":"test","end":"20250107T054905Z","entry":"20250106T193937Z","modified":"20250107T054907Z","status":"deleted","uuid":"e21073e7-145d-44cc-bffb-09e4bd82b5c4"}
+{"description":"install iclicker","due":"20250107T050000Z","end":"20250107T054926Z","entry":"20250106T185007Z","modified":"20250107T054926Z","project":"EECS4315","status":"completed","uuid":"3d1f86e6-eb9f-44e9-b98e-4254faa817c5"}
