@@ -1,0 +1,3 @@
+[description:"Lectures: Introduction" due:"1736413200" entry:"1736306559" modified:"1736306559" project:"EECS4313" status:"pending" uuid:"442bb1ae-14e2-4562-997e-94feb6a34a94"]
+[description:"Join Slack channel" due:"1736398799" entry:"1736355954" modified:"1736355954" project:"EECS4314" status:"pending" uuid:"bb985464-ac78-432b-88dc-36f51b633a5d"]
+[description:"Separate network flow and interval tree modules so that genetic algorithm can use interval tree data to create genomes" due:"1736398799" entry:"1736357120" modified:"1736357120" project:"ENG4000" status:"pending" uuid:"28fde00e-1c6a-42d9-9241-c1931ce6aa2b"]

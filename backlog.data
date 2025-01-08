@@ -20,3 +20,6 @@
 {"description":"test","entry":"20250106T193937Z","modified":"20250106T193937Z","status":"pending","uuid":"e21073e7-145d-44cc-bffb-09e4bd82b5c4"}
 {"description":"test","end":"20250107T054905Z","entry":"20250106T193937Z","modified":"20250107T054907Z","status":"deleted","uuid":"e21073e7-145d-44cc-bffb-09e4bd82b5c4"}
 {"description":"install iclicker","due":"20250107T050000Z","end":"20250107T054926Z","entry":"20250106T185007Z","modified":"20250107T054926Z","project":"EECS4315","status":"completed","uuid":"3d1f86e6-eb9f-44e9-b98e-4254faa817c5"}
+{"description":"Lectures: Introduction","due":"20250109T090000Z","entry":"20250108T032239Z","modified":"20250108T032239Z","project":"EECS4313","status":"pending","uuid":"442bb1ae-14e2-4562-997e-94feb6a34a94"}
+{"description":"Join Slack channel","due":"20250109T045959Z","entry":"20250108T170554Z","modified":"20250108T170554Z","project":"EECS4314","status":"pending","uuid":"bb985464-ac78-432b-88dc-36f51b633a5d"}
+{"description":"Separate network flow and interval tree modules so that genetic algorithm can use interval tree data to create genomes","due":"20250109T045959Z","entry":"20250108T172520Z","modified":"20250108T172520Z","project":"ENG4000","status":"pending","uuid":"28fde00e-1c6a-42d9-9241-c1931ce6aa2b"}

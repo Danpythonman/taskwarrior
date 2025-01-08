@@ -76,3 +76,12 @@ time 1736228966
 old [description:"install iclicker" due:"1736226000" entry:"1736189407" modified:"1736190026" project:"EECS4315" status:"pending" uuid:"3d1f86e6-eb9f-44e9-b98e-4254faa817c5"]
 new [description:"install iclicker" due:"1736226000" end:"1736228966" entry:"1736189407" modified:"1736228966" project:"EECS4315" status:"completed" uuid:"3d1f86e6-eb9f-44e9-b98e-4254faa817c5"]
 ---
+time 1736306559
+new [description:"Lectures: Introduction" due:"1736413200" entry:"1736306559" modified:"1736306559" project:"EECS4313" status:"pending" uuid:"442bb1ae-14e2-4562-997e-94feb6a34a94"]
+---
+time 1736355955
+new [description:"Join Slack channel" due:"1736398799" entry:"1736355954" modified:"1736355954" project:"EECS4314" status:"pending" uuid:"bb985464-ac78-432b-88dc-36f51b633a5d"]
+---
+time 1736357120
+new [description:"Separate network flow and interval tree modules so that genetic algorithm can use interval tree data to create genomes" due:"1736398799" entry:"1736357120" modified:"1736357120" project:"ENG4000" status:"pending" uuid:"28fde00e-1c6a-42d9-9241-c1931ce6aa2b"]
+---
