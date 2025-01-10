@@ -123,3 +123,11 @@ time 1736461845
 old [description:"Lecture practice and assess phases" due:"1736485199" entry:"1736461266" modified:"1736461266" priority:"H" project:"EECS4313" status:"pending" uuid:"e9456fb0-e87c-4f21-badf-8e95f6ae496e"]
 new [description:"Lecture practice and assess phases" due:"1736485199" end:"1736461845" entry:"1736461266" modified:"1736461845" priority:"H" project:"EECS4313" status:"completed" uuid:"e9456fb0-e87c-4f21-badf-8e95f6ae496e"]
 ---
+time 1736474617
+old [description:"Maleknaz email" due:"1736485199" entry:"1736403458" modified:"1736449195" priority:"H" status:"pending" uuid:"a3a9cd34-b550-4abc-bbaa-24c6c5e33177"]
+new [description:"Maleknaz email" due:"1736485199" end:"1736474617" entry:"1736403458" modified:"1736474617" priority:"H" status:"completed" uuid:"a3a9cd34-b550-4abc-bbaa-24c6c5e33177"]
+---
+time 1736490997
+old [description:"Review missed lecture" due:"1736485199" entry:"1736449167" modified:"1736449176" project:"ENG4550" status:"pending" uuid:"5c5482e3-0a95-49e7-abf1-3c7abdde7006"]
+new [description:"Review missed lecture" due:"1736485199" end:"1736490997" entry:"1736449167" modified:"1736490997" project:"ENG4550" status:"completed" uuid:"5c5482e3-0a95-49e7-abf1-3c7abdde7006"]
+---
