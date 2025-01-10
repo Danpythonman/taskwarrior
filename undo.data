@@ -85,3 +85,41 @@ new [description:"Join Slack channel" due:"1736398799" entry:"1736355954" modifi
 time 1736357120
 new [description:"Separate network flow and interval tree modules so that genetic algorithm can use interval tree data to create genomes" due:"1736398799" entry:"1736357120" modified:"1736357120" project:"ENG4000" status:"pending" uuid:"28fde00e-1c6a-42d9-9241-c1931ce6aa2b"]
 ---
+time 1736359110
+new [description:"Prepare for lab 1" due:"1736398799" entry:"1736359110" modified:"1736359110" project:"EECS4315" status:"pending" uuid:"e27c4964-cc2f-4935-827b-acb100edc973"]
+---
+time 1736360226
+new [description:"Lab 1 submission" due:"1737694740" entry:"1736360226" modified:"1736360226" project:"EECS4315" status:"pending" uuid:"d5892cd3-e008-4b01-a767-b227865f0299"]
+---
+time 1736403458
+new [description:"Maleknaz email" due:"1736485199" entry:"1736403458" modified:"1736403458" status:"pending" uuid:"a3a9cd34-b550-4abc-bbaa-24c6c5e33177"]
+---
+time 1736403758
+old [description:"Lectures: Introduction" due:"1736413200" entry:"1736306559" modified:"1736306559" project:"EECS4313" status:"pending" uuid:"442bb1ae-14e2-4562-997e-94feb6a34a94"]
+new [description:"Lectures: Introduction" due:"1736413200" end:"1736403758" entry:"1736306559" modified:"1736403758" project:"EECS4313" status:"completed" uuid:"442bb1ae-14e2-4562-997e-94feb6a34a94"]
+---
+time 1736404041
+old [description:"Join Slack channel" due:"1736398799" entry:"1736355954" modified:"1736355954" project:"EECS4314" status:"pending" uuid:"bb985464-ac78-432b-88dc-36f51b633a5d"]
+new [description:"Join Slack channel" due:"1736398799" end:"1736404041" entry:"1736355954" modified:"1736404041" project:"EECS4314" status:"completed" uuid:"bb985464-ac78-432b-88dc-36f51b633a5d"]
+---
+time 1736449167
+new [description:"Review missed lecture" entry:"1736449167" modified:"1736449167" project:"ENG4550" status:"pending" uuid:"5c5482e3-0a95-49e7-abf1-3c7abdde7006"]
+---
+time 1736449176
+old [description:"Review missed lecture" entry:"1736449167" modified:"1736449167" project:"ENG4550" status:"pending" uuid:"5c5482e3-0a95-49e7-abf1-3c7abdde7006"]
+new [description:"Review missed lecture" due:"1736485199" entry:"1736449167" modified:"1736449176" project:"ENG4550" status:"pending" uuid:"5c5482e3-0a95-49e7-abf1-3c7abdde7006"]
+---
+time 1736449195
+old [description:"Maleknaz email" due:"1736485199" entry:"1736403458" modified:"1736403458" status:"pending" uuid:"a3a9cd34-b550-4abc-bbaa-24c6c5e33177"]
+new [description:"Maleknaz email" due:"1736485199" entry:"1736403458" modified:"1736449195" priority:"H" status:"pending" uuid:"a3a9cd34-b550-4abc-bbaa-24c6c5e33177"]
+---
+time 1736449228
+new [description:"Send schedule to Prof Bazzochi" due:"1736485199" entry:"1736449228" modified:"1736449228" project:"ENG4000" status:"pending" uuid:"31d21ed2-d83e-43a0-a4f9-095dd9549d0d"]
+---
+time 1736461266
+new [description:"Lecture practice and assess phases" due:"1736485199" entry:"1736461266" modified:"1736461266" priority:"H" project:"EECS4313" status:"pending" uuid:"e9456fb0-e87c-4f21-badf-8e95f6ae496e"]
+---
+time 1736461845
+old [description:"Lecture practice and assess phases" due:"1736485199" entry:"1736461266" modified:"1736461266" priority:"H" project:"EECS4313" status:"pending" uuid:"e9456fb0-e87c-4f21-badf-8e95f6ae496e"]
+new [description:"Lecture practice and assess phases" due:"1736485199" end:"1736461845" entry:"1736461266" modified:"1736461845" priority:"H" project:"EECS4313" status:"completed" uuid:"e9456fb0-e87c-4f21-badf-8e95f6ae496e"]
+---
