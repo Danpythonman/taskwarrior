@@ -36,3 +36,4 @@
 {"description":"Lecture practice and assess phases","due":"20250110T045959Z","end":"20250109T223045Z","entry":"20250109T222106Z","modified":"20250109T223045Z","priority":"H","project":"EECS4313","status":"completed","uuid":"e9456fb0-e87c-4f21-badf-8e95f6ae496e"}
 {"description":"Maleknaz email","due":"20250110T045959Z","end":"20250110T020337Z","entry":"20250109T061738Z","modified":"20250110T020337Z","priority":"H","status":"completed","uuid":"a3a9cd34-b550-4abc-bbaa-24c6c5e33177"}
 {"description":"Review missed lecture","due":"20250110T045959Z","end":"20250110T063637Z","entry":"20250109T185927Z","modified":"20250110T063637Z","project":"ENG4550","status":"completed","uuid":"5c5482e3-0a95-49e7-abf1-3c7abdde7006"}
+{"description":"Prepare for lab 1","due":"20250109T045959Z","end":"20250110T200742Z","entry":"20250108T175830Z","modified":"20250110T200742Z","project":"EECS4315","status":"completed","uuid":"e27c4964-cc2f-4935-827b-acb100edc973"}

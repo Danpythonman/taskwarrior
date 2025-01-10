@@ -131,3 +131,7 @@ time 1736490997
 old [description:"Review missed lecture" due:"1736485199" entry:"1736449167" modified:"1736449176" project:"ENG4550" status:"pending" uuid:"5c5482e3-0a95-49e7-abf1-3c7abdde7006"]
 new [description:"Review missed lecture" due:"1736485199" end:"1736490997" entry:"1736449167" modified:"1736490997" project:"ENG4550" status:"completed" uuid:"5c5482e3-0a95-49e7-abf1-3c7abdde7006"]
 ---
+time 1736539662
+old [description:"Prepare for lab 1" due:"1736398799" entry:"1736359110" modified:"1736359110" project:"EECS4315" status:"pending" uuid:"e27c4964-cc2f-4935-827b-acb100edc973"]
+new [description:"Prepare for lab 1" due:"1736398799" end:"1736539662" entry:"1736359110" modified:"1736539662" project:"EECS4315" status:"completed" uuid:"e27c4964-cc2f-4935-827b-acb100edc973"]
+---
