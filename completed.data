@@ -1,3 +1,5 @@
+[description:"Send schedule to Prof Bazzochi" due:"1736485199" end:"1736633863" entry:"1736449228" modified:"1736633863" project:"ENG4000" status:"completed" uuid:"31d21ed2-d83e-43a0-a4f9-095dd9549d0d"]
+[description:"Separate network flow and interval tree modules so that genetic algorithm can use interval tree data to create genomes" due:"1736398799" end:"1736633855" entry:"1736357120" modified:"1736633855" project:"ENG4000" status:"completed" uuid:"28fde00e-1c6a-42d9-9241-c1931ce6aa2b"]
 [description:"Prepare for lab 1" due:"1736398799" end:"1736539662" entry:"1736359110" modified:"1736539662" project:"EECS4315" status:"completed" uuid:"e27c4964-cc2f-4935-827b-acb100edc973"]
 [description:"Review missed lecture" due:"1736485199" end:"1736490997" entry:"1736449167" modified:"1736490997" project:"ENG4550" status:"completed" uuid:"5c5482e3-0a95-49e7-abf1-3c7abdde7006"]
 [description:"Maleknaz email" due:"1736485199" end:"1736474617" entry:"1736403458" modified:"1736474617" priority:"H" status:"completed" uuid:"a3a9cd34-b550-4abc-bbaa-24c6c5e33177"]
