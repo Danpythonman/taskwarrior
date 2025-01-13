@@ -143,3 +143,14 @@ time 1736633863
 old [description:"Send schedule to Prof Bazzochi" due:"1736485199" entry:"1736449228" modified:"1736449228" project:"ENG4000" status:"pending" uuid:"31d21ed2-d83e-43a0-a4f9-095dd9549d0d"]
 new [description:"Send schedule to Prof Bazzochi" due:"1736485199" end:"1736633863" entry:"1736449228" modified:"1736633863" project:"ENG4000" status:"completed" uuid:"31d21ed2-d83e-43a0-a4f9-095dd9549d0d"]
 ---
+time 1736749775
+new [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" entry:"1736749775" modified:"1736749775" status:"pending" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
+---
+time 1736749791
+old [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" entry:"1736749775" modified:"1736749775" status:"pending" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
+new [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" entry:"1736749775" modified:"1736749791" project:"EECS4315" status:"pending" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
+---
+time 1736749845
+old [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" entry:"1736749775" modified:"1736749791" project:"EECS4315" status:"pending" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
+new [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" due:"1737037800" entry:"1736749775" modified:"1736749845" project:"EECS4315" status:"pending" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
+---
