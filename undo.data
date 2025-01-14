@@ -164,3 +164,10 @@ time 1736816260
 old [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" due:"1737037800" entry:"1736749775" modified:"1736749845" project:"EECS4315" status:"pending" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
 new [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" due:"1737037800" end:"1736816260" entry:"1736749775" modified:"1736816260" project:"EECS4315" status:"completed" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
 ---
+time 1736817043
+new [description:"Ask about how lab will be marked. Will TLC model checking be run? What if we have different variables (ex. the set 'Color' in m2)?" due:"1737039600" entry:"1736817043" modified:"1736817043" project:"EECS4315" status:"pending" uuid:"36883409-0067-46ad-9413-dc8ec2b785d6"]
+---
+time 1736818243
+old [description:"Watch lectures for 'Normal Boundary Value Testing'" due:"1736830799" entry:"1736751663" modified:"1736751663" project:"EECS4313" status:"pending" uuid:"65bd7c96-8029-4a25-a78c-8665cb3804d4"]
+new [description:"Watch lectures for 'Normal Boundary Value Testing'" due:"1736830799" end:"1736818243" entry:"1736751663" modified:"1736818243" project:"EECS4313" status:"completed" uuid:"65bd7c96-8029-4a25-a78c-8665cb3804d4"]
+---
