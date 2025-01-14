@@ -171,3 +171,6 @@ time 1736818243
 old [description:"Watch lectures for 'Normal Boundary Value Testing'" due:"1736830799" entry:"1736751663" modified:"1736751663" project:"EECS4313" status:"pending" uuid:"65bd7c96-8029-4a25-a78c-8665cb3804d4"]
 new [description:"Watch lectures for 'Normal Boundary Value Testing'" due:"1736830799" end:"1736818243" entry:"1736751663" modified:"1736818243" project:"EECS4313" status:"completed" uuid:"65bd7c96-8029-4a25-a78c-8665cb3804d4"]
 ---
+time 1736893438
+new [description:"Watch 'Other boundary value techniques' lecture video" due:"1737089940" entry:"1736893438" modified:"1736893438" project:"EECS4313" status:"pending" uuid:"8135acc5-fcb9-4052-8675-b3058a22d3d6"]
+---
