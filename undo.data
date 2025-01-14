@@ -160,3 +160,7 @@ new [description:"Watch lectures for 'Normal Boundary Value Testing'" due:"17368
 time 1736787909
 new [description:"Connected minds scholarship application" due:"1736805600" entry:"1736787909" modified:"1736787909" priority:"H" status:"pending" uuid:"1b87e4c2-d2e7-4265-9ee4-b4235a47d9fd"]
 ---
+time 1736816260
+old [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" due:"1737037800" entry:"1736749775" modified:"1736749845" project:"EECS4315" status:"pending" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
+new [description:"Ask if bridge controller model M1 needs to be a refinement of M0 or if they are completely independent models. If refinement, how does that work? If separate, what about invariants that reference variables from previous refinements?" due:"1737037800" end:"1736816260" entry:"1736749775" modified:"1736816260" project:"EECS4315" status:"completed" uuid:"6cde73a9-2a70-4797-9702-538557c4bcee"]
+---
