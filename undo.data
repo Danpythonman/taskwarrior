@@ -178,3 +178,7 @@ time 1737057026
 old [description:"Watch 'Other boundary value techniques' lecture video" due:"1737089940" entry:"1736893438" modified:"1736893438" project:"EECS4313" status:"pending" uuid:"8135acc5-fcb9-4052-8675-b3058a22d3d6"]
 new [description:"Watch 'Other boundary value techniques' lecture video" due:"1737089940" end:"1737057026" entry:"1736893438" modified:"1737057026" project:"EECS4313" status:"completed" uuid:"8135acc5-fcb9-4052-8675-b3058a22d3d6"]
 ---
+time 1737057043
+old [description:"Connected minds scholarship application" due:"1736805600" entry:"1736787909" modified:"1736787909" priority:"H" status:"pending" uuid:"1b87e4c2-d2e7-4265-9ee4-b4235a47d9fd"]
+new [description:"Connected minds scholarship application" due:"1736805600" end:"1737057041" entry:"1736787909" modified:"1737057043" priority:"H" status:"deleted" uuid:"1b87e4c2-d2e7-4265-9ee4-b4235a47d9fd"]
+---
