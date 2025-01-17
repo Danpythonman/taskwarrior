@@ -2,3 +2,5 @@
 [description:"Ask about how lab will be marked. Will TLC model checking be run? What if we have different variables (ex. the set 'Color' in m2)?" due:"1737039600" entry:"1736817043" modified:"1736817043" project:"EECS4315" status:"pending" uuid:"36883409-0067-46ad-9413-dc8ec2b785d6"]
 [description:"Java test case activity" entry:"1737066119" modified:"1737066119" project:"EECS4313" status:"pending" uuid:"1d004490-99db-4958-8b3a-9ed0332a9141"]
 [description:"Equivalence class testing 1" entry:"1737066150" modified:"1737066150" project:"EECS4313" status:"pending" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
+[description:"Research paper" due:"1738040340" entry:"1737091585" modified:"1737091585" project:"EECS4314" status:"pending" uuid:"3477c131-3fc7-4df1-8ba3-03689b452714"]
+[description:"Project proposal" due:"1738040340" entry:"1737092353" modified:"1737092353" project:"EECS4314" status:"pending" uuid:"9ce6225b-e986-4caa-a862-7a8ab0b3a805"]
