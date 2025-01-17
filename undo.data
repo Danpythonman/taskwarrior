@@ -182,3 +182,9 @@ time 1737057043
 old [description:"Connected minds scholarship application" due:"1736805600" entry:"1736787909" modified:"1736787909" priority:"H" status:"pending" uuid:"1b87e4c2-d2e7-4265-9ee4-b4235a47d9fd"]
 new [description:"Connected minds scholarship application" due:"1736805600" end:"1737057041" entry:"1736787909" modified:"1737057043" priority:"H" status:"deleted" uuid:"1b87e4c2-d2e7-4265-9ee4-b4235a47d9fd"]
 ---
+time 1737066119
+new [description:"Java test case activity" entry:"1737066119" modified:"1737066119" project:"EECS4313" status:"pending" uuid:"1d004490-99db-4958-8b3a-9ed0332a9141"]
+---
+time 1737066150
+new [description:"Equivalence class testing 1" entry:"1737066150" modified:"1737066150" project:"EECS4313" status:"pending" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
+---

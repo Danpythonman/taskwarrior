@@ -50,3 +50,5 @@
 {"description":"Watch 'Other boundary value techniques' lecture video","due":"20250117T045900Z","entry":"20250114T222358Z","modified":"20250114T222358Z","project":"EECS4313","status":"pending","uuid":"8135acc5-fcb9-4052-8675-b3058a22d3d6"}
 {"description":"Watch 'Other boundary value techniques' lecture video","due":"20250117T045900Z","end":"20250116T195026Z","entry":"20250114T222358Z","modified":"20250116T195026Z","project":"EECS4313","status":"completed","uuid":"8135acc5-fcb9-4052-8675-b3058a22d3d6"}
 {"description":"Connected minds scholarship application","due":"20250113T220000Z","end":"20250116T195041Z","entry":"20250113T170509Z","modified":"20250116T195043Z","priority":"H","status":"deleted","uuid":"1b87e4c2-d2e7-4265-9ee4-b4235a47d9fd"}
+{"description":"Java test case activity","entry":"20250116T222159Z","modified":"20250116T222159Z","project":"EECS4313","status":"pending","uuid":"1d004490-99db-4958-8b3a-9ed0332a9141"}
+{"description":"Equivalence class testing 1","entry":"20250116T222230Z","modified":"20250116T222230Z","project":"EECS4313","status":"pending","uuid":"674a507b-913d-4a68-b4a8-befec7ff88d8"}
