@@ -54,3 +54,5 @@
 {"description":"Equivalence class testing 1","entry":"20250116T222230Z","modified":"20250116T222230Z","project":"EECS4313","status":"pending","uuid":"674a507b-913d-4a68-b4a8-befec7ff88d8"}
 {"description":"Research paper","due":"20250128T045900Z","entry":"20250117T052625Z","modified":"20250117T052625Z","project":"EECS4314","status":"pending","uuid":"3477c131-3fc7-4df1-8ba3-03689b452714"}
 {"description":"Project proposal","due":"20250128T045900Z","entry":"20250117T053913Z","modified":"20250117T053913Z","project":"EECS4314","status":"pending","uuid":"9ce6225b-e986-4caa-a862-7a8ab0b3a805"}
+{"description":"PASS announcement","entry":"20250118T203500Z","modified":"20250118T203500Z","project":"PASS","status":"pending","uuid":"4c6745ad-7a45-4de3-b588-cc5691ce2a85"}
+{"description":"Prepare for lab 1","due":"20250124T165900Z","entry":"20250118T220137Z","modified":"20250118T220137Z","project":"ENG4550","status":"pending","uuid":"c1a3770b-e7f8-48fa-8680-08967c214d4d"}

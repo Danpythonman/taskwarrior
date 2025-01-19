@@ -194,3 +194,9 @@ new [description:"Research paper" due:"1738040340" entry:"1737091585" modified:"
 time 1737092353
 new [description:"Project proposal" due:"1738040340" entry:"1737092353" modified:"1737092353" project:"EECS4314" status:"pending" uuid:"9ce6225b-e986-4caa-a862-7a8ab0b3a805"]
 ---
+time 1737232500
+new [description:"PASS announcement" entry:"1737232500" modified:"1737232500" project:"PASS" status:"pending" uuid:"4c6745ad-7a45-4de3-b588-cc5691ce2a85"]
+---
+time 1737237697
+new [description:"Prepare for lab 1" due:"1737737940" entry:"1737237697" modified:"1737237697" project:"ENG4550" status:"pending" uuid:"c1a3770b-e7f8-48fa-8680-08967c214d4d"]
+---

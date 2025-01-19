@@ -4,3 +4,5 @@
 [description:"Equivalence class testing 1" entry:"1737066150" modified:"1737066150" project:"EECS4313" status:"pending" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
 [description:"Research paper" due:"1738040340" entry:"1737091585" modified:"1737091585" project:"EECS4314" status:"pending" uuid:"3477c131-3fc7-4df1-8ba3-03689b452714"]
 [description:"Project proposal" due:"1738040340" entry:"1737092353" modified:"1737092353" project:"EECS4314" status:"pending" uuid:"9ce6225b-e986-4caa-a862-7a8ab0b3a805"]
+[description:"PASS announcement" entry:"1737232500" modified:"1737232500" project:"PASS" status:"pending" uuid:"4c6745ad-7a45-4de3-b588-cc5691ce2a85"]
+[description:"Prepare for lab 1" due:"1737737940" entry:"1737237697" modified:"1737237697" project:"ENG4550" status:"pending" uuid:"c1a3770b-e7f8-48fa-8680-08967c214d4d"]
