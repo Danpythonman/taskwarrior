@@ -56,3 +56,9 @@
 {"description":"Project proposal","due":"20250128T045900Z","entry":"20250117T053913Z","modified":"20250117T053913Z","project":"EECS4314","status":"pending","uuid":"9ce6225b-e986-4caa-a862-7a8ab0b3a805"}
 {"description":"PASS announcement","entry":"20250118T203500Z","modified":"20250118T203500Z","project":"PASS","status":"pending","uuid":"4c6745ad-7a45-4de3-b588-cc5691ce2a85"}
 {"description":"Prepare for lab 1","due":"20250124T165900Z","entry":"20250118T220137Z","modified":"20250118T220137Z","project":"ENG4550","status":"pending","uuid":"c1a3770b-e7f8-48fa-8680-08967c214d4d"}
+{"description":"Prepare PASS session","due":"20250109T045900Z","entry":"20250119T211941Z","modified":"20250119T211941Z","project":"PASS","status":"pending","uuid":"43e66353-2fbc-4a0e-a4dc-26b380f54cd7"}
+{"description":"Prepare PASS session","due":"20250124T045900Z","entry":"20250119T211941Z","modified":"20250119T212013Z","project":"PASS","status":"pending","uuid":"43e66353-2fbc-4a0e-a4dc-26b380f54cd7"}
+{"description":"Prepare PASS session","due":"20250123T045900Z","entry":"20250119T211941Z","modified":"20250119T212034Z","project":"PASS","status":"pending","uuid":"43e66353-2fbc-4a0e-a4dc-26b380f54cd7"}
+{"description":"Finish presentation","due":"20250124T192900Z","entry":"20250119T214050Z","modified":"20250119T214050Z","project":"ENG4000","status":"pending","uuid":"ee64706d-7b0a-4855-a4b9-9a81d2bd5dc1"}
+{"description":"Peer review of presentations","due":"20250130T045900Z","entry":"20250119T214134Z","modified":"20250119T214134Z","project":"ENG4000","status":"pending","uuid":"291dec74-ce8f-429a-ab83-69b35b1fce9b"}
+{"description":"Reflect phase of peer review of presentations","due":"20250203T045900Z","entry":"20250119T214210Z","modified":"20250119T214210Z","project":"ENG4000","status":"pending","uuid":"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"}
