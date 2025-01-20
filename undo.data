@@ -220,3 +220,10 @@ new [description:"Peer review of presentations" due:"1738213140" entry:"17373228
 time 1737322930
 new [description:"Reflect phase of peer review of presentations" due:"1738558740" entry:"1737322930" modified:"1737322930" project:"ENG4000" status:"pending" uuid:"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"]
 ---
+time 1737329371
+old [description:"Prepare for lab 1" due:"1737737940" entry:"1737237697" modified:"1737237697" project:"ENG4550" status:"pending" uuid:"c1a3770b-e7f8-48fa-8680-08967c214d4d"]
+new [description:"Prepare for lab 1" due:"1737737940" end:"1737329371" entry:"1737237697" modified:"1737329371" project:"ENG4550" status:"completed" uuid:"c1a3770b-e7f8-48fa-8680-08967c214d4d"]
+---
+time 1737335946
+new [description:"Implement ground station pass constraint in scheduler" due:"1737349199" entry:"1737335946" modified:"1737335946" project:"ENG4000" status:"pending" uuid:"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"]
+---

@@ -62,3 +62,5 @@
 {"description":"Finish presentation","due":"20250124T192900Z","entry":"20250119T214050Z","modified":"20250119T214050Z","project":"ENG4000","status":"pending","uuid":"ee64706d-7b0a-4855-a4b9-9a81d2bd5dc1"}
 {"description":"Peer review of presentations","due":"20250130T045900Z","entry":"20250119T214134Z","modified":"20250119T214134Z","project":"ENG4000","status":"pending","uuid":"291dec74-ce8f-429a-ab83-69b35b1fce9b"}
 {"description":"Reflect phase of peer review of presentations","due":"20250203T045900Z","entry":"20250119T214210Z","modified":"20250119T214210Z","project":"ENG4000","status":"pending","uuid":"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"}
+{"description":"Prepare for lab 1","due":"20250124T165900Z","end":"20250119T232931Z","entry":"20250118T220137Z","modified":"20250119T232931Z","project":"ENG4550","status":"completed","uuid":"c1a3770b-e7f8-48fa-8680-08967c214d4d"}
+{"description":"Implement ground station pass constraint in scheduler","due":"20250120T045959Z","entry":"20250120T011906Z","modified":"20250120T011906Z","project":"ENG4000","status":"pending","uuid":"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"}
