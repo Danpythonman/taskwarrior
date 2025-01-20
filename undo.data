@@ -227,3 +227,18 @@ new [description:"Prepare for lab 1" due:"1737737940" end:"1737329371" entry:"17
 time 1737335946
 new [description:"Implement ground station pass constraint in scheduler" due:"1737349199" entry:"1737335946" modified:"1737335946" project:"ENG4000" status:"pending" uuid:"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"]
 ---
+time 1737391115
+old [description:"PASS announcement" entry:"1737232500" modified:"1737232500" project:"PASS" status:"pending" uuid:"4c6745ad-7a45-4de3-b588-cc5691ce2a85"]
+new [description:"PASS announcement" end:"1737391115" entry:"1737232500" modified:"1737391115" project:"PASS" status:"completed" uuid:"4c6745ad-7a45-4de3-b588-cc5691ce2a85"]
+---
+time 1737394223
+new [description:"Read event-based architecture section of textbook" due:"1737563340" entry:"1737394223" modified:"1737394223" project:"EECS4314" status:"pending" uuid:"ee424f5c-edf1-4031-b6cc-6eeebc255d7a"]
+---
+time 1737394509
+old [description:"Java test case activity" entry:"1737066119" modified:"1737066119" project:"EECS4313" status:"pending" uuid:"1d004490-99db-4958-8b3a-9ed0332a9141"]
+new [description:"Java test case activity" due:"1737493140" entry:"1737066119" modified:"1737394509" project:"EECS4313" status:"pending" uuid:"1d004490-99db-4958-8b3a-9ed0332a9141"]
+---
+time 1737394515
+old [description:"Equivalence class testing 1" entry:"1737066150" modified:"1737066150" project:"EECS4313" status:"pending" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
+new [description:"Equivalence class testing 1" due:"1737493140" entry:"1737066150" modified:"1737394515" project:"EECS4313" status:"pending" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
+---

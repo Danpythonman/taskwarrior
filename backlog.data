@@ -64,3 +64,7 @@
 {"description":"Reflect phase of peer review of presentations","due":"20250203T045900Z","entry":"20250119T214210Z","modified":"20250119T214210Z","project":"ENG4000","status":"pending","uuid":"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"}
 {"description":"Prepare for lab 1","due":"20250124T165900Z","end":"20250119T232931Z","entry":"20250118T220137Z","modified":"20250119T232931Z","project":"ENG4550","status":"completed","uuid":"c1a3770b-e7f8-48fa-8680-08967c214d4d"}
 {"description":"Implement ground station pass constraint in scheduler","due":"20250120T045959Z","entry":"20250120T011906Z","modified":"20250120T011906Z","project":"ENG4000","status":"pending","uuid":"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"}
+{"description":"PASS announcement","end":"20250120T163835Z","entry":"20250118T203500Z","modified":"20250120T163835Z","project":"PASS","status":"completed","uuid":"4c6745ad-7a45-4de3-b588-cc5691ce2a85"}
+{"description":"Read event-based architecture section of textbook","due":"20250122T162900Z","entry":"20250120T173023Z","modified":"20250120T173023Z","project":"EECS4314","status":"pending","uuid":"ee424f5c-edf1-4031-b6cc-6eeebc255d7a"}
+{"description":"Java test case activity","due":"20250121T205900Z","entry":"20250116T222159Z","modified":"20250120T173509Z","project":"EECS4313","status":"pending","uuid":"1d004490-99db-4958-8b3a-9ed0332a9141"}
+{"description":"Equivalence class testing 1","due":"20250121T205900Z","entry":"20250116T222230Z","modified":"20250120T173515Z","project":"EECS4313","status":"pending","uuid":"674a507b-913d-4a68-b4a8-befec7ff88d8"}
