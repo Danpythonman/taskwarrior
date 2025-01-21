@@ -242,3 +242,11 @@ time 1737394515
 old [description:"Equivalence class testing 1" entry:"1737066150" modified:"1737066150" project:"EECS4313" status:"pending" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
 new [description:"Equivalence class testing 1" due:"1737493140" entry:"1737066150" modified:"1737394515" project:"EECS4313" status:"pending" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
 ---
+time 1737436806
+old [description:"Ask about how lab will be marked. Will TLC model checking be run? What if we have different variables (ex. the set 'Color' in m2)?" due:"1737039600" entry:"1736817043" modified:"1736817043" project:"EECS4315" status:"pending" uuid:"36883409-0067-46ad-9413-dc8ec2b785d6"]
+new [description:"Ask about how lab will be marked. Will TLC model checking be run? What if we have different variables (ex. the set 'Color' in m2)?" due:"1737039600" end:"1737436806" entry:"1736817043" modified:"1737436806" project:"EECS4315" status:"completed" uuid:"36883409-0067-46ad-9413-dc8ec2b785d6"]
+---
+time 1737436812
+old [description:"Implement ground station pass constraint in scheduler" due:"1737349199" entry:"1737335946" modified:"1737335946" project:"ENG4000" status:"pending" uuid:"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"]
+new [description:"Implement ground station pass constraint in scheduler" due:"1737349199" end:"1737436812" entry:"1737335946" modified:"1737436812" project:"ENG4000" status:"completed" uuid:"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"]
+---

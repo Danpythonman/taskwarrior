@@ -1,3 +1,5 @@
+[description:"Implement ground station pass constraint in scheduler" due:"1737349199" end:"1737436812" entry:"1737335946" modified:"1737436812" project:"ENG4000" status:"completed" uuid:"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"]
+[description:"Ask about how lab will be marked. Will TLC model checking be run? What if we have different variables (ex. the set 'Color' in m2)?" due:"1737039600" end:"1737436806" entry:"1736817043" modified:"1737436806" project:"EECS4315" status:"completed" uuid:"36883409-0067-46ad-9413-dc8ec2b785d6"]
 [description:"PASS announcement" end:"1737391115" entry:"1737232500" modified:"1737391115" project:"PASS" status:"completed" uuid:"4c6745ad-7a45-4de3-b588-cc5691ce2a85"]
 [description:"Prepare for lab 1" due:"1737737940" end:"1737329371" entry:"1737237697" modified:"1737329371" project:"ENG4550" status:"completed" uuid:"c1a3770b-e7f8-48fa-8680-08967c214d4d"]
 [description:"Connected minds scholarship application" due:"1736805600" end:"1737057041" entry:"1736787909" modified:"1737057043" priority:"H" status:"deleted" uuid:"1b87e4c2-d2e7-4265-9ee4-b4235a47d9fd"]
