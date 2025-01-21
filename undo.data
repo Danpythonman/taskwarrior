@@ -250,3 +250,31 @@ time 1737436812
 old [description:"Implement ground station pass constraint in scheduler" due:"1737349199" entry:"1737335946" modified:"1737335946" project:"ENG4000" status:"pending" uuid:"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"]
 new [description:"Implement ground station pass constraint in scheduler" due:"1737349199" end:"1737436812" entry:"1737335946" modified:"1737436812" project:"ENG4000" status:"completed" uuid:"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"]
 ---
+time 1737485175
+new [description:"Copy missed lecture notes (from Tues Jan. 21)" due:"1737521999" entry:"1737485175" modified:"1737485175" project:"ENG4550" status:"pending" uuid:"d0e930e0-b831-4d9a-88f0-0e778f1f3d40"]
+---
+time 1737490392
+old [description:"Equivalence class testing 1" due:"1737493140" entry:"1737066150" modified:"1737394515" project:"EECS4313" status:"pending" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
+new [description:"Equivalence class testing 1" due:"1737493140" end:"1737490392" entry:"1737066150" modified:"1737490392" project:"EECS4313" status:"completed" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
+---
+time 1737491148
+old [description:"Java test case activity" due:"1737493140" entry:"1737066119" modified:"1737394509" project:"EECS4313" status:"pending" uuid:"1d004490-99db-4958-8b3a-9ed0332a9141"]
+new [description:"Java test case activity" due:"1737493140" end:"1737491148" entry:"1737066119" modified:"1737491148" project:"EECS4313" status:"completed" uuid:"1d004490-99db-4958-8b3a-9ed0332a9141"]
+---
+time 1737492123
+old [description:"Lab 1 submission" due:"1737694740" entry:"1736360226" modified:"1736360226" project:"EECS4315" status:"pending" uuid:"d5892cd3-e008-4b01-a767-b227865f0299"]
+new [description:"Lab 1 submission" due:"1737694740" end:"1737492123" entry:"1736360226" modified:"1737492123" project:"EECS4315" status:"completed" uuid:"d5892cd3-e008-4b01-a767-b227865f0299"]
+---
+time 1737494498
+new [description:"Make video for CSA showing algorithm" due:"1737521999" entry:"1737494498" modified:"1737494498" project:"ENG4000" status:"pending" uuid:"878baa59-7f98-454b-b888-7d4ede3affc0"]
+---
+time 1737498978
+new [description:"Watch equivalence class testing 2 videos" due:"1737662340" entry:"1737498978" modified:"1737498978" project:"EECS4313" status:"pending" uuid:"ad10e046-da07-4bf3-9dfb-daccd710cd03"]
+---
+time 1737499895
+new [description:"Quiz 1" due:"1737781140" entry:"1737499895" modified:"1737499895" project:"EECS4314" status:"pending" uuid:"62d1b2f3-c2a8-4d2b-b51c-8c8cf91ccb6e"]
+---
+time 1737500074
+old [description:"Research paper" due:"1738040340" entry:"1737091585" modified:"1737091585" project:"EECS4314" status:"pending" uuid:"3477c131-3fc7-4df1-8ba3-03689b452714"]
+new [description:"Research paper" due:"1738040340" end:"1737500074" entry:"1737091585" modified:"1737500074" project:"EECS4314" status:"completed" uuid:"3477c131-3fc7-4df1-8ba3-03689b452714"]
+---

@@ -1,3 +1,7 @@
+[description:"Research paper" due:"1738040340" end:"1737500074" entry:"1737091585" modified:"1737500074" project:"EECS4314" status:"completed" uuid:"3477c131-3fc7-4df1-8ba3-03689b452714"]
+[description:"Lab 1 submission" due:"1737694740" end:"1737492123" entry:"1736360226" modified:"1737492123" project:"EECS4315" status:"completed" uuid:"d5892cd3-e008-4b01-a767-b227865f0299"]
+[description:"Java test case activity" due:"1737493140" end:"1737491148" entry:"1737066119" modified:"1737491148" project:"EECS4313" status:"completed" uuid:"1d004490-99db-4958-8b3a-9ed0332a9141"]
+[description:"Equivalence class testing 1" due:"1737493140" end:"1737490392" entry:"1737066150" modified:"1737490392" project:"EECS4313" status:"completed" uuid:"674a507b-913d-4a68-b4a8-befec7ff88d8"]
 [description:"Implement ground station pass constraint in scheduler" due:"1737349199" end:"1737436812" entry:"1737335946" modified:"1737436812" project:"ENG4000" status:"completed" uuid:"bcffd42b-7ce5-4dbd-a37e-1f288a6feac8"]
 [description:"Ask about how lab will be marked. Will TLC model checking be run? What if we have different variables (ex. the set 'Color' in m2)?" due:"1737039600" end:"1737436806" entry:"1736817043" modified:"1737436806" project:"EECS4315" status:"completed" uuid:"36883409-0067-46ad-9413-dc8ec2b785d6"]
 [description:"PASS announcement" end:"1737391115" entry:"1737232500" modified:"1737391115" project:"PASS" status:"completed" uuid:"4c6745ad-7a45-4de3-b588-cc5691ce2a85"]
