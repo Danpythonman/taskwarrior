@@ -299,3 +299,7 @@ new [description:"test" end:"1737595492" entry:"1737595377" modified:"1737595494
 time 1737596668
 new [description:"test" entry:"1737596668" modified:"1737596668" status:"pending" uuid:"d26148ae-8f08-446f-a42d-61c889f9f77c"]
 ---
+time 1737597224
+old [description:"test" entry:"1737596668" modified:"1737596668" status:"pending" uuid:"d26148ae-8f08-446f-a42d-61c889f9f77c"]
+new [description:"test" end:"1737597220" entry:"1737596668" modified:"1737597224" status:"deleted" uuid:"d26148ae-8f08-446f-a42d-61c889f9f77c"]
+---
