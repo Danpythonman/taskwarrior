@@ -307,3 +307,9 @@ time 1737599449
 old [description:"Review missed lecture" due:"1737608399" entry:"1737569577" modified:"1737569577" project:"EECS4314" status:"pending" uuid:"fda6cb3a-a347-43ec-87a1-654eec938c47"]
 new [description:"Review missed lecture" due:"1737608399" end:"1737599449" entry:"1737569577" modified:"1737599449" project:"EECS4314" status:"completed" uuid:"fda6cb3a-a347-43ec-87a1-654eec938c47"]
 ---
+time 1737667408
+new [description:"Watch equivalence class testing 3 video" due:"1738097940" entry:"1737667408" modified:"1737667408" project:"EECS4313" status:"pending" uuid:"686a4c78-f04b-49f3-a968-131cc2076dc6"]
+---
+time 1737667458
+new [description:"Prepare pass session (Gauss Law, electric potential, maybe more integrals)" due:"1738265340" entry:"1737667458" modified:"1737667458" project:"PASS" status:"pending" uuid:"098ea1ce-c8f0-4856-89fe-4ecc750d083c"]
+---
