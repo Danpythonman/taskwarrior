@@ -81,3 +81,4 @@
 {"description":"Review missed lecture","due":"20250123T045959Z","entry":"20250122T181257Z","modified":"20250122T181257Z","project":"EECS4314","status":"pending","uuid":"fda6cb3a-a347-43ec-87a1-654eec938c47"}
 {"description":"Prepare PASS session","due":"20250123T045900Z","end":"20250122T230833Z","entry":"20250119T211941Z","modified":"20250122T230833Z","project":"PASS","status":"completed","uuid":"43e66353-2fbc-4a0e-a4dc-26b380f54cd7"}
 {"description":"Read event-based architecture section of textbook","due":"20250122T162900Z","end":"20250123T000348Z","entry":"20250120T173023Z","modified":"20250123T000348Z","project":"EECS4314","status":"completed","uuid":"ee424f5c-edf1-4031-b6cc-6eeebc255d7a"}
+{"description":"test","entry":"20250123T012257Z","modified":"20250123T012257Z","status":"pending","uuid":"3623e4d7-075c-4d8e-afd5-53f826f5ad18"}
