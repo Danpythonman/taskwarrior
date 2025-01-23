@@ -71,7 +71,7 @@
         function renderTasks(tasks) {
             const taskList = document.getElementById('task-list');
             tasks
-                .sort((a, b) => a.urgency - b.urgency)
+                .sort((a, b) => b.urgency - a.urgency)
                 .forEach(task => {
                     const taskElement = document.createElement('div');
                     taskElement.className = 'task';
