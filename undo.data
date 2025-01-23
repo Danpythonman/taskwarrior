@@ -303,3 +303,7 @@ time 1737597224
 old [description:"test" entry:"1737596668" modified:"1737596668" status:"pending" uuid:"d26148ae-8f08-446f-a42d-61c889f9f77c"]
 new [description:"test" end:"1737597220" entry:"1737596668" modified:"1737597224" status:"deleted" uuid:"d26148ae-8f08-446f-a42d-61c889f9f77c"]
 ---
+time 1737599449
+old [description:"Review missed lecture" due:"1737608399" entry:"1737569577" modified:"1737569577" project:"EECS4314" status:"pending" uuid:"fda6cb3a-a347-43ec-87a1-654eec938c47"]
+new [description:"Review missed lecture" due:"1737608399" end:"1737599449" entry:"1737569577" modified:"1737599449" project:"EECS4314" status:"completed" uuid:"fda6cb3a-a347-43ec-87a1-654eec938c47"]
+---

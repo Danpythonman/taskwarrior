@@ -85,3 +85,4 @@
 {"description":"test","end":"20250123T012452Z","entry":"20250123T012257Z","modified":"20250123T012454Z","status":"deleted","uuid":"3623e4d7-075c-4d8e-afd5-53f826f5ad18"}
 {"description":"test","entry":"20250123T014428Z","modified":"20250123T014428Z","status":"pending","uuid":"d26148ae-8f08-446f-a42d-61c889f9f77c"}
 {"description":"test","end":"20250123T015340Z","entry":"20250123T014428Z","modified":"20250123T015344Z","status":"deleted","uuid":"d26148ae-8f08-446f-a42d-61c889f9f77c"}
+{"description":"Review missed lecture","due":"20250123T045959Z","end":"20250123T023049Z","entry":"20250122T181257Z","modified":"20250123T023049Z","project":"EECS4314","status":"completed","uuid":"fda6cb3a-a347-43ec-87a1-654eec938c47"}
