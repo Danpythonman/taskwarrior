@@ -70,37 +70,46 @@
         // Function to render tasks
         function renderTasks(tasks) {
             const taskList = document.getElementById('task-list');
-            tasks.forEach(task => {
-                const taskElement = document.createElement('div');
-                taskElement.className = 'task';
+            tasks
+                .sort((a, b) => a.urgency - b.urgency)
+                .forEach(task => {
+                    const taskElement = document.createElement('div');
+                    taskElement.className = 'task';
 
-                taskElement.innerHTML = `
-                    <div class="task-details">
-                        <h3>${task.description}</h3>
-                        <p><strong>Due:</strong> ${formatDate(task.due)}</p>
-                        <p><strong>Project:</strong> ${task.project}</p>
-                        <p><strong>Status:</strong> ${task.status}</p>
-                    </div>
-                    <div class="urgency">
-                        Urgency: ${task.urgency.toFixed(2)}
-                    </div>
-                `;
+                    taskElement.innerHTML = `
+                        <div class="task-details">
+                            <h3>${task.description}</h3>
+                            <p><strong>Due:</strong> ${formatDate(task.due)}</p>
+                            <p><strong>Project:</strong> ${task.project}</p>
+                            <p><strong>Status:</strong> ${task.status}</p>
+                        </div>
+                        <div class="urgency">
+                            Urgency: ${task.urgency.toFixed(2)}
+                        </div>
+                    `;
 
-                taskList.appendChild(taskElement);
-            });
+                    taskList.appendChild(taskElement);
+                }
+            );
         }
 
         // Fetch tasks from an API
         async function fetchTasks() {
             try {
-                const response = await fetch('https://task.danieldigiovanni.com/tasks.json'); // Replace with your API URL
+                const response = await fetch(
+                    'https://task.danieldigiovanni.com/tasks.json'
+                );
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
                 }
                 const tasks = await response.json();
                 renderTasks(tasks);
             } catch (error) {
-                console.error('There was a problem with the fetch operation:', error);
+                alert(error)
+                console.error(
+                    'There was a problem with the fetch operation:',
+                    error
+                );
             }
         }
 
