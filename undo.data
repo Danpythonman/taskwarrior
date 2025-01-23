@@ -278,3 +278,14 @@ time 1737500074
 old [description:"Research paper" due:"1738040340" entry:"1737091585" modified:"1737091585" project:"EECS4314" status:"pending" uuid:"3477c131-3fc7-4df1-8ba3-03689b452714"]
 new [description:"Research paper" due:"1738040340" end:"1737500074" entry:"1737091585" modified:"1737500074" project:"EECS4314" status:"completed" uuid:"3477c131-3fc7-4df1-8ba3-03689b452714"]
 ---
+time 1737569577
+new [description:"Review missed lecture" due:"1737608399" entry:"1737569577" modified:"1737569577" project:"EECS4314" status:"pending" uuid:"fda6cb3a-a347-43ec-87a1-654eec938c47"]
+---
+time 1737587313
+old [description:"Prepare PASS session" due:"1737608340" entry:"1737321581" modified:"1737321634" project:"PASS" status:"pending" uuid:"43e66353-2fbc-4a0e-a4dc-26b380f54cd7"]
+new [description:"Prepare PASS session" due:"1737608340" end:"1737587313" entry:"1737321581" modified:"1737587313" project:"PASS" status:"completed" uuid:"43e66353-2fbc-4a0e-a4dc-26b380f54cd7"]
+---
+time 1737590628
+old [description:"Read event-based architecture section of textbook" due:"1737563340" entry:"1737394223" modified:"1737394223" project:"EECS4314" status:"pending" uuid:"ee424f5c-edf1-4031-b6cc-6eeebc255d7a"]
+new [description:"Read event-based architecture section of textbook" due:"1737563340" end:"1737590628" entry:"1737394223" modified:"1737590628" project:"EECS4314" status:"completed" uuid:"ee424f5c-edf1-4031-b6cc-6eeebc255d7a"]
+---
