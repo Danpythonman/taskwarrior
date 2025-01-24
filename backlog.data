@@ -88,3 +88,4 @@
 {"description":"Review missed lecture","due":"20250123T045959Z","end":"20250123T023049Z","entry":"20250122T181257Z","modified":"20250123T023049Z","project":"EECS4314","status":"completed","uuid":"fda6cb3a-a347-43ec-87a1-654eec938c47"}
 {"description":"Watch equivalence class testing 3 video","due":"20250128T205900Z","entry":"20250123T212328Z","modified":"20250123T212328Z","project":"EECS4313","status":"pending","uuid":"686a4c78-f04b-49f3-a968-131cc2076dc6"}
 {"description":"Prepare pass session (Gauss Law, electric potential, maybe more integrals)","due":"20250130T192900Z","entry":"20250123T212418Z","modified":"20250123T212418Z","project":"PASS","status":"pending","uuid":"098ea1ce-c8f0-4856-89fe-4ecc750d083c"}
+{"description":"Watch equivalence class testing 2 videos","due":"20250123T195900Z","end":"20250124T051311Z","entry":"20250121T223618Z","modified":"20250124T051311Z","project":"EECS4313","status":"completed","uuid":"ad10e046-da07-4bf3-9dfb-daccd710cd03"}

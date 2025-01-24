@@ -313,3 +313,7 @@ new [description:"Watch equivalence class testing 3 video" due:"1738097940" entr
 time 1737667458
 new [description:"Prepare pass session (Gauss Law, electric potential, maybe more integrals)" due:"1738265340" entry:"1737667458" modified:"1737667458" project:"PASS" status:"pending" uuid:"098ea1ce-c8f0-4856-89fe-4ecc750d083c"]
 ---
+time 1737695591
+old [description:"Watch equivalence class testing 2 videos" due:"1737662340" entry:"1737498978" modified:"1737498978" project:"EECS4313" status:"pending" uuid:"ad10e046-da07-4bf3-9dfb-daccd710cd03"]
+new [description:"Watch equivalence class testing 2 videos" due:"1737662340" end:"1737695591" entry:"1737498978" modified:"1737695591" project:"EECS4313" status:"completed" uuid:"ad10e046-da07-4bf3-9dfb-daccd710cd03"]
+---

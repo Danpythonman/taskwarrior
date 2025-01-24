@@ -4,7 +4,6 @@
 [description:"Reflect phase of peer review of presentations" due:"1738558740" entry:"1737322930" modified:"1737322930" project:"ENG4000" status:"pending" uuid:"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"]
 [description:"Copy missed lecture notes (from Tues Jan. 21)" due:"1737521999" entry:"1737485175" modified:"1737485175" project:"ENG4550" status:"pending" uuid:"d0e930e0-b831-4d9a-88f0-0e778f1f3d40"]
 [description:"Make video for CSA showing algorithm" due:"1737521999" entry:"1737494498" modified:"1737494498" project:"ENG4000" status:"pending" uuid:"878baa59-7f98-454b-b888-7d4ede3affc0"]
-[description:"Watch equivalence class testing 2 videos" due:"1737662340" entry:"1737498978" modified:"1737498978" project:"EECS4313" status:"pending" uuid:"ad10e046-da07-4bf3-9dfb-daccd710cd03"]
 [description:"Quiz 1" due:"1737781140" entry:"1737499895" modified:"1737499895" project:"EECS4314" status:"pending" uuid:"62d1b2f3-c2a8-4d2b-b51c-8c8cf91ccb6e"]
 [description:"Watch equivalence class testing 3 video" due:"1738097940" entry:"1737667408" modified:"1737667408" project:"EECS4313" status:"pending" uuid:"686a4c78-f04b-49f3-a968-131cc2076dc6"]
 [description:"Prepare pass session (Gauss Law, electric potential, maybe more integrals)" due:"1738265340" entry:"1737667458" modified:"1737667458" project:"PASS" status:"pending" uuid:"098ea1ce-c8f0-4856-89fe-4ecc750d083c"]
