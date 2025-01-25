@@ -317,3 +317,15 @@ time 1737695591
 old [description:"Watch equivalence class testing 2 videos" due:"1737662340" entry:"1737498978" modified:"1737498978" project:"EECS4313" status:"pending" uuid:"ad10e046-da07-4bf3-9dfb-daccd710cd03"]
 new [description:"Watch equivalence class testing 2 videos" due:"1737662340" end:"1737695591" entry:"1737498978" modified:"1737695591" project:"EECS4313" status:"completed" uuid:"ad10e046-da07-4bf3-9dfb-daccd710cd03"]
 ---
+time 1737743864
+old [description:"Quiz 1" due:"1737781140" entry:"1737499895" modified:"1737499895" project:"EECS4314" status:"pending" uuid:"62d1b2f3-c2a8-4d2b-b51c-8c8cf91ccb6e"]
+new [description:"Quiz 1" due:"1737781140" end:"1737743864" entry:"1737499895" modified:"1737743864" project:"EECS4314" status:"completed" uuid:"62d1b2f3-c2a8-4d2b-b51c-8c8cf91ccb6e"]
+---
+time 1737745993
+old [description:"Finish presentation" due:"1737746940" entry:"1737322850" modified:"1737322850" project:"ENG4000" status:"pending" uuid:"ee64706d-7b0a-4855-a4b9-9a81d2bd5dc1"]
+new [description:"Finish presentation" due:"1737746940" end:"1737745993" entry:"1737322850" modified:"1737745993" project:"ENG4000" status:"completed" uuid:"ee64706d-7b0a-4855-a4b9-9a81d2bd5dc1"]
+---
+time 1737759460
+old [description:"Peer review of presentations" due:"1738213140" entry:"1737322894" modified:"1737322894" project:"ENG4000" status:"pending" uuid:"291dec74-ce8f-429a-ab83-69b35b1fce9b"]
+new [description:"Peer review of presentations" due:"1738213140" end:"1737759460" entry:"1737322894" modified:"1737759460" project:"ENG4000" status:"completed" uuid:"291dec74-ce8f-429a-ab83-69b35b1fce9b"]
+---
