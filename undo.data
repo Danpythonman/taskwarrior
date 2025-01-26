@@ -333,3 +333,7 @@ time 1737853340
 old [description:"Copy missed lecture notes (from Tues Jan. 21)" due:"1737521999" entry:"1737485175" modified:"1737485175" project:"ENG4550" status:"pending" uuid:"d0e930e0-b831-4d9a-88f0-0e778f1f3d40"]
 new [description:"Copy missed lecture notes (from Tues Jan. 21)" due:"1737521999" end:"1737853340" entry:"1737485175" modified:"1737853340" project:"ENG4550" status:"completed" uuid:"d0e930e0-b831-4d9a-88f0-0e778f1f3d40"]
 ---
+time 1737933622
+old [description:"Make video for CSA showing algorithm" due:"1737521999" entry:"1737494498" modified:"1737494498" project:"ENG4000" status:"pending" uuid:"878baa59-7f98-454b-b888-7d4ede3affc0"]
+new [description:"Make video for CSA showing algorithm" due:"1737521999" end:"1737933622" entry:"1737494498" modified:"1737933622" project:"ENG4000" status:"completed" uuid:"878baa59-7f98-454b-b888-7d4ede3affc0"]
+---

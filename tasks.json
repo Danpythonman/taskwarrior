@@ -1,7 +1,6 @@
 [
-{"id":1,"description":"Project proposal","due":"20250128T045900Z","entry":"20250117T053913Z","modified":"20250117T053913Z","project":"EECS4314","status":"pending","uuid":"9ce6225b-e986-4caa-a862-7a8ab0b3a805","urgency":8.86989},
-{"id":2,"description":"Reflect phase of peer review of presentations","due":"20250203T045900Z","entry":"20250119T214210Z","modified":"20250119T214210Z","project":"ENG4000","status":"pending","uuid":"3fc8daf3-3be6-4461-b48f-e2642c51fc0b","urgency":6.11608},
-{"id":3,"description":"Make video for CSA showing algorithm","due":"20250122T045959Z","entry":"20250121T212138Z","modified":"20250121T212138Z","project":"ENG4000","status":"pending","uuid":"878baa59-7f98-454b-b888-7d4ede3affc0","urgency":11.5905},
-{"id":4,"description":"Watch equivalence class testing 3 video","due":"20250128T205900Z","entry":"20250123T212328Z","modified":"20250123T212328Z","project":"EECS4313","status":"pending","uuid":"686a4c78-f04b-49f3-a968-131cc2076dc6","urgency":8.53225},
-{"id":5,"description":"Prepare pass session (Gauss Law, electric potential, maybe more integrals)","due":"20250130T192900Z","entry":"20250123T212418Z","modified":"20250123T212418Z","project":"PASS","status":"pending","uuid":"098ea1ce-c8f0-4856-89fe-4ecc750d083c","urgency":7.64654}
+{"id":1,"description":"Project proposal","due":"20250128T045900Z","entry":"20250117T053913Z","modified":"20250117T053913Z","project":"EECS4314","status":"pending","uuid":"9ce6225b-e986-4caa-a862-7a8ab0b3a805","urgency":9.29002},
+{"id":2,"description":"Reflect phase of peer review of presentations","due":"20250203T045900Z","entry":"20250119T214210Z","modified":"20250119T214210Z","project":"ENG4000","status":"pending","uuid":"3fc8daf3-3be6-4461-b48f-e2642c51fc0b","urgency":6.53621},
+{"id":3,"description":"Watch equivalence class testing 3 video","due":"20250128T205900Z","entry":"20250123T212328Z","modified":"20250123T212328Z","project":"EECS4313","status":"pending","uuid":"686a4c78-f04b-49f3-a968-131cc2076dc6","urgency":8.95239},
+{"id":4,"description":"Prepare pass session (Gauss Law, electric potential, maybe more integrals)","due":"20250130T192900Z","entry":"20250123T212418Z","modified":"20250123T212418Z","project":"PASS","status":"pending","uuid":"098ea1ce-c8f0-4856-89fe-4ecc750d083c","urgency":8.06667}
 ]
