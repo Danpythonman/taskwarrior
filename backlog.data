@@ -92,3 +92,4 @@
 {"description":"Quiz 1","due":"20250125T045900Z","end":"20250124T183744Z","entry":"20250121T225135Z","modified":"20250124T183744Z","project":"EECS4314","status":"completed","uuid":"62d1b2f3-c2a8-4d2b-b51c-8c8cf91ccb6e"}
 {"description":"Finish presentation","due":"20250124T192900Z","end":"20250124T191313Z","entry":"20250119T214050Z","modified":"20250124T191313Z","project":"ENG4000","status":"completed","uuid":"ee64706d-7b0a-4855-a4b9-9a81d2bd5dc1"}
 {"description":"Peer review of presentations","due":"20250130T045900Z","end":"20250124T225740Z","entry":"20250119T214134Z","modified":"20250124T225740Z","project":"ENG4000","status":"completed","uuid":"291dec74-ce8f-429a-ab83-69b35b1fce9b"}
+{"description":"Copy missed lecture notes (from Tues Jan. 21)","due":"20250122T045959Z","end":"20250126T010220Z","entry":"20250121T184615Z","modified":"20250126T010220Z","project":"ENG4550","status":"completed","uuid":"d0e930e0-b831-4d9a-88f0-0e778f1f3d40"}

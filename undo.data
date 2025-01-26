@@ -329,3 +329,7 @@ time 1737759460
 old [description:"Peer review of presentations" due:"1738213140" entry:"1737322894" modified:"1737322894" project:"ENG4000" status:"pending" uuid:"291dec74-ce8f-429a-ab83-69b35b1fce9b"]
 new [description:"Peer review of presentations" due:"1738213140" end:"1737759460" entry:"1737322894" modified:"1737759460" project:"ENG4000" status:"completed" uuid:"291dec74-ce8f-429a-ab83-69b35b1fce9b"]
 ---
+time 1737853340
+old [description:"Copy missed lecture notes (from Tues Jan. 21)" due:"1737521999" entry:"1737485175" modified:"1737485175" project:"ENG4550" status:"pending" uuid:"d0e930e0-b831-4d9a-88f0-0e778f1f3d40"]
+new [description:"Copy missed lecture notes (from Tues Jan. 21)" due:"1737521999" end:"1737853340" entry:"1737485175" modified:"1737853340" project:"ENG4550" status:"completed" uuid:"d0e930e0-b831-4d9a-88f0-0e778f1f3d40"]
+---
