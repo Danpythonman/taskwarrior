@@ -94,3 +94,4 @@
 {"description":"Peer review of presentations","due":"20250130T045900Z","end":"20250124T225740Z","entry":"20250119T214134Z","modified":"20250124T225740Z","project":"ENG4000","status":"completed","uuid":"291dec74-ce8f-429a-ab83-69b35b1fce9b"}
 {"description":"Copy missed lecture notes (from Tues Jan. 21)","due":"20250122T045959Z","end":"20250126T010220Z","entry":"20250121T184615Z","modified":"20250126T010220Z","project":"ENG4550","status":"completed","uuid":"d0e930e0-b831-4d9a-88f0-0e778f1f3d40"}
 {"description":"Make video for CSA showing algorithm","due":"20250122T045959Z","end":"20250126T232022Z","entry":"20250121T212138Z","modified":"20250126T232022Z","project":"ENG4000","status":"completed","uuid":"878baa59-7f98-454b-b888-7d4ede3affc0"}
+{"description":"Lab 2","due":"20250207T045900Z","entry":"20250127T031044Z","modified":"20250127T031044Z","project":"EECS4315","status":"pending","uuid":"018cccf9-4f49-4211-8885-8a92e7151e90"}

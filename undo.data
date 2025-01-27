@@ -337,3 +337,6 @@ time 1737933622
 old [description:"Make video for CSA showing algorithm" due:"1737521999" entry:"1737494498" modified:"1737494498" project:"ENG4000" status:"pending" uuid:"878baa59-7f98-454b-b888-7d4ede3affc0"]
 new [description:"Make video for CSA showing algorithm" due:"1737521999" end:"1737933622" entry:"1737494498" modified:"1737933622" project:"ENG4000" status:"completed" uuid:"878baa59-7f98-454b-b888-7d4ede3affc0"]
 ---
+time 1737947444
+new [description:"Lab 2" due:"1738904340" entry:"1737947444" modified:"1737947444" project:"EECS4315" status:"pending" uuid:"018cccf9-4f49-4211-8885-8a92e7151e90"]
+---
