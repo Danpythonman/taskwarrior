@@ -340,3 +340,16 @@ new [description:"Make video for CSA showing algorithm" due:"1737521999" end:"17
 time 1737947444
 new [description:"Lab 2" due:"1738904340" entry:"1737947444" modified:"1737947444" project:"EECS4315" status:"pending" uuid:"018cccf9-4f49-4211-8885-8a92e7151e90"]
 ---
+time 1737985834
+new [description:"Fill in hours for last week" due:"1738040399" entry:"1737985834" modified:"1737985834" project:"PASS" status:"pending" uuid:"4a298bc3-f00a-4fc3-a35d-4a4366575bc0"]
+---
+time 1737993886
+new [description:"Clean up code and commit changes (rate limiter edges)." due:"1738040399" entry:"1737993886" modified:"1737993886" project:"ENG4000" status:"pending" uuid:"b5fdcc74-c3cb-445f-87b2-865d514cbe1a"]
+---
+time 1737993923
+new [description:"Update ground station pass functionality to consider data rates." due:"1738040400" entry:"1737993923" modified:"1737993923" project:"ENG4000" status:"pending" uuid:"c2857cf1-c4bf-4635-a707-685fab9debcd"]
+---
+time 1737993935
+old [description:"Fill in hours for last week" due:"1738040399" entry:"1737985834" modified:"1737985834" project:"PASS" status:"pending" uuid:"4a298bc3-f00a-4fc3-a35d-4a4366575bc0"]
+new [description:"Fill in hours for last week" due:"1738040399" end:"1737993935" entry:"1737985834" modified:"1737993935" project:"PASS" status:"completed" uuid:"4a298bc3-f00a-4fc3-a35d-4a4366575bc0"]
+---
