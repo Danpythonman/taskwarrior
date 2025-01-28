@@ -1,7 +1,5 @@
-[description:"Project proposal" due:"1738040340" entry:"1737092353" modified:"1737092353" project:"EECS4314" status:"pending" uuid:"9ce6225b-e986-4caa-a862-7a8ab0b3a805"]
 [description:"Reflect phase of peer review of presentations" due:"1738558740" entry:"1737322930" modified:"1737322930" project:"ENG4000" status:"pending" uuid:"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"]
 [description:"Watch equivalence class testing 3 video" due:"1738097940" entry:"1737667408" modified:"1737667408" project:"EECS4313" status:"pending" uuid:"686a4c78-f04b-49f3-a968-131cc2076dc6"]
 [description:"Prepare pass session (Gauss Law, electric potential, maybe more integrals)" due:"1738265340" entry:"1737667458" modified:"1737667458" project:"PASS" status:"pending" uuid:"098ea1ce-c8f0-4856-89fe-4ecc750d083c"]
 [description:"Lab 2" due:"1738904340" entry:"1737947444" modified:"1737947444" project:"EECS4315" status:"pending" uuid:"018cccf9-4f49-4211-8885-8a92e7151e90"]
-[description:"Clean up code and commit changes (rate limiter edges)." due:"1738040399" entry:"1737993886" modified:"1737993886" project:"ENG4000" status:"pending" uuid:"b5fdcc74-c3cb-445f-87b2-865d514cbe1a"]
 [description:"Update ground station pass functionality to consider data rates." due:"1738040400" entry:"1737993923" modified:"1737993923" project:"ENG4000" status:"pending" uuid:"c2857cf1-c4bf-4635-a707-685fab9debcd"]
