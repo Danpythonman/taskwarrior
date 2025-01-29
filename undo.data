@@ -366,3 +366,10 @@ time 1738096820
 new [description:"Assignment 1" due:"1738731540" entry:"1738096820" modified:"1738096820" project:"ENG4550" status:"pending" uuid:"0fd979b4-af62-4e73-8eec-88fe0d04f714"]
 >>>>>>> b19438208bf9ed409262a9931a203074acaff267
 ---
+time 1738126347
+old [description:"Watch equivalence class testing 3 video" due:"1738097940" entry:"1737667408" modified:"1737667408" project:"EECS4313" status:"pending" uuid:"686a4c78-f04b-49f3-a968-131cc2076dc6"]
+new [description:"Watch equivalence class testing 3 video" due:"1738097940" end:"1738126347" entry:"1737667408" modified:"1738126347" project:"EECS4313" status:"completed" uuid:"686a4c78-f04b-49f3-a968-131cc2076dc6"]
+---
+time 1738126395
+new [description:"Watch decision table video" due:"1738267140" entry:"1738126395" modified:"1738126395" project:"EECS4313" status:"pending" uuid:"6de33861-eeeb-4a14-862b-5e2e250e085e"]
+---

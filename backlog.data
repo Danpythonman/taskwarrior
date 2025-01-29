@@ -105,3 +105,5 @@
 =======
 {"description":"Assignment 1","due":"20250205T045900Z","entry":"20250128T204020Z","modified":"20250128T204020Z","project":"ENG4550","status":"pending","uuid":"0fd979b4-af62-4e73-8eec-88fe0d04f714"}
 >>>>>>> b19438208bf9ed409262a9931a203074acaff267
+{"description":"Watch equivalence class testing 3 video","due":"20250128T205900Z","end":"20250129T045227Z","entry":"20250123T212328Z","modified":"20250129T045227Z","project":"EECS4313","status":"completed","uuid":"686a4c78-f04b-49f3-a968-131cc2076dc6"}
+{"description":"Watch decision table video","due":"20250130T195900Z","entry":"20250129T045315Z","modified":"20250129T045315Z","project":"EECS4313","status":"pending","uuid":"6de33861-eeeb-4a14-862b-5e2e250e085e"}
