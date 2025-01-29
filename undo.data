@@ -353,3 +353,6 @@ time 1737993935
 old [description:"Fill in hours for last week" due:"1738040399" entry:"1737985834" modified:"1737985834" project:"PASS" status:"pending" uuid:"4a298bc3-f00a-4fc3-a35d-4a4366575bc0"]
 new [description:"Fill in hours for last week" due:"1738040399" end:"1737993935" entry:"1737985834" modified:"1737993935" project:"PASS" status:"completed" uuid:"4a298bc3-f00a-4fc3-a35d-4a4366575bc0"]
 ---
+time 1738096820
+new [description:"Assignment 1" due:"1738731540" entry:"1738096820" modified:"1738096820" project:"ENG4550" status:"pending" uuid:"0fd979b4-af62-4e73-8eec-88fe0d04f714"]
+---

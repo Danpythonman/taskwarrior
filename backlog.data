@@ -99,3 +99,4 @@
 {"description":"Clean up code and commit changes (rate limiter edges).","due":"20250128T045959Z","entry":"20250127T160446Z","modified":"20250127T160446Z","project":"ENG4000","status":"pending","uuid":"b5fdcc74-c3cb-445f-87b2-865d514cbe1a"}
 {"description":"Update ground station pass functionality to consider data rates.","due":"20250128T050000Z","entry":"20250127T160523Z","modified":"20250127T160523Z","project":"ENG4000","status":"pending","uuid":"c2857cf1-c4bf-4635-a707-685fab9debcd"}
 {"description":"Fill in hours for last week","due":"20250128T045959Z","end":"20250127T160535Z","entry":"20250127T135034Z","modified":"20250127T160535Z","project":"PASS","status":"completed","uuid":"4a298bc3-f00a-4fc3-a35d-4a4366575bc0"}
+{"description":"Assignment 1","due":"20250205T045900Z","entry":"20250128T204020Z","modified":"20250128T204020Z","project":"ENG4550","status":"pending","uuid":"0fd979b4-af62-4e73-8eec-88fe0d04f714"}
