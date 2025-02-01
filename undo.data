@@ -373,3 +373,55 @@ new [description:"Watch equivalence class testing 3 video" due:"1738097940" end:
 time 1738126395
 new [description:"Watch decision table video" due:"1738267140" entry:"1738126395" modified:"1738126395" project:"EECS4313" status:"pending" uuid:"6de33861-eeeb-4a14-862b-5e2e250e085e"]
 ---
+time 1738265574
+new [description:"Add tutorials to google drive" due:"1738299599" entry:"1738265574" modified:"1738265574" project:"PASS" status:"pending" uuid:"83c1425b-5a02-4c9e-a21c-c61ad7d731fb"]
+---
+time 1738273083
+old [description:"Prepare pass session (Gauss Law, electric potential, maybe more integrals)" due:"1738265340" entry:"1737667458" modified:"1737667458" project:"PASS" status:"pending" uuid:"098ea1ce-c8f0-4856-89fe-4ecc750d083c"]
+new [description:"Prepare pass session (Gauss Law, electric potential, maybe more integrals)" due:"1738265340" end:"1738273083" entry:"1737667458" modified:"1738273083" project:"PASS" status:"completed" uuid:"098ea1ce-c8f0-4856-89fe-4ecc750d083c"]
+---
+time 1738273094
+old [description:"Add tutorials to google drive" due:"1738299599" entry:"1738265574" modified:"1738265574" project:"PASS" status:"pending" uuid:"83c1425b-5a02-4c9e-a21c-c61ad7d731fb"]
+new [description:"Add tutorials to google drive" due:"1738299599" end:"1738273094" entry:"1738265574" modified:"1738273094" project:"PASS" status:"completed" uuid:"83c1425b-5a02-4c9e-a21c-c61ad7d731fb"]
+---
+time 1738273136
+new [description:"Prepare PASS session week 3" due:"1738817940" entry:"1738273136" modified:"1738273136" project:"PASS" status:"pending" uuid:"7e7bbf1b-9dcb-4e21-8f04-4d8bd99db616"]
+---
+time 1738273145
+old [description:"Watch decision table video" due:"1738267140" entry:"1738126395" modified:"1738126395" project:"EECS4313" status:"pending" uuid:"6de33861-eeeb-4a14-862b-5e2e250e085e"]
+new [description:"Watch decision table video" due:"1738267140" end:"1738273145" entry:"1738126395" modified:"1738273145" project:"EECS4313" status:"completed" uuid:"6de33861-eeeb-4a14-862b-5e2e250e085e"]
+---
+time 1738273168
+new [description:"Prepare for Lab 2" due:"1738299599" entry:"1738273168" modified:"1738273168" project:"ENG4550" status:"pending" uuid:"f78bfb5c-399c-4bcc-b057-8105b4fdf6ff"]
+---
+time 1738273218
+new [description:"Watch decision table testing 2 videos" due:"1738645140" entry:"1738273218" modified:"1738273218" project:"EECS4313" status:"pending" uuid:"e6e9de8b-8806-4fd9-a035-41e2caf530aa"]
+---
+time 1738275381
+new [description:"Extra activity from lecture (testing code)" due:"1738299599" entry:"1738275381" modified:"1738275381" project:"EECS4313" status:"pending" uuid:"8675e72f-845b-4f52-907b-ec50a7b0694d"]
+---
+time 1738295829
+old [description:"Prepare for Lab 2" due:"1738299599" entry:"1738273168" modified:"1738273168" project:"ENG4550" status:"pending" uuid:"f78bfb5c-399c-4bcc-b057-8105b4fdf6ff"]
+new [description:"Prepare for Lab 2" due:"1738299599" end:"1738295829" entry:"1738273168" modified:"1738295829" project:"ENG4550" status:"completed" uuid:"f78bfb5c-399c-4bcc-b057-8105b4fdf6ff"]
+---
+time 1738295896
+old [description:"Extra activity from lecture (testing code)" due:"1738299599" entry:"1738275381" modified:"1738275381" project:"EECS4313" status:"pending" uuid:"8675e72f-845b-4f52-907b-ec50a7b0694d"]
+new [description:"Extra activity from lecture (testing code)" due:"1738299599" end:"1738295896" entry:"1738275381" modified:"1738295896" project:"EECS4313" status:"completed" uuid:"8675e72f-845b-4f52-907b-ec50a7b0694d"]
+---
+time 1738330934
+new [description:"Put in this week's hours" due:"1738385999" entry:"1738330934" modified:"1738330934" project:"PASS" status:"pending" uuid:"3842073a-066e-4586-9412-454dab810c3a"]
+---
+time 1738356273
+new [description:"Meeting minutes for last two weeks" due:"1738385999" entry:"1738356273" modified:"1738356273" project:"ENG4000" status:"pending" uuid:"3b442f5c-fb0e-47ca-b9dd-2f1f458c06ae"]
+---
+time 1738356289
+new [description:"Update Jira" due:"1738385999" entry:"1738356289" modified:"1738356289" project:"ENG4000" status:"pending" uuid:"6363ab60-1b38-44a8-8115-cc9297896575"]
+---
+time 1738431640
+old [description:"Put in this week's hours" due:"1738385999" entry:"1738330934" modified:"1738330934" project:"PASS" status:"pending" uuid:"3842073a-066e-4586-9412-454dab810c3a"]
+new [description:"Put in this week's hours" due:"1738385999" end:"1738431640" entry:"1738330934" modified:"1738431640" project:"PASS" status:"completed" uuid:"3842073a-066e-4586-9412-454dab810c3a"]
+---
+time 1738433543
+old [description:"Reflect phase of peer review of presentations" due:"1738558740" entry:"1737322930" modified:"1737322930" project:"ENG4000" status:"pending" uuid:"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"]
+new [description:"Reflect phase of peer review of presentations" due:"1738558740" end:"1738433543" entry:"1737322930" modified:"1738433543" project:"ENG4000" status:"completed" uuid:"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"]
+---
