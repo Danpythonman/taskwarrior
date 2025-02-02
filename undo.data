@@ -425,3 +425,14 @@ time 1738433543
 old [description:"Reflect phase of peer review of presentations" due:"1738558740" entry:"1737322930" modified:"1737322930" project:"ENG4000" status:"pending" uuid:"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"]
 new [description:"Reflect phase of peer review of presentations" due:"1738558740" end:"1738433543" entry:"1737322930" modified:"1738433543" project:"ENG4000" status:"completed" uuid:"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"]
 ---
+time 1738433744
+new [description:"Send lab to Jackie projcet:EECS4315" due:"1738731540" entry:"1738433743" modified:"1738433743" status:"pending" uuid:"8f7b68d3-3dd1-441a-992b-4af998705355"]
+---
+time 1738433767
+old [description:"Send lab to Jackie projcet:EECS4315" due:"1738731540" entry:"1738433743" modified:"1738433743" status:"pending" uuid:"8f7b68d3-3dd1-441a-992b-4af998705355"]
+new [description:"Send lab to Jackie projcet:EECS4315" due:"1738731540" entry:"1738433743" modified:"1738433767" project:"EECS4315" status:"pending" uuid:"8f7b68d3-3dd1-441a-992b-4af998705355"]
+---
+time 1738433795
+old [description:"Send lab to Jackie projcet:EECS4315" due:"1738731540" entry:"1738433743" modified:"1738433767" project:"EECS4315" status:"pending" uuid:"8f7b68d3-3dd1-441a-992b-4af998705355"]
+new [description:"Send lab to Jackie projcet:EECS4315" due:"1738904340" entry:"1738433743" modified:"1738433795" project:"EECS4315" status:"pending" uuid:"8f7b68d3-3dd1-441a-992b-4af998705355"]
+---

@@ -122,3 +122,6 @@
 {"description":"Update Jira","due":"20250201T045959Z","entry":"20250131T204449Z","modified":"20250131T204449Z","project":"ENG4000","status":"pending","uuid":"6363ab60-1b38-44a8-8115-cc9297896575"}
 {"description":"Put in this week's hours","due":"20250201T045959Z","end":"20250201T174040Z","entry":"20250131T134214Z","modified":"20250201T174040Z","project":"PASS","status":"completed","uuid":"3842073a-066e-4586-9412-454dab810c3a"}
 {"description":"Reflect phase of peer review of presentations","due":"20250203T045900Z","end":"20250201T181223Z","entry":"20250119T214210Z","modified":"20250201T181223Z","project":"ENG4000","status":"completed","uuid":"3fc8daf3-3be6-4461-b48f-e2642c51fc0b"}
+{"description":"Send lab to Jackie projcet:EECS4315","due":"20250205T045900Z","entry":"20250201T181543Z","modified":"20250201T181543Z","status":"pending","uuid":"8f7b68d3-3dd1-441a-992b-4af998705355"}
+{"description":"Send lab to Jackie projcet:EECS4315","due":"20250205T045900Z","entry":"20250201T181543Z","modified":"20250201T181607Z","project":"EECS4315","status":"pending","uuid":"8f7b68d3-3dd1-441a-992b-4af998705355"}
+{"description":"Send lab to Jackie projcet:EECS4315","due":"20250207T045900Z","entry":"20250201T181543Z","modified":"20250201T181635Z","project":"EECS4315","status":"pending","uuid":"8f7b68d3-3dd1-441a-992b-4af998705355"}
