@@ -125,3 +125,6 @@
 {"description":"Send lab to Jackie projcet:EECS4315","due":"20250205T045900Z","entry":"20250201T181543Z","modified":"20250201T181543Z","status":"pending","uuid":"8f7b68d3-3dd1-441a-992b-4af998705355"}
 {"description":"Send lab to Jackie projcet:EECS4315","due":"20250205T045900Z","entry":"20250201T181543Z","modified":"20250201T181607Z","project":"EECS4315","status":"pending","uuid":"8f7b68d3-3dd1-441a-992b-4af998705355"}
 {"description":"Send lab to Jackie projcet:EECS4315","due":"20250207T045900Z","entry":"20250201T181543Z","modified":"20250201T181635Z","project":"EECS4315","status":"pending","uuid":"8f7b68d3-3dd1-441a-992b-4af998705355"}
+{"description":"Meeting minutes for last two weeks","due":"20250201T045959Z","end":"20250202T221844Z","entry":"20250131T204433Z","modified":"20250202T221844Z","project":"ENG4000","status":"completed","uuid":"3b442f5c-fb0e-47ca-b9dd-2f1f458c06ae"}
+{"description":"Update Jira","due":"20250201T045959Z","end":"20250202T221855Z","entry":"20250131T204449Z","modified":"20250202T221855Z","project":"ENG4000","status":"completed","uuid":"6363ab60-1b38-44a8-8115-cc9297896575"}
+{"description":"Finish capital one job application assessment.","due":"20250203T045959Z","entry":"20250202T221941Z","modified":"20250202T221941Z","status":"pending","uuid":"92e80954-979f-4718-868b-72931d26788f"}

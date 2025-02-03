@@ -436,3 +436,14 @@ time 1738433795
 old [description:"Send lab to Jackie projcet:EECS4315" due:"1738731540" entry:"1738433743" modified:"1738433767" project:"EECS4315" status:"pending" uuid:"8f7b68d3-3dd1-441a-992b-4af998705355"]
 new [description:"Send lab to Jackie projcet:EECS4315" due:"1738904340" entry:"1738433743" modified:"1738433795" project:"EECS4315" status:"pending" uuid:"8f7b68d3-3dd1-441a-992b-4af998705355"]
 ---
+time 1738534724
+old [description:"Meeting minutes for last two weeks" due:"1738385999" entry:"1738356273" modified:"1738356273" project:"ENG4000" status:"pending" uuid:"3b442f5c-fb0e-47ca-b9dd-2f1f458c06ae"]
+new [description:"Meeting minutes for last two weeks" due:"1738385999" end:"1738534724" entry:"1738356273" modified:"1738534724" project:"ENG4000" status:"completed" uuid:"3b442f5c-fb0e-47ca-b9dd-2f1f458c06ae"]
+---
+time 1738534735
+old [description:"Update Jira" due:"1738385999" entry:"1738356289" modified:"1738356289" project:"ENG4000" status:"pending" uuid:"6363ab60-1b38-44a8-8115-cc9297896575"]
+new [description:"Update Jira" due:"1738385999" end:"1738534735" entry:"1738356289" modified:"1738534735" project:"ENG4000" status:"completed" uuid:"6363ab60-1b38-44a8-8115-cc9297896575"]
+---
+time 1738534781
+new [description:"Finish capital one job application assessment." due:"1738558799" entry:"1738534781" modified:"1738534781" status:"pending" uuid:"92e80954-979f-4718-868b-72931d26788f"]
+---
