@@ -142,3 +142,4 @@
 {"description":"Watch decision table testing 2 videos","due":"20250204T045900Z","end":"20250204T200340Z","entry":"20250130T214018Z","modified":"20250204T200340Z","project":"EECS4313","status":"completed","uuid":"e6e9de8b-8806-4fd9-a035-41e2caf530aa"}
 {"description":"Lab 2","due":"20250207T045900Z","end":"20250205T013020Z","entry":"20250127T031044Z","modified":"20250205T013020Z","project":"EECS4315","status":"completed","uuid":"018cccf9-4f49-4211-8885-8a92e7151e90"}
 {"description":"Watch bug report and analysis videos","due":"20250206T205900Z","entry":"20250205T013131Z","modified":"20250205T013131Z","project":"EECS4313","status":"pending","uuid":"e5a80b03-bf09-4349-b3cb-e842ab958319"}
+{"description":"Finish background reading section of design document","due":"20250206T045959Z","entry":"20250205T151941Z","modified":"20250205T151941Z","project":"EECS4314","status":"pending","uuid":"17247175-2e91-4da7-bc25-fa0c356cef8e"}

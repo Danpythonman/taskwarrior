@@ -496,3 +496,6 @@ new [description:"Lab 2" due:"1738904340" end:"1738719020" entry:"1737947444" mo
 time 1738719091
 new [description:"Watch bug report and analysis videos" due:"1738875540" entry:"1738719091" modified:"1738719091" project:"EECS4313" status:"pending" uuid:"e5a80b03-bf09-4349-b3cb-e842ab958319"]
 ---
+time 1738768781
+new [description:"Finish background reading section of design document" due:"1738817999" entry:"1738768781" modified:"1738768781" project:"EECS4314" status:"pending" uuid:"17247175-2e91-4da7-bc25-fa0c356cef8e"]
+---
