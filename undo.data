@@ -447,3 +447,52 @@ new [description:"Update Jira" due:"1738385999" end:"1738534735" entry:"17383562
 time 1738534781
 new [description:"Finish capital one job application assessment." due:"1738558799" entry:"1738534781" modified:"1738534781" status:"pending" uuid:"92e80954-979f-4718-868b-72931d26788f"]
 ---
+time 1738597980
+new [description:"test" due:"1738677600" entry:"1738597980" modified:"1738597980" status:"pending" uuid:"956da1ba-9272-4ce0-8943-81774817dee2"]
+---
+time 1738606523
+new [description:"Practice lab test" entry:"1738606523" modified:"1738606523" project:"EECS4315" status:"pending" uuid:"a11893ae-51c5-480d-8c57-a0f3cd318c2b"]
+---
+time 1738606537
+new [description:"Practice lab test" due:"1738850400" entry:"1738606537" modified:"1738606537" project:"EECS4315" status:"pending" uuid:"820d282b-7377-43cb-b632-ef659743448f"]
+---
+time 1738606554
+old [description:"Practice lab test" entry:"1738606523" modified:"1738606523" project:"EECS4315" status:"pending" uuid:"a11893ae-51c5-480d-8c57-a0f3cd318c2b"]
+new [description:"Practice lab test" end:"1738606552" entry:"1738606523" modified:"1738606554" project:"EECS4315" status:"deleted" uuid:"a11893ae-51c5-480d-8c57-a0f3cd318c2b"]
+---
+time 1738606562
+old [description:"test" due:"1738677600" entry:"1738597980" modified:"1738597980" status:"pending" uuid:"956da1ba-9272-4ce0-8943-81774817dee2"]
+new [description:"test" due:"1738677600" end:"1738606561" entry:"1738597980" modified:"1738606562" status:"deleted" uuid:"956da1ba-9272-4ce0-8943-81774817dee2"]
+---
+time 1738606571
+old [description:"Finish capital one job application assessment." due:"1738558799" entry:"1738534781" modified:"1738534781" status:"pending" uuid:"92e80954-979f-4718-868b-72931d26788f"]
+new [description:"Finish capital one job application assessment." due:"1738558799" end:"1738606571" entry:"1738534781" modified:"1738606571" status:"completed" uuid:"92e80954-979f-4718-868b-72931d26788f"]
+---
+time 1738606634
+new [description:"Lab test 1" due:"1739455200" entry:"1738606634" modified:"1738606634" project:"EECS4315" status:"pending" uuid:"1e2734e7-51ec-4b17-8e73-664e30be3ebf"]
+---
+time 1738606688
+old [description:"Update ground station pass functionality to consider data rates." due:"1738040400" entry:"1737993923" modified:"1737993923" project:"ENG4000" status:"pending" uuid:"c2857cf1-c4bf-4635-a707-685fab9debcd"]
+new [description:"Update ground station pass functionality to consider data rates." due:"1738817940" entry:"1737993923" modified:"1738606688" project:"ENG4000" status:"pending" uuid:"c2857cf1-c4bf-4635-a707-685fab9debcd"]
+---
+time 1738610374
+new [description:"Ask Jackie about how inputs can be modified in TLA+" due:"1738785600" entry:"1738610374" modified:"1738610374" project:"EECS4315" status:"pending" uuid:"a18b3635-463a-4fbe-80f0-6aaf83297d94"]
+---
+time 1738698351
+new [description:"Prelab for lab 3" due:"1738904340" entry:"1738698351" modified:"1738698351" project:"ENG4550" status:"pending" uuid:"756cfbb2-459a-4fdc-899c-6c2c6f2ddb37"]
+---
+time 1738698382
+old [description:"Assignment 1" due:"1738731540" entry:"1738096820" modified:"1738096820" project:"ENG4550" status:"pending" uuid:"0fd979b4-af62-4e73-8eec-88fe0d04f714"]
+new [description:"Assignment 1" due:"1738731540" end:"1738698382" entry:"1738096820" modified:"1738698382" project:"ENG4550" status:"completed" uuid:"0fd979b4-af62-4e73-8eec-88fe0d04f714"]
+---
+time 1738699420
+old [description:"Watch decision table testing 2 videos" due:"1738645140" entry:"1738273218" modified:"1738273218" project:"EECS4313" status:"pending" uuid:"e6e9de8b-8806-4fd9-a035-41e2caf530aa"]
+new [description:"Watch decision table testing 2 videos" due:"1738645140" end:"1738699420" entry:"1738273218" modified:"1738699420" project:"EECS4313" status:"completed" uuid:"e6e9de8b-8806-4fd9-a035-41e2caf530aa"]
+---
+time 1738719020
+old [description:"Lab 2" due:"1738904340" entry:"1737947444" modified:"1737947444" project:"EECS4315" status:"pending" uuid:"018cccf9-4f49-4211-8885-8a92e7151e90"]
+new [description:"Lab 2" due:"1738904340" end:"1738719020" entry:"1737947444" modified:"1738719020" project:"EECS4315" status:"completed" uuid:"018cccf9-4f49-4211-8885-8a92e7151e90"]
+---
+time 1738719091
+new [description:"Watch bug report and analysis videos" due:"1738875540" entry:"1738719091" modified:"1738719091" project:"EECS4313" status:"pending" uuid:"e5a80b03-bf09-4349-b3cb-e842ab958319"]
+---
