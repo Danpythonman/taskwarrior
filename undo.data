@@ -499,3 +499,11 @@ new [description:"Watch bug report and analysis videos" due:"1738875540" entry:"
 time 1738768781
 new [description:"Finish background reading section of design document" due:"1738817999" entry:"1738768781" modified:"1738768781" project:"EECS4314" status:"pending" uuid:"17247175-2e91-4da7-bc25-fa0c356cef8e"]
 ---
+time 1738807977
+old [description:"Prepare PASS session week 3" due:"1738817940" entry:"1738273136" modified:"1738273136" project:"PASS" status:"pending" uuid:"7e7bbf1b-9dcb-4e21-8f04-4d8bd99db616"]
+new [description:"Prepare PASS session week 3" due:"1738817940" end:"1738807977" entry:"1738273136" modified:"1738807977" project:"PASS" status:"completed" uuid:"7e7bbf1b-9dcb-4e21-8f04-4d8bd99db616"]
+---
+time 1738811240
+old [description:"Watch bug report and analysis videos" due:"1738875540" entry:"1738719091" modified:"1738719091" project:"EECS4313" status:"pending" uuid:"e5a80b03-bf09-4349-b3cb-e842ab958319"]
+new [description:"Watch bug report and analysis videos" due:"1738875540" end:"1738811240" entry:"1738719091" modified:"1738811240" project:"EECS4313" status:"completed" uuid:"e5a80b03-bf09-4349-b3cb-e842ab958319"]
+---
