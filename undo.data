@@ -607,3 +607,14 @@ new [description:"Ask Dwumah if he wants to help deploy scheduler" due:"17392499
 time 1739206817
 new [description:"Dockerize scheduler" due:"1739249999" entry:"1739206817" modified:"1739206817" project:"ENG4000" status:"pending" uuid:"526d52da-57f7-493d-8897-15a269911474"]
 ---
+time 1739248182
+old [description:"Handle no scheduling opportunities found case for small amounts of jobs in schedule" due:"1739249999" entry:"1739202420" modified:"1739202420" project:"ENG4000" status:"pending" uuid:"43f09cd2-95a6-414d-8618-995f0634bd49"]
+new [description:"Handle no scheduling opportunities found case for small amounts of jobs in schedule" due:"1739249999" end:"1739248182" entry:"1739202420" modified:"1739248182" project:"ENG4000" status:"completed" uuid:"43f09cd2-95a6-414d-8618-995f0634bd49"]
+---
+time 1739250596
+old [description:"Extend scheduling simulation to accommodate last jobs in schedule" due:"1739249999" entry:"1739202459" modified:"1739202459" project:"ENG4000" status:"pending" uuid:"b0405605-b534-4be7-baa2-e549e80a3e89"]
+new [description:"Extend scheduling simulation to accommodate last jobs in schedule" due:"1739249999" end:"1739250596" entry:"1739202459" modified:"1739250596" project:"ENG4000" status:"completed" uuid:"b0405605-b534-4be7-baa2-e549e80a3e89"]
+---
+time 1739253914
+new [description:"AWS interview" due:"1739336399" entry:"1739253914" modified:"1739253914" status:"pending" uuid:"a4c95d64-0900-48a7-91e4-674c7fbe0ab1"]
+---

@@ -5,7 +5,6 @@
 [description:"Assignment 2" due:"1739509140" entry:"1738956989" modified:"1738956989" project:"ENG4550" status:"pending" uuid:"ad5e0794-066a-42a3-8e20-500d78eae18f"]
 [description:"Preprare PASS session week 4" due:"1739422740" entry:"1739043469" modified:"1739043478" project:"PASS" status:"pending" uuid:"dc58f507-fc2c-4532-83a1-c0dca91d2a5c"]
 [description:"Handle repeated events in schedule" due:"1739249999" entry:"1739202383" modified:"1739202383" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
-[description:"Handle no scheduling opportunities found case for small amounts of jobs in schedule" due:"1739249999" entry:"1739202420" modified:"1739202420" project:"ENG4000" status:"pending" uuid:"43f09cd2-95a6-414d-8618-995f0634bd49"]
-[description:"Extend scheduling simulation to accommodate last jobs in schedule" due:"1739249999" entry:"1739202459" modified:"1739202459" project:"ENG4000" status:"pending" uuid:"b0405605-b534-4be7-baa2-e549e80a3e89"]
 [description:"Ask Dwumah if he wants to help deploy scheduler" due:"1739249999" entry:"1739202481" modified:"1739202481" project:"ENG4000" status:"pending" uuid:"3ad2366f-676d-4d12-abf3-bd90d6f11451"]
 [description:"Dockerize scheduler" due:"1739249999" entry:"1739206817" modified:"1739206817" project:"ENG4000" status:"pending" uuid:"526d52da-57f7-493d-8897-15a269911474"]
+[description:"AWS interview" due:"1739336399" entry:"1739253914" modified:"1739253914" status:"pending" uuid:"a4c95d64-0900-48a7-91e4-674c7fbe0ab1"]
