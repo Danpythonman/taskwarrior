@@ -1,3 +1,4 @@
+[description:"Ask about how to report unscheduled jobs and how to handle repeat orders" due:"1739196000" end:"1739198238" entry:"1739164031" modified:"1739198238" project:"ENG4000" status:"completed" uuid:"286d6e63-fb03-46b8-9065-4a4e40b08245"]
 [description:"Update ground station pass functionality to consider data rates." due:"1739163540" end:"1739165703" entry:"1737993923" modified:"1739165703" project:"ENG4000" status:"completed" uuid:"c2857cf1-c4bf-4635-a707-685fab9debcd"]
 [description:"Practice test" due:"1739077199" end:"1739064451" entry:"1739043530" modified:"1739064451" project:"EECS4315" status:"completed" uuid:"19f386e4-c102-4205-b21c-33c5af03efff"]
 [description:"Prelab for lab 1" due:"1738904340" end:"1739049845" entry:"1738698351" modified:"1739049845" project:"ENG4550" status:"completed" uuid:"756cfbb2-459a-4fdc-899c-6c2c6f2ddb37"]

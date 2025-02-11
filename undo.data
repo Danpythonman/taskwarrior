@@ -588,3 +588,22 @@ time 1739165703
 old [description:"Update ground station pass functionality to consider data rates." due:"1739163540" entry:"1737993923" modified:"1739064744" project:"ENG4000" status:"pending" uuid:"c2857cf1-c4bf-4635-a707-685fab9debcd"]
 new [description:"Update ground station pass functionality to consider data rates." due:"1739163540" end:"1739165703" entry:"1737993923" modified:"1739165703" project:"ENG4000" status:"completed" uuid:"c2857cf1-c4bf-4635-a707-685fab9debcd"]
 ---
+time 1739198238
+old [description:"Ask about how to report unscheduled jobs and how to handle repeat orders" due:"1739196000" entry:"1739164031" modified:"1739164031" project:"ENG4000" status:"pending" uuid:"286d6e63-fb03-46b8-9065-4a4e40b08245"]
+new [description:"Ask about how to report unscheduled jobs and how to handle repeat orders" due:"1739196000" end:"1739198238" entry:"1739164031" modified:"1739198238" project:"ENG4000" status:"completed" uuid:"286d6e63-fb03-46b8-9065-4a4e40b08245"]
+---
+time 1739202383
+new [description:"Handle repeated events in schedule" due:"1739249999" entry:"1739202383" modified:"1739202383" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+---
+time 1739202420
+new [description:"Handle no scheduling opportunities found case for small amounts of jobs in schedule" due:"1739249999" entry:"1739202420" modified:"1739202420" project:"ENG4000" status:"pending" uuid:"43f09cd2-95a6-414d-8618-995f0634bd49"]
+---
+time 1739202459
+new [description:"Extend scheduling simulation to accommodate last jobs in schedule" due:"1739249999" entry:"1739202459" modified:"1739202459" project:"ENG4000" status:"pending" uuid:"b0405605-b534-4be7-baa2-e549e80a3e89"]
+---
+time 1739202481
+new [description:"Ask Dwumah if he wants to help deploy scheduler" due:"1739249999" entry:"1739202481" modified:"1739202481" project:"ENG4000" status:"pending" uuid:"3ad2366f-676d-4d12-abf3-bd90d6f11451"]
+---
+time 1739206817
+new [description:"Dockerize scheduler" due:"1739249999" entry:"1739206817" modified:"1739206817" project:"ENG4000" status:"pending" uuid:"526d52da-57f7-493d-8897-15a269911474"]
+---
