@@ -80,7 +80,7 @@
                     taskElement.innerHTML = `
                         <div class="task-details">
                             <h3>${task.description}</h3>
-                            <p><strong>Due:</strong> ${formatDate(task.due)}</p>
+                            <p><strong>Due:</strong> ${task.due ? formatDate(task.due) : 'No due date'}</p>
                             <p><strong>Project:</strong> ${task.project}</p>
                             <p><strong>Status:</strong> ${task.status}</p>
                         </div>
