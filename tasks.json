@@ -1,10 +1,13 @@
 [
-{"id":1,"description":"Assignment 2","due":"20250214T045900Z","entry":"20250207T193629Z","modified":"20250207T193629Z","project":"ENG4550","status":"pending","uuid":"ad5e0794-066a-42a3-8e20-500d78eae18f","urgency":10.3232},
-{"id":2,"description":"Handle repeated events in schedule","due":"20250211T045959Z","entry":"20250210T154623Z","modified":"20250210T154623Z","project":"ENG4000","status":"pending","uuid":"8925dc4c-5a44-42b0-95ef-b656dba35249","urgency":11.6779},
-{"id":3,"description":"Dockerize scheduler","due":"20250211T045959Z","entry":"20250210T170017Z","modified":"20250210T170017Z","project":"ENG4000","status":"pending","uuid":"526d52da-57f7-493d-8897-15a269911474","urgency":11.6779},
-{"id":4,"description":"AWS interview","due":"20250212T045959Z","entry":"20250211T060514Z","modified":"20250211T060514Z","status":"pending","uuid":"a4c95d64-0900-48a7-91e4-674c7fbe0ab1","urgency":10.2207},
-{"id":5,"description":"Send print example to Jackie","due":"20250213T045959Z","entry":"20250212T180152Z","modified":"20250212T180152Z","project":"EECS4315","status":"pending","uuid":"b73ababa-a7be-4313-b740-a6dbcc131c6c","urgency":10.7526},
-{"id":6,"description":"Watch refactoring 2 videos","due":"20250218T205900Z","entry":"20250213T170533Z","modified":"20250213T170533Z","project":"EECS4313","status":"pending","uuid":"fadbb8e7-4829-4be7-b321-943bdb0b2833","urgency":8.15697},
-{"id":7,"description":"Post video about circuits for PASS","entry":"20250213T210017Z","modified":"20250213T210017Z","project":"PASS","status":"pending","uuid":"1d1fa648-c9a5-417b-bb96-bc822be1167a","urgency":1.00548},
-{"id":8,"description":"ITP metrics","due":"20250216T045959Z","entry":"20250215T062604Z","modified":"20250215T062604Z","project":"ENG4000","status":"pending","uuid":"95f60b04-0812-4e17-8663-25ce1be9cc69","urgency":9.37022}
+{"id":1,"description":"Handle repeated events in schedule","due":"20250211T045959Z","entry":"20250210T154623Z","modified":"20250210T154623Z","project":"ENG4000","status":"pending","uuid":"8925dc4c-5a44-42b0-95ef-b656dba35249","urgency":13.0493},
+{"id":2,"description":"Dockerize scheduler","due":"20250211T045959Z","entry":"20250210T170017Z","modified":"20250210T170017Z","project":"ENG4000","status":"pending","uuid":"526d52da-57f7-493d-8897-15a269911474","urgency":13.0493},
+{"id":3,"description":"Watch refactoring 2 videos","due":"20250218T205900Z","entry":"20250213T170533Z","modified":"20250213T170533Z","project":"EECS4313","status":"pending","uuid":"fadbb8e7-4829-4be7-b321-943bdb0b2833","urgency":10.3654},
+{"id":4,"description":"Post video about circuits for PASS","entry":"20250213T210017Z","modified":"20250213T210017Z","project":"PASS","status":"pending","uuid":"1d1fa648-c9a5-417b-bb96-bc822be1167a","urgency":1.03288},
+{"id":5,"description":"Project check in 1","due":"20250225T045900Z","entry":"20250219T202735Z","modified":"20250219T202735Z","project":"EECS4314","status":"pending","uuid":"15ed8e50-6833-4613-990d-ed2bd49e5f43","urgency":7.43732},
+{"id":6,"description":"Midterm","due":"20250305T190000Z","entry":"20250219T202914Z","modified":"20250219T202914Z","project":"EECS4314","status":"pending","uuid":"f962c4f0-f500-4666-84d3-1cc339222bfb","urgency":3.5132},
+{"id":7,"description":"Quiz 2","due":"20250225T045900Z","entry":"20250219T202947Z","modified":"20250219T202947Z","project":"EECS4314","status":"pending","uuid":"43a723b8-470f-4a24-a913-12bcc9452636","urgency":7.43732},
+{"id":8,"description":"Written test 1","due":"20250306T140000Z","entry":"20250219T203050Z","modified":"20250219T203050Z","project":"EECS4315","status":"pending","uuid":"e059bd99-d43e-4bf5-a977-9ed5f905bdf0","urgency":3.4},
+{"id":9,"description":"Term test 1","due":"20250227T220000Z","entry":"20250219T203206Z","modified":"20250219T203206Z","project":"EECS4313","status":"pending","uuid":"9a8d2aa1-f3b2-41c1-8dae-71399ec5b175","urgency":6.19891},
+{"id":10,"description":"Midterm","due":"20250225T180000Z","entry":"20250219T203351Z","modified":"20250219T203351Z","project":"ENG4550","status":"pending","uuid":"2eec9452-6c86-48ed-807e-fddbdc4ce7dc","urgency":7.18939},
+{"id":11,"description":"Progress report","due":"20250225T045900Z","entry":"20250219T203420Z","modified":"20250219T203420Z","project":"ENG4000","status":"pending","uuid":"fef6aa2e-b5bf-47e9-8ef6-d1c1c69924a6","urgency":7.43732}
 ]
