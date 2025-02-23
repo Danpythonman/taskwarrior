@@ -203,3 +203,10 @@
 {"description":"Midterm","due":"20250225T180000Z","entry":"20250219T203351Z","modified":"20250219T203351Z","project":"ENG4550","status":"pending","uuid":"2eec9452-6c86-48ed-807e-fddbdc4ce7dc"}
 {"description":"Progress report","due":"20250225T045900Z","entry":"20250219T203420Z","modified":"20250219T203420Z","project":"ENG4000","status":"pending","uuid":"fef6aa2e-b5bf-47e9-8ef6-d1c1c69924a6"}
 {"description":"Lab 1 report","due":"20250226T045900Z","end":"20250220T005627Z","entry":"20250215T200752Z","modified":"20250220T005627Z","project":"ENG4550","status":"completed","uuid":"9b3a33e1-8bc7-41bb-8cec-843ed9c791f4"}
+{"description":"Post video about circuits for PASS","end":"20250221T190354Z","entry":"20250213T210017Z","modified":"20250221T190354Z","project":"PASS","status":"completed","uuid":"1d1fa648-c9a5-417b-bb96-bc822be1167a"}
+{"description":"Project check in 1 (notification service in Go)","due":"20250225T045900Z","entry":"20250219T202735Z","modified":"20250223T200850Z","project":"EECS4314","status":"pending","uuid":"15ed8e50-6833-4613-990d-ed2bd49e5f43"}
+{"description":"Watch refactoring 2 videos","due":"20250225T205900Z","entry":"20250213T170533Z","modified":"20250223T200943Z","project":"EECS4313","status":"pending","uuid":"fadbb8e7-4829-4be7-b321-943bdb0b2833"}
+{"description":"Handle repeated events in schedule","entry":"20250210T154623Z","modified":"20250223T201003Z","project":"ENG4000","status":"pending","uuid":"8925dc4c-5a44-42b0-95ef-b656dba35249"}
+{"description":"Handle repeated events in schedule","due":"20250302T201023Z","entry":"20250210T154623Z","modified":"20250223T201023Z","project":"ENG4000","status":"pending","uuid":"8925dc4c-5a44-42b0-95ef-b656dba35249"}
+{"description":"Dockerize scheduler","due":"20250224T045900Z","entry":"20250210T170017Z","modified":"20250223T201045Z","project":"ENG4000","status":"pending","uuid":"526d52da-57f7-493d-8897-15a269911474"}
+{"description":"Simple rescheduler (just run the entire thing again)","due":"20250224T045959Z","entry":"20250223T201116Z","modified":"20250223T201116Z","project":"ENG4000","status":"pending","uuid":"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"}

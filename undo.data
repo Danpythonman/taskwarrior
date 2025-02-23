@@ -713,3 +713,30 @@ time 1740012987
 old [description:"Lab 1 report" due:"1740545940" entry:"1739650072" modified:"1739996887" project:"ENG4550" status:"pending" uuid:"9b3a33e1-8bc7-41bb-8cec-843ed9c791f4"]
 new [description:"Lab 1 report" due:"1740545940" end:"1740012987" entry:"1739650072" modified:"1740012987" project:"ENG4550" status:"completed" uuid:"9b3a33e1-8bc7-41bb-8cec-843ed9c791f4"]
 ---
+time 1740164634
+old [description:"Post video about circuits for PASS" entry:"1739480417" modified:"1739480417" project:"PASS" status:"pending" uuid:"1d1fa648-c9a5-417b-bb96-bc822be1167a"]
+new [description:"Post video about circuits for PASS" end:"1740164634" entry:"1739480417" modified:"1740164634" project:"PASS" status:"completed" uuid:"1d1fa648-c9a5-417b-bb96-bc822be1167a"]
+---
+time 1740341330
+old [description:"Project check in 1" due:"1740459540" entry:"1739996855" modified:"1739996855" project:"EECS4314" status:"pending" uuid:"15ed8e50-6833-4613-990d-ed2bd49e5f43"]
+new [description:"Project check in 1 (notification service in Go)" due:"1740459540" entry:"1739996855" modified:"1740341330" project:"EECS4314" status:"pending" uuid:"15ed8e50-6833-4613-990d-ed2bd49e5f43"]
+---
+time 1740341383
+old [description:"Watch refactoring 2 videos" due:"1739912340" entry:"1739466333" modified:"1739466333" project:"EECS4313" status:"pending" uuid:"fadbb8e7-4829-4be7-b321-943bdb0b2833"]
+new [description:"Watch refactoring 2 videos" due:"1740517140" entry:"1739466333" modified:"1740341383" project:"EECS4313" status:"pending" uuid:"fadbb8e7-4829-4be7-b321-943bdb0b2833"]
+---
+time 1740341403
+old [description:"Handle repeated events in schedule" due:"1739249999" entry:"1739202383" modified:"1739202383" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+new [description:"Handle repeated events in schedule" entry:"1739202383" modified:"1740341403" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+---
+time 1740341423
+old [description:"Handle repeated events in schedule" entry:"1739202383" modified:"1740341403" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+new [description:"Handle repeated events in schedule" due:"1740946223" entry:"1739202383" modified:"1740341423" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+---
+time 1740341445
+old [description:"Dockerize scheduler" due:"1739249999" entry:"1739206817" modified:"1739206817" project:"ENG4000" status:"pending" uuid:"526d52da-57f7-493d-8897-15a269911474"]
+new [description:"Dockerize scheduler" due:"1740373140" entry:"1739206817" modified:"1740341445" project:"ENG4000" status:"pending" uuid:"526d52da-57f7-493d-8897-15a269911474"]
+---
+time 1740341476
+new [description:"Simple rescheduler (just run the entire thing again)" due:"1740373199" entry:"1740341476" modified:"1740341476" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
+---
