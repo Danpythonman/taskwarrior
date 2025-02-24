@@ -210,3 +210,5 @@
 {"description":"Handle repeated events in schedule","due":"20250302T201023Z","entry":"20250210T154623Z","modified":"20250223T201023Z","project":"ENG4000","status":"pending","uuid":"8925dc4c-5a44-42b0-95ef-b656dba35249"}
 {"description":"Dockerize scheduler","due":"20250224T045900Z","entry":"20250210T170017Z","modified":"20250223T201045Z","project":"ENG4000","status":"pending","uuid":"526d52da-57f7-493d-8897-15a269911474"}
 {"description":"Simple rescheduler (just run the entire thing again)","due":"20250224T045959Z","entry":"20250223T201116Z","modified":"20250223T201116Z","project":"ENG4000","status":"pending","uuid":"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"}
+{"description":"Project check in 1 doc","due":"20250224T045959Z","entry":"20250224T030024Z","modified":"20250224T030024Z","project":"EECS4314","status":"pending","uuid":"f32b245b-0b0f-41f7-aa5c-bc8d55f069bf"}
+{"description":"Project check in 1 (notification service in Go)","due":"20250225T045900Z","end":"20250224T030036Z","entry":"20250219T202735Z","modified":"20250224T030036Z","project":"EECS4314","status":"completed","uuid":"15ed8e50-6833-4613-990d-ed2bd49e5f43"}

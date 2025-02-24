@@ -740,3 +740,10 @@ new [description:"Dockerize scheduler" due:"1740373140" entry:"1739206817" modif
 time 1740341476
 new [description:"Simple rescheduler (just run the entire thing again)" due:"1740373199" entry:"1740341476" modified:"1740341476" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
 ---
+time 1740366024
+new [description:"Project check in 1 doc" due:"1740373199" entry:"1740366024" modified:"1740366024" project:"EECS4314" status:"pending" uuid:"f32b245b-0b0f-41f7-aa5c-bc8d55f069bf"]
+---
+time 1740366036
+old [description:"Project check in 1 (notification service in Go)" due:"1740459540" entry:"1739996855" modified:"1740341330" project:"EECS4314" status:"pending" uuid:"15ed8e50-6833-4613-990d-ed2bd49e5f43"]
+new [description:"Project check in 1 (notification service in Go)" due:"1740459540" end:"1740366036" entry:"1739996855" modified:"1740366036" project:"EECS4314" status:"completed" uuid:"15ed8e50-6833-4613-990d-ed2bd49e5f43"]
+---
