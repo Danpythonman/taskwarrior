@@ -747,3 +747,16 @@ time 1740366036
 old [description:"Project check in 1 (notification service in Go)" due:"1740459540" entry:"1739996855" modified:"1740341330" project:"EECS4314" status:"pending" uuid:"15ed8e50-6833-4613-990d-ed2bd49e5f43"]
 new [description:"Project check in 1 (notification service in Go)" due:"1740459540" end:"1740366036" entry:"1739996855" modified:"1740366036" project:"EECS4314" status:"completed" uuid:"15ed8e50-6833-4613-990d-ed2bd49e5f43"]
 ---
+time 1740408409
+old [description:"Simple rescheduler (just run the entire thing again)" due:"1740373199" entry:"1740341476" modified:"1740341476" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
+new [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1740373199" entry:"1740341476" modified:"1740408409" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
+---
+time 1740408425
+new [description:"Generate documentation for scheduler" due:"1740459599" entry:"1740408425" modified:"1740408425" project:"ENG4000" status:"pending" uuid:"c753b42a-fa0b-4188-bb7b-a8f8cad26494"]
+---
+time 1740408713
+new [description:"Lab 2 prelab" due:"1740718740" entry:"1740408713" modified:"1740408713" project:"ENG4550" status:"pending" uuid:"20d017ff-56a0-4668-a3f9-b5957d60b34f"]
+---
+time 1740416827
+new [description:"Prepare PASS session (week 6)" due:"1740632340" entry:"1740416827" modified:"1740416827" project:"PASS" status:"pending" uuid:"fde5559b-c1fd-4160-8e5c-9d13c8f43abc"]
+---
