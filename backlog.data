@@ -216,3 +216,17 @@
 {"description":"Generate documentation for scheduler","due":"20250225T045959Z","entry":"20250224T144705Z","modified":"20250224T144705Z","project":"ENG4000","status":"pending","uuid":"c753b42a-fa0b-4188-bb7b-a8f8cad26494"}
 {"description":"Lab 2 prelab","due":"20250228T045900Z","entry":"20250224T145153Z","modified":"20250224T145153Z","project":"ENG4550","status":"pending","uuid":"20d017ff-56a0-4668-a3f9-b5957d60b34f"}
 {"description":"Prepare PASS session (week 6)","due":"20250227T045900Z","entry":"20250224T170707Z","modified":"20250224T170707Z","project":"PASS","status":"pending","uuid":"fde5559b-c1fd-4160-8e5c-9d13c8f43abc"}
+{"description":"Project check in 1 doc","due":"20250224T045959Z","end":"20250225T053541Z","entry":"20250224T030024Z","modified":"20250225T053541Z","project":"EECS4314","status":"completed","uuid":"f32b245b-0b0f-41f7-aa5c-bc8d55f069bf"}
+{"description":"Quiz 2","due":"20250301T045900Z","entry":"20250219T202947Z","modified":"20250225T053607Z","project":"EECS4314","status":"pending","uuid":"43a723b8-470f-4a24-a913-12bcc9452636"}
+{"description":"Midterm","due":"20250225T180000Z","end":"20250225T194303Z","entry":"20250219T203351Z","modified":"20250225T194303Z","project":"ENG4550","status":"completed","uuid":"2eec9452-6c86-48ed-807e-fddbdc4ce7dc"}
+{"description":"Watch refactoring 2 videos","due":"20250225T205900Z","end":"20250225T202328Z","entry":"20250213T170533Z","modified":"20250225T202328Z","project":"EECS4313","status":"completed","uuid":"fadbb8e7-4829-4be7-b321-943bdb0b2833"}
+{"description":"Dockerize scheduler","due":"20250227T045900Z","entry":"20250210T170017Z","modified":"20250225T211322Z","project":"ENG4000","status":"pending","uuid":"526d52da-57f7-493d-8897-15a269911474"}
+{"description":"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)","due":"20250227T045900Z","entry":"20250223T201116Z","modified":"20250225T211328Z","project":"ENG4000","status":"pending","uuid":"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"}
+{"description":"Generate documentation for scheduler","due":"20250227T045900Z","entry":"20250224T144705Z","modified":"20250225T211335Z","project":"ENG4000","status":"pending","uuid":"c753b42a-fa0b-4188-bb7b-a8f8cad26494"}
+{"description":"test","entry":"20250225T211700Z","modified":"20250225T211700Z","priority":"H","status":"pending","uuid":"9d758b57-8217-44f0-b9c1-ba6991840ab3"}
+{"description":"p:M","entry":"20250225T211700Z","modified":"20250225T211708Z","priority":"H","status":"pending","uuid":"9d758b57-8217-44f0-b9c1-ba6991840ab3"}
+{"description":"p:M","entry":"20250225T211700Z","modified":"20250225T211717Z","priority":"M","status":"pending","uuid":"9d758b57-8217-44f0-b9c1-ba6991840ab3"}
+{"description":"p:M","end":"20250225T211723Z","entry":"20250225T211700Z","modified":"20250225T211725Z","priority":"M","status":"deleted","uuid":"9d758b57-8217-44f0-b9c1-ba6991840ab3"}
+{"description":"Progress report","due":"20250225T045900Z","entry":"20250219T203420Z","modified":"20250225T211839Z","priority":"H","project":"ENG4000","status":"pending","uuid":"fef6aa2e-b5bf-47e9-8ef6-d1c1c69924a6"}
+{"description":"Term test 1","due":"20250227T220000Z","entry":"20250219T203206Z","modified":"20250225T211847Z","priority":"H","project":"EECS4313","status":"pending","uuid":"9a8d2aa1-f3b2-41c1-8dae-71399ec5b175"}
+{"description":"Prepare PASS session (week 6)","due":"20250227T045900Z","entry":"20250224T170707Z","modified":"20250225T211915Z","priority":"H","project":"PASS","status":"pending","uuid":"fde5559b-c1fd-4160-8e5c-9d13c8f43abc"}

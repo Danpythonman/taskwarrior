@@ -1,3 +1,7 @@
+[description:"p:M" end:"1740518243" entry:"1740518220" modified:"1740518245" priority:"M" status:"deleted" uuid:"9d758b57-8217-44f0-b9c1-ba6991840ab3"]
+[description:"Watch refactoring 2 videos" due:"1740517140" end:"1740515008" entry:"1739466333" modified:"1740515008" project:"EECS4313" status:"completed" uuid:"fadbb8e7-4829-4be7-b321-943bdb0b2833"]
+[description:"Midterm" due:"1740506400" end:"1740512583" entry:"1739997231" modified:"1740512583" project:"ENG4550" status:"completed" uuid:"2eec9452-6c86-48ed-807e-fddbdc4ce7dc"]
+[description:"Project check in 1 doc" due:"1740373199" end:"1740461741" entry:"1740366024" modified:"1740461741" project:"EECS4314" status:"completed" uuid:"f32b245b-0b0f-41f7-aa5c-bc8d55f069bf"]
 [description:"Project check in 1 (notification service in Go)" due:"1740459540" end:"1740366036" entry:"1739996855" modified:"1740366036" project:"EECS4314" status:"completed" uuid:"15ed8e50-6833-4613-990d-ed2bd49e5f43"]
 [description:"Post video about circuits for PASS" end:"1740164634" entry:"1739480417" modified:"1740164634" project:"PASS" status:"completed" uuid:"1d1fa648-c9a5-417b-bb96-bc822be1167a"]
 [description:"Lab 1 report" due:"1740545940" end:"1740012987" entry:"1739650072" modified:"1740012987" project:"ENG4550" status:"completed" uuid:"9b3a33e1-8bc7-41bb-8cec-843ed9c791f4"]
