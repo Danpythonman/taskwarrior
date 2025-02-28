@@ -8,4 +8,4 @@
 [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1740632340" entry:"1740341476" modified:"1740518008" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
 [description:"Generate documentation for scheduler" due:"1740632340" entry:"1740408425" modified:"1740518015" project:"ENG4000" status:"pending" uuid:"c753b42a-fa0b-4188-bb7b-a8f8cad26494"]
 [description:"Lab 2 prelab" due:"1740718740" entry:"1740408713" modified:"1740408713" project:"ENG4550" status:"pending" uuid:"20d017ff-56a0-4668-a3f9-b5957d60b34f"]
-[description:"Prepare PASS session (week 6)" due:"1740632340" entry:"1740416827" modified:"1740518355" priority:"H" project:"PASS" status:"pending" uuid:"fde5559b-c1fd-4160-8e5c-9d13c8f43abc"]
+[description:"Finish notes from Thu Feb 27" due:"1740718799" entry:"1740684360" modified:"1740684360" project:"ENG4550" status:"pending" uuid:"051b8994-1d48-4536-84c7-4de0d0cd8ee2"]
