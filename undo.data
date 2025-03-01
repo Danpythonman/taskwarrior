@@ -826,3 +826,11 @@ new [description:"Prepare PASS session (week 6)" due:"1740632340" end:"174067206
 time 1740684360
 new [description:"Finish notes from Thu Feb 27" due:"1740718799" entry:"1740684360" modified:"1740684360" project:"ENG4550" status:"pending" uuid:"051b8994-1d48-4536-84c7-4de0d0cd8ee2"]
 ---
+time 1740775397
+old [description:"Term test 1" due:"1740693600" entry:"1739997126" modified:"1740518327" priority:"H" project:"EECS4313" status:"pending" uuid:"9a8d2aa1-f3b2-41c1-8dae-71399ec5b175"]
+new [description:"Term test 1" due:"1740693600" end:"1740775397" entry:"1739997126" modified:"1740775397" priority:"H" project:"EECS4313" status:"completed" uuid:"9a8d2aa1-f3b2-41c1-8dae-71399ec5b175"]
+---
+time 1740775406
+old [description:"Finish notes from Thu Feb 27" due:"1740718799" entry:"1740684360" modified:"1740684360" project:"ENG4550" status:"pending" uuid:"051b8994-1d48-4536-84c7-4de0d0cd8ee2"]
+new [description:"Finish notes from Thu Feb 27" due:"1740718799" end:"1740775406" entry:"1740684360" modified:"1740775406" project:"ENG4550" status:"completed" uuid:"051b8994-1d48-4536-84c7-4de0d0cd8ee2"]
+---
