@@ -834,3 +834,21 @@ time 1740775406
 old [description:"Finish notes from Thu Feb 27" due:"1740718799" entry:"1740684360" modified:"1740684360" project:"ENG4550" status:"pending" uuid:"051b8994-1d48-4536-84c7-4de0d0cd8ee2"]
 new [description:"Finish notes from Thu Feb 27" due:"1740718799" end:"1740775406" entry:"1740684360" modified:"1740775406" project:"ENG4550" status:"completed" uuid:"051b8994-1d48-4536-84c7-4de0d0cd8ee2"]
 ---
+time 1740855910
+old [description:"Quiz 2" due:"1740805140" entry:"1739996987" modified:"1740461767" project:"EECS4314" status:"pending" uuid:"43a723b8-470f-4a24-a913-12bcc9452636"]
+new [description:"Quiz 2" due:"1740805140" end:"1740855910" entry:"1739996987" modified:"1740855910" project:"EECS4314" status:"completed" uuid:"43a723b8-470f-4a24-a913-12bcc9452636"]
+---
+time 1740954001
+old [description:"Dockerize scheduler" due:"1740632340" entry:"1739206817" modified:"1740518002" project:"ENG4000" status:"pending" uuid:"526d52da-57f7-493d-8897-15a269911474"]
+new [description:"Dockerize scheduler" due:"1740632340" end:"1740954001" entry:"1739206817" modified:"1740954001" project:"ENG4000" status:"completed" uuid:"526d52da-57f7-493d-8897-15a269911474"]
+---
+time 1740962175
+old [description:"Generate documentation for scheduler" due:"1740632340" entry:"1740408425" modified:"1740518015" project:"ENG4000" status:"pending" uuid:"c753b42a-fa0b-4188-bb7b-a8f8cad26494"]
+new [description:"Generate documentation for scheduler" due:"1740632340" end:"1740962175" entry:"1740408425" modified:"1740962175" project:"ENG4000" status:"completed" uuid:"c753b42a-fa0b-4188-bb7b-a8f8cad26494"]
+---
+time 1740962198
+new [description:"Pass session week 7" entry:"1740962198" modified:"1740962198" project:"PASS" status:"pending" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
+---
+time 1740962219
+new [description:"Start on Lab 2 report" due:"1740977999" entry:"1740962219" modified:"1740962219" project:"ENG4550" status:"pending" uuid:"c0d02b61-d2a3-4778-bcc5-29f54fe8a9a6"]
+---
