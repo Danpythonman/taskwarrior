@@ -852,3 +852,56 @@ new [description:"Pass session week 7" entry:"1740962198" modified:"1740962198" 
 time 1740962219
 new [description:"Start on Lab 2 report" due:"1740977999" entry:"1740962219" modified:"1740962219" project:"ENG4550" status:"pending" uuid:"c0d02b61-d2a3-4778-bcc5-29f54fe8a9a6"]
 ---
+time 1741113752
+old [description:"Progress report" due:"1740459540" entry:"1739997260" modified:"1740518319" priority:"H" project:"ENG4000" status:"pending" uuid:"fef6aa2e-b5bf-47e9-8ef6-d1c1c69924a6"]
+new [description:"Progress report" due:"1740459540" end:"1741113752" entry:"1739997260" modified:"1741113752" priority:"H" project:"ENG4000" status:"completed" uuid:"fef6aa2e-b5bf-47e9-8ef6-d1c1c69924a6"]
+---
+time 1741113759
+old [description:"Start on Lab 2 report" due:"1740977999" entry:"1740962219" modified:"1740962219" project:"ENG4550" status:"pending" uuid:"c0d02b61-d2a3-4778-bcc5-29f54fe8a9a6"]
+new [description:"Start on Lab 2 report" due:"1740977999" end:"1741113759" entry:"1740962219" modified:"1741113759" project:"ENG4550" status:"completed" uuid:"c0d02b61-d2a3-4778-bcc5-29f54fe8a9a6"]
+---
+time 1741113827
+new [description:"Lecture notes from missed lecture (Mar. 4; routh arrays)" due:"1741237140" entry:"1741113827" modified:"1741113827" project:"ENG4550" status:"pending" uuid:"3b3fae2c-9c79-4d44-9daa-1fa623eceaee"]
+---
+time 1741113941
+new [description:"Watch graph based metric lecture videos" due:"1741121940" entry:"1741113941" modified:"1741113941" priority:"H" project:"EECS4313" status:"pending" uuid:"49515c33-69a2-451b-99c9-b6f1193a44b9"]
+---
+time 1741113996
+new [description:"Watch Miller's metric lecture videos" due:"1741294740" entry:"1741113996" modified:"1741113996" status:"pending" uuid:"fb6f0b74-1df2-4290-8ad4-f4fbfbe71e75"]
+---
+time 1741114031
+old [description:"Pass session week 7" entry:"1740962198" modified:"1740962198" project:"PASS" status:"pending" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
+new [description:"Pass session week 7" due:"1741237140" entry:"1740962198" modified:"1741114031" project:"PASS" status:"pending" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
+---
+time 1741114043
+old [description:"Pass session week 7" due:"1741237140" entry:"1740962198" modified:"1741114031" project:"PASS" status:"pending" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
+new [description:"Pass session week 7" due:"1741237140" entry:"1740962198" modified:"1741114043" priority:"H" project:"PASS" status:"pending" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
+---
+time 1741114067
+old [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1740632340" entry:"1740341476" modified:"1740518008" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
+new [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1741409940" entry:"1740341476" modified:"1741114067" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
+---
+time 1741114077
+old [description:"Handle repeated events in schedule" due:"1740946223" entry:"1739202383" modified:"1740341423" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+new [description:"Handle repeated events in schedule" due:"1741409940" entry:"1739202383" modified:"1741114077" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+---
+time 1741114100
+old [description:"Lab 2 prelab" due:"1740718740" entry:"1740408713" modified:"1740408713" project:"ENG4550" status:"pending" uuid:"20d017ff-56a0-4668-a3f9-b5957d60b34f"]
+new [description:"Lab 2 prelab" entry:"1740408713" modified:"1741114100" priority:"H" project:"ENG4550" status:"pending" uuid:"20d017ff-56a0-4668-a3f9-b5957d60b34f"]
+---
+time 1741114108
+old [description:"Lab 2 prelab" entry:"1740408713" modified:"1741114100" priority:"H" project:"ENG4550" status:"pending" uuid:"20d017ff-56a0-4668-a3f9-b5957d60b34f"]
+new [description:"Lab 2 prelab" due:"1741323540" entry:"1740408713" modified:"1741114108" priority:"H" project:"ENG4550" status:"pending" uuid:"20d017ff-56a0-4668-a3f9-b5957d60b34f"]
+---
+time 1741117642
+old [description:"Watch graph based metric lecture videos" due:"1741121940" entry:"1741113941" modified:"1741113941" priority:"H" project:"EECS4313" status:"pending" uuid:"49515c33-69a2-451b-99c9-b6f1193a44b9"]
+new [description:"Watch graph based metric lecture videos" due:"1741121940" end:"1741117642" entry:"1741113941" modified:"1741117642" priority:"H" project:"EECS4313" status:"completed" uuid:"49515c33-69a2-451b-99c9-b6f1193a44b9"]
+---
+time 1741126106
+old [description:"Watch Miller's metric lecture videos" due:"1741294740" entry:"1741113996" modified:"1741113996" status:"pending" uuid:"fb6f0b74-1df2-4290-8ad4-f4fbfbe71e75"]
+new [description:"Watch Miller's metric lecture videos" due:"1741294740" entry:"1741113996" modified:"1741126106" project:"EECS4313" status:"pending" uuid:"fb6f0b74-1df2-4290-8ad4-f4fbfbe71e75"]
+---
+time 1741136541
+old [description:"Pass session week 7" due:"1741237140" entry:"1740962198" modified:"1741114043" priority:"H" project:"PASS" status:"pending" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
+new [description:"Pass session week 7" due:"1741237140" end:"1741136541" entry:"1740962198" modified:"1741136541" priority:"H" project:"PASS" status:"completed" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
+---

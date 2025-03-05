@@ -1,3 +1,7 @@
+[description:"Pass session week 7" due:"1741237140" end:"1741136541" entry:"1740962198" modified:"1741136541" priority:"H" project:"PASS" status:"completed" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
+[description:"Watch graph based metric lecture videos" due:"1741121940" end:"1741117642" entry:"1741113941" modified:"1741117642" priority:"H" project:"EECS4313" status:"completed" uuid:"49515c33-69a2-451b-99c9-b6f1193a44b9"]
+[description:"Start on Lab 2 report" due:"1740977999" end:"1741113759" entry:"1740962219" modified:"1741113759" project:"ENG4550" status:"completed" uuid:"c0d02b61-d2a3-4778-bcc5-29f54fe8a9a6"]
+[description:"Progress report" due:"1740459540" end:"1741113752" entry:"1739997260" modified:"1741113752" priority:"H" project:"ENG4000" status:"completed" uuid:"fef6aa2e-b5bf-47e9-8ef6-d1c1c69924a6"]
 [description:"Generate documentation for scheduler" due:"1740632340" end:"1740962175" entry:"1740408425" modified:"1740962175" project:"ENG4000" status:"completed" uuid:"c753b42a-fa0b-4188-bb7b-a8f8cad26494"]
 [description:"Dockerize scheduler" due:"1740632340" end:"1740954001" entry:"1739206817" modified:"1740954001" project:"ENG4000" status:"completed" uuid:"526d52da-57f7-493d-8897-15a269911474"]
 [description:"Quiz 2" due:"1740805140" end:"1740855910" entry:"1739996987" modified:"1740855910" project:"EECS4314" status:"completed" uuid:"43a723b8-470f-4a24-a913-12bcc9452636"]
