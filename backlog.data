@@ -254,3 +254,4 @@
 {"description":"Watch graph based metric lecture videos","due":"20250304T205900Z","end":"20250304T194722Z","entry":"20250304T184541Z","modified":"20250304T194722Z","priority":"H","project":"EECS4313","status":"completed","uuid":"49515c33-69a2-451b-99c9-b6f1193a44b9"}
 {"description":"Watch Miller's metric lecture videos","due":"20250306T205900Z","entry":"20250304T184636Z","modified":"20250304T220826Z","project":"EECS4313","status":"pending","uuid":"fb6f0b74-1df2-4290-8ad4-f4fbfbe71e75"}
 {"description":"Pass session week 7","due":"20250306T045900Z","end":"20250305T010221Z","entry":"20250303T003638Z","modified":"20250305T010221Z","priority":"H","project":"PASS","status":"completed","uuid":"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"}
+{"description":"Midterm","due":"20250305T190000Z","end":"20250305T175155Z","entry":"20250219T202914Z","modified":"20250305T175155Z","project":"EECS4314","status":"completed","uuid":"f962c4f0-f500-4666-84d3-1cc339222bfb"}

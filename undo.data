@@ -905,3 +905,7 @@ time 1741136541
 old [description:"Pass session week 7" due:"1741237140" entry:"1740962198" modified:"1741114043" priority:"H" project:"PASS" status:"pending" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
 new [description:"Pass session week 7" due:"1741237140" end:"1741136541" entry:"1740962198" modified:"1741136541" priority:"H" project:"PASS" status:"completed" uuid:"a7be48b3-fd4a-4040-a530-46d1f7db6d1b"]
 ---
+time 1741197115
+old [description:"Midterm" due:"1741201200" entry:"1739996954" modified:"1739996954" project:"EECS4314" status:"pending" uuid:"f962c4f0-f500-4666-84d3-1cc339222bfb"]
+new [description:"Midterm" due:"1741201200" end:"1741197115" entry:"1739996954" modified:"1741197115" project:"EECS4314" status:"completed" uuid:"f962c4f0-f500-4666-84d3-1cc339222bfb"]
+---

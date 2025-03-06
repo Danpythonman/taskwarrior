@@ -1,5 +1,4 @@
 [description:"Handle repeated events in schedule" due:"1741409940" entry:"1739202383" modified:"1741114077" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
-[description:"Midterm" due:"1741201200" entry:"1739996954" modified:"1739996954" project:"EECS4314" status:"pending" uuid:"f962c4f0-f500-4666-84d3-1cc339222bfb"]
 [description:"Written test 1" due:"1741269600" entry:"1739997050" modified:"1739997050" project:"EECS4315" status:"pending" uuid:"e059bd99-d43e-4bf5-a977-9ed5f905bdf0"]
 [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1741409940" entry:"1740341476" modified:"1741114067" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
 [description:"Lab 2 prelab" due:"1741323540" entry:"1740408713" modified:"1741114108" priority:"H" project:"ENG4550" status:"pending" uuid:"20d017ff-56a0-4668-a3f9-b5957d60b34f"]
