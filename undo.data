@@ -909,3 +909,28 @@ time 1741197115
 old [description:"Midterm" due:"1741201200" entry:"1739996954" modified:"1739996954" project:"EECS4314" status:"pending" uuid:"f962c4f0-f500-4666-84d3-1cc339222bfb"]
 new [description:"Midterm" due:"1741201200" end:"1741197115" entry:"1739996954" modified:"1741197115" project:"EECS4314" status:"completed" uuid:"f962c4f0-f500-4666-84d3-1cc339222bfb"]
 ---
+time 1741246540
+old [description:"Lecture notes from missed lecture (Mar. 4; routh arrays)" due:"1741237140" entry:"1741113827" modified:"1741113827" project:"ENG4550" status:"pending" uuid:"3b3fae2c-9c79-4d44-9daa-1fa623eceaee"]
+new [description:"Lecture notes from missed lecture (Mar. 4; routh arrays)" due:"1741237140" entry:"1741113827" modified:"1741246540" priority:"H" project:"ENG4550" status:"pending" uuid:"3b3fae2c-9c79-4d44-9daa-1fa623eceaee"]
+---
+time 1741246576
+new [description:"Post this week's worksheet" due:"1741280400" entry:"1741246576" modified:"1741246576" priority:"H" project:"PASS" status:"pending" uuid:"a7cccba7-dac4-47e3-b0b7-7c9d2746df33"]
+---
+time 1741273213
+old [description:"Written test 1" due:"1741269600" entry:"1739997050" modified:"1739997050" project:"EECS4315" status:"pending" uuid:"e059bd99-d43e-4bf5-a977-9ed5f905bdf0"]
+new [description:"Written test 1" due:"1741269600" end:"1741273213" entry:"1739997050" modified:"1741273213" project:"EECS4315" status:"completed" uuid:"e059bd99-d43e-4bf5-a977-9ed5f905bdf0"]
+---
+time 1741374697
+old [description:"Post this week's worksheet" due:"1741280400" entry:"1741246576" modified:"1741246576" priority:"H" project:"PASS" status:"pending" uuid:"a7cccba7-dac4-47e3-b0b7-7c9d2746df33"]
+new [description:"Post this week's worksheet" due:"1741280400" end:"1741374697" entry:"1741246576" modified:"1741374697" priority:"H" project:"PASS" status:"completed" uuid:"a7cccba7-dac4-47e3-b0b7-7c9d2746df33"]
+---
+time 1741375116
+new [description:"Lab 2 report" due:"1741751940" entry:"1741375116" modified:"1741375116" status:"pending" uuid:"ddf8f463-c761-4aa0-9c00-3e7971032f96"]
+---
+time 1741375138
+old [description:"Lab 2 report" due:"1741751940" entry:"1741375116" modified:"1741375116" status:"pending" uuid:"ddf8f463-c761-4aa0-9c00-3e7971032f96"]
+new [description:"Lab 2 report" due:"1741751940" entry:"1741375116" modified:"1741375138" project:"ENG4550" status:"pending" uuid:"ddf8f463-c761-4aa0-9c00-3e7971032f96"]
+---
+time 1741375166
+new [description:"Assignment 3" due:"1741881540" entry:"1741375165" modified:"1741375165" project:"ENG4550" status:"pending" uuid:"b8117a20-247b-426d-8c1b-2a9509ebfcc5"]
+---
