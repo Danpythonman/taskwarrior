@@ -7,3 +7,5 @@
 [description:"Prepare week 8 PASS session" due:"1741838340" entry:"1741584086" modified:"1741584096" project:"PASS" status:"pending" uuid:"6af8a687-2a35-49ce-b79a-2625801b31fd"]
 [description:"Kafka configuration" due:"1741665540" entry:"1741584138" modified:"1741584138" project:"EECS4314" status:"pending" uuid:"e20a9842-094a-40ea-8309-806cd26b1f75"]
 [description:"Watch lecture videos" due:"1741723140" entry:"1741584209" modified:"1741584209" project:"EECS4313" status:"pending" uuid:"4782d5c8-ef81-4d90-9c2c-320efcb6a509"]
+[description:"Lab 3" due:"1742270340" entry:"1741627301" modified:"1741627301" project:"EECS4315" status:"pending" uuid:"9c55fbeb-2f6a-469d-bd18-196e256bc0d3"]
+[description:"Lab 3 prelab" due:"1741924740" entry:"1741627327" modified:"1741627327" project:"ENG4550" status:"pending" uuid:"e84ef065-1de7-4e91-b8cd-3a3863fab380"]

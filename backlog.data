@@ -270,3 +270,5 @@
 {"description":"Lecture notes from missed lecture (Mar. 4; routh arrays)","due":"20250311T035900Z","entry":"20250304T184347Z","modified":"20250310T052301Z","priority":"H","project":"ENG4550","status":"pending","uuid":"3b3fae2c-9c79-4d44-9daa-1fa623eceaee"}
 {"description":"Watch Miller's metric lecture videos","due":"20250311T195900Z","entry":"20250304T184636Z","modified":"20250310T052312Z","project":"EECS4313","status":"pending","uuid":"fb6f0b74-1df2-4290-8ad4-f4fbfbe71e75"}
 {"description":"Watch lecture videos","due":"20250311T195900Z","entry":"20250310T052329Z","modified":"20250310T052329Z","project":"EECS4313","status":"pending","uuid":"4782d5c8-ef81-4d90-9c2c-320efcb6a509"}
+{"description":"Lab 3","due":"20250318T035900Z","entry":"20250310T172141Z","modified":"20250310T172141Z","project":"EECS4315","status":"pending","uuid":"9c55fbeb-2f6a-469d-bd18-196e256bc0d3"}
+{"description":"Lab 3 prelab","due":"20250314T035900Z","entry":"20250310T172207Z","modified":"20250310T172207Z","project":"ENG4550","status":"pending","uuid":"e84ef065-1de7-4e91-b8cd-3a3863fab380"}
