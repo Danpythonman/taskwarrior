@@ -1,3 +1,7 @@
+[description:"MCDC and McCabe Metric videos" due:"1741723140" end:"1741675593" entry:"1741584209" modified:"1741675593" project:"EECS4313" status:"completed" uuid:"4782d5c8-ef81-4d90-9c2c-320efcb6a509"]
+[description:"Watch Miller's metric lecture videos" due:"1741723140" end:"1741674908" entry:"1741113996" modified:"1741674908" project:"EECS4313" status:"completed" uuid:"fb6f0b74-1df2-4290-8ad4-f4fbfbe71e75"]
+[description:"Lecture notes from missed lecture (Mar. 4; routh arrays)" due:"1741665540" end:"1741673823" entry:"1741113827" modified:"1741673823" priority:"H" project:"ENG4550" status:"completed" uuid:"3b3fae2c-9c79-4d44-9daa-1fa623eceaee"]
+[description:"Kafka configuration" due:"1741665540" end:"1741672335" entry:"1741584138" modified:"1741672335" project:"EECS4314" status:"completed" uuid:"e20a9842-094a-40ea-8309-806cd26b1f75"]
 [description:"Lab 2 prelab" due:"1741323540" end:"1741545997" entry:"1740408713" modified:"1741545997" priority:"H" project:"ENG4550" status:"completed" uuid:"20d017ff-56a0-4668-a3f9-b5957d60b34f"]
 [description:"Post this week's worksheet" due:"1741280400" end:"1741374697" entry:"1741246576" modified:"1741374697" priority:"H" project:"PASS" status:"completed" uuid:"a7cccba7-dac4-47e3-b0b7-7c9d2746df33"]
 [description:"Written test 1" due:"1741269600" end:"1741273213" entry:"1739997050" modified:"1741273213" project:"EECS4315" status:"completed" uuid:"e059bd99-d43e-4bf5-a977-9ed5f905bdf0"]

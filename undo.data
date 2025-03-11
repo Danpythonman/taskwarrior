@@ -969,3 +969,26 @@ new [description:"Lab 3" due:"1742270340" entry:"1741627301" modified:"174162730
 time 1741627327
 new [description:"Lab 3 prelab" due:"1741924740" entry:"1741627327" modified:"1741627327" project:"ENG4550" status:"pending" uuid:"e84ef065-1de7-4e91-b8cd-3a3863fab380"]
 ---
+time 1741672335
+old [description:"Kafka configuration" due:"1741665540" entry:"1741584138" modified:"1741584138" project:"EECS4314" status:"pending" uuid:"e20a9842-094a-40ea-8309-806cd26b1f75"]
+new [description:"Kafka configuration" due:"1741665540" end:"1741672335" entry:"1741584138" modified:"1741672335" project:"EECS4314" status:"completed" uuid:"e20a9842-094a-40ea-8309-806cd26b1f75"]
+---
+time 1741673814
+old [description:"Watch lecture videos" due:"1741723140" entry:"1741584209" modified:"1741584209" project:"EECS4313" status:"pending" uuid:"4782d5c8-ef81-4d90-9c2c-320efcb6a509"]
+new [description:"MCDC and McCabe Metric videos" due:"1741723140" entry:"1741584209" modified:"1741673814" project:"EECS4313" status:"pending" uuid:"4782d5c8-ef81-4d90-9c2c-320efcb6a509"]
+---
+time 1741673823
+old [description:"Lecture notes from missed lecture (Mar. 4; routh arrays)" due:"1741665540" entry:"1741113827" modified:"1741584181" priority:"H" project:"ENG4550" status:"pending" uuid:"3b3fae2c-9c79-4d44-9daa-1fa623eceaee"]
+new [description:"Lecture notes from missed lecture (Mar. 4; routh arrays)" due:"1741665540" end:"1741673823" entry:"1741113827" modified:"1741673823" priority:"H" project:"ENG4550" status:"completed" uuid:"3b3fae2c-9c79-4d44-9daa-1fa623eceaee"]
+---
+time 1741673896
+new [description:"Watch dataflow testing videos" due:"1741892400" entry:"1741673896" modified:"1741673896" project:"EECS4313" status:"pending" uuid:"fab1777b-ef3b-4aa7-9079-ecda5eda7376"]
+---
+time 1741674908
+old [description:"Watch Miller's metric lecture videos" due:"1741723140" entry:"1741113996" modified:"1741584192" project:"EECS4313" status:"pending" uuid:"fb6f0b74-1df2-4290-8ad4-f4fbfbe71e75"]
+new [description:"Watch Miller's metric lecture videos" due:"1741723140" end:"1741674908" entry:"1741113996" modified:"1741674908" project:"EECS4313" status:"completed" uuid:"fb6f0b74-1df2-4290-8ad4-f4fbfbe71e75"]
+---
+time 1741675593
+old [description:"MCDC and McCabe Metric videos" due:"1741723140" entry:"1741584209" modified:"1741673814" project:"EECS4313" status:"pending" uuid:"4782d5c8-ef81-4d90-9c2c-320efcb6a509"]
+new [description:"MCDC and McCabe Metric videos" due:"1741723140" end:"1741675593" entry:"1741584209" modified:"1741675593" project:"EECS4313" status:"completed" uuid:"4782d5c8-ef81-4d90-9c2c-320efcb6a509"]
+---
