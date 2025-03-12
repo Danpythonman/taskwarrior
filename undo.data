@@ -1013,3 +1013,7 @@ new [description:"Remind Maleknaz about vector scholarship" entry:"1741715126" m
 time 1741715160
 new [description:"Go to Jackie office hours for vector scholarship" entry:"1741715160" modified:"1741715160" priority:"H" status:"pending" uuid:"1187542b-1ecf-408a-8e75-dbf230311da2"]
 ---
+time 1741732574
+old [description:"Lecture notes from missed lecture (steady state errors)" entry:"1741715045" modified:"1741715045" project:"ENG4550" status:"pending" uuid:"d57b6114-5a73-4915-9410-539dcc0165f6"]
+new [description:"Lecture notes from missed lecture (steady state errors)" due:"1741838340" entry:"1741715045" modified:"1741732574" project:"ENG4550" status:"pending" uuid:"d57b6114-5a73-4915-9410-539dcc0165f6"]
+---
