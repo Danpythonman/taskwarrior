@@ -285,3 +285,8 @@
 {"description":"Remind Maleknaz about vector scholarship","entry":"20250311T174526Z","modified":"20250311T174526Z","priority":"H","status":"pending","uuid":"4c9ab6fd-07d3-496f-be95-3147e9477ba5"}
 {"description":"Go to Jackie office hours for vector scholarship","entry":"20250311T174600Z","modified":"20250311T174600Z","priority":"H","status":"pending","uuid":"1187542b-1ecf-408a-8e75-dbf230311da2"}
 {"description":"Lecture notes from missed lecture (steady state errors)","due":"20250313T035900Z","entry":"20250311T174405Z","modified":"20250311T223614Z","project":"ENG4550","status":"pending","uuid":"d57b6114-5a73-4915-9410-539dcc0165f6"}
+{"description":"Solutions for PASS session","entry":"20250313T204448Z","modified":"20250313T204448Z","status":"pending","uuid":"5bd5ab92-dec0-4b08-ba13-eb855452714c"}
+{"description":"Lab 2 report","due":"20250312T035900Z","end":"20250314T001732Z","entry":"20250307T191836Z","modified":"20250314T001732Z","priority":"H","project":"ENG4550","status":"completed","uuid":"ddf8f463-c761-4aa0-9c00-3e7971032f96"}
+{"description":"Assignment 3","due":"20250313T155900Z","end":"20250314T002455Z","entry":"20250307T191925Z","modified":"20250314T002455Z","priority":"H","project":"ENG4550","status":"completed","uuid":"b8117a20-247b-426d-8c1b-2a9509ebfcc5"}
+{"description":"Remind Maleknaz about vector scholarship","end":"20250314T002503Z","entry":"20250311T174526Z","modified":"20250314T002503Z","priority":"H","status":"completed","uuid":"4c9ab6fd-07d3-496f-be95-3147e9477ba5"}
+{"description":"Go to Jackie office hours for vector scholarship","end":"20250314T002506Z","entry":"20250311T174600Z","modified":"20250314T002506Z","priority":"H","status":"completed","uuid":"1187542b-1ecf-408a-8e75-dbf230311da2"}

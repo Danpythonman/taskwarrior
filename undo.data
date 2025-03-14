@@ -1017,3 +1017,22 @@ time 1741732574
 old [description:"Lecture notes from missed lecture (steady state errors)" entry:"1741715045" modified:"1741715045" project:"ENG4550" status:"pending" uuid:"d57b6114-5a73-4915-9410-539dcc0165f6"]
 new [description:"Lecture notes from missed lecture (steady state errors)" due:"1741838340" entry:"1741715045" modified:"1741732574" project:"ENG4550" status:"pending" uuid:"d57b6114-5a73-4915-9410-539dcc0165f6"]
 ---
+time 1741898688
+new [description:"Solutions for PASS session" entry:"1741898688" modified:"1741898688" status:"pending" uuid:"5bd5ab92-dec0-4b08-ba13-eb855452714c"]
+---
+time 1741911452
+old [description:"Lab 2 report" due:"1741751940" entry:"1741375116" modified:"1741715067" priority:"H" project:"ENG4550" status:"pending" uuid:"ddf8f463-c761-4aa0-9c00-3e7971032f96"]
+new [description:"Lab 2 report" due:"1741751940" end:"1741911452" entry:"1741375116" modified:"1741911452" priority:"H" project:"ENG4550" status:"completed" uuid:"ddf8f463-c761-4aa0-9c00-3e7971032f96"]
+---
+time 1741911895
+old [description:"Assignment 3" due:"1741881540" entry:"1741375165" modified:"1741715087" priority:"H" project:"ENG4550" status:"pending" uuid:"b8117a20-247b-426d-8c1b-2a9509ebfcc5"]
+new [description:"Assignment 3" due:"1741881540" end:"1741911895" entry:"1741375165" modified:"1741911895" priority:"H" project:"ENG4550" status:"completed" uuid:"b8117a20-247b-426d-8c1b-2a9509ebfcc5"]
+---
+time 1741911903
+old [description:"Remind Maleknaz about vector scholarship" entry:"1741715126" modified:"1741715126" priority:"H" status:"pending" uuid:"4c9ab6fd-07d3-496f-be95-3147e9477ba5"]
+new [description:"Remind Maleknaz about vector scholarship" end:"1741911903" entry:"1741715126" modified:"1741911903" priority:"H" status:"completed" uuid:"4c9ab6fd-07d3-496f-be95-3147e9477ba5"]
+---
+time 1741911906
+old [description:"Go to Jackie office hours for vector scholarship" entry:"1741715160" modified:"1741715160" priority:"H" status:"pending" uuid:"1187542b-1ecf-408a-8e75-dbf230311da2"]
+new [description:"Go to Jackie office hours for vector scholarship" end:"1741911906" entry:"1741715160" modified:"1741911906" priority:"H" status:"completed" uuid:"1187542b-1ecf-408a-8e75-dbf230311da2"]
+---
