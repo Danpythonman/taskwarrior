@@ -1066,3 +1066,10 @@ time 1741973468
 old [description:"Watch dataflow testing videos" due:"1741892400" entry:"1741673896" modified:"1741673896" project:"EECS4313" status:"pending" uuid:"fab1777b-ef3b-4aa7-9079-ecda5eda7376"]
 new [description:"Watch dataflow testing videos" due:"1741892400" end:"1741973468" entry:"1741673896" modified:"1741973468" project:"EECS4313" status:"completed" uuid:"fab1777b-ef3b-4aa7-9079-ecda5eda7376"]
 ---
+time 1742078297
+old [description:"Lab 3" due:"1742270340" entry:"1741627301" modified:"1741627301" project:"EECS4315" status:"pending" uuid:"9c55fbeb-2f6a-469d-bd18-196e256bc0d3"]
+new [description:"Lab 3" due:"1742270340" end:"1742078297" entry:"1741627301" modified:"1742078297" project:"EECS4315" status:"completed" uuid:"9c55fbeb-2f6a-469d-bd18-196e256bc0d3"]
+---
+time 1742078324
+new [description:"Ask Jackie Lab 3 questions in office hours" due:"1742234400" entry:"1742078324" modified:"1742078324" project:"EECS4315" status:"pending" uuid:"281f795d-2179-4ed3-872d-8a3aeaf76f46"]
+---

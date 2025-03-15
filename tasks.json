@@ -1,8 +1,8 @@
 [
 {"id":1,"description":"Handle repeated events in schedule","due":"20250308T045900Z","entry":"20250210T154623Z","modified":"20250304T184757Z","project":"ENG4000","status":"pending","uuid":"8925dc4c-5a44-42b0-95ef-b656dba35249","urgency":13.1808},
 {"id":2,"description":"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)","due":"20250308T045900Z","entry":"20250223T201116Z","modified":"20250304T184747Z","project":"ENG4000","status":"pending","uuid":"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81","urgency":13.1096},
-{"id":3,"description":"Lab 3","due":"20250318T035900Z","entry":"20250310T172141Z","modified":"20250310T172141Z","project":"EECS4315","status":"pending","uuid":"9c55fbeb-2f6a-469d-bd18-196e256bc0d3","urgency":8.77379},
-{"id":4,"description":"Lab 3 prelab","due":"20250314T035900Z","entry":"20250310T172207Z","modified":"20250310T172207Z","project":"ENG4550","status":"pending","uuid":"e84ef065-1de7-4e91-b8cd-3a3863fab380","urgency":10.6024},
-{"id":5,"description":"Lecture notes from missed lecture (steady state errors)","due":"20250313T035900Z","entry":"20250311T174405Z","modified":"20250311T223614Z","project":"ENG4550","status":"pending","uuid":"d57b6114-5a73-4915-9410-539dcc0165f6","urgency":11.054},
-{"id":6,"description":"Prepare PASS session for test 2 review","due":"20250316T035900Z","entry":"20250314T065122Z","modified":"20250314T173044Z","project":"PASS","status":"pending","uuid":"41af1680-c8e6-465b-bd9a-59767c4cf8e7","urgency":9.66616}
+{"id":3,"description":"Lab 3 prelab","due":"20250314T035900Z","entry":"20250310T172207Z","modified":"20250310T172207Z","project":"ENG4550","status":"pending","uuid":"e84ef065-1de7-4e91-b8cd-3a3863fab380","urgency":10.6652},
+{"id":4,"description":"Lecture notes from missed lecture (steady state errors)","due":"20250313T035900Z","entry":"20250311T174405Z","modified":"20250311T223614Z","project":"ENG4550","status":"pending","uuid":"d57b6114-5a73-4915-9410-539dcc0165f6","urgency":11.1169},
+{"id":5,"description":"Prepare PASS session for test 2 review","due":"20250316T035900Z","entry":"20250314T065122Z","modified":"20250314T173044Z","project":"PASS","status":"pending","uuid":"41af1680-c8e6-465b-bd9a-59767c4cf8e7","urgency":9.72904},
+{"id":6,"description":"Ask Jackie Lab 3 questions in office hours","due":"20250317T180000Z","entry":"20250315T223844Z","modified":"20250315T223844Z","project":"EECS4315","status":"pending","uuid":"281f795d-2179-4ed3-872d-8a3aeaf76f46","urgency":8.99943}
 ]

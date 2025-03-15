@@ -1,6 +1,6 @@
 [description:"Handle repeated events in schedule" due:"1741409940" entry:"1739202383" modified:"1741114077" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
 [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1741409940" entry:"1740341476" modified:"1741114067" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
-[description:"Lab 3" due:"1742270340" entry:"1741627301" modified:"1741627301" project:"EECS4315" status:"pending" uuid:"9c55fbeb-2f6a-469d-bd18-196e256bc0d3"]
 [description:"Lab 3 prelab" due:"1741924740" entry:"1741627327" modified:"1741627327" project:"ENG4550" status:"pending" uuid:"e84ef065-1de7-4e91-b8cd-3a3863fab380"]
 [description:"Lecture notes from missed lecture (steady state errors)" due:"1741838340" entry:"1741715045" modified:"1741732574" project:"ENG4550" status:"pending" uuid:"d57b6114-5a73-4915-9410-539dcc0165f6"]
 [description:"Prepare PASS session for test 2 review" due:"1742097540" entry:"1741935082" modified:"1741973444" project:"PASS" status:"pending" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]
+[description:"Ask Jackie Lab 3 questions in office hours" due:"1742234400" entry:"1742078324" modified:"1742078324" project:"EECS4315" status:"pending" uuid:"281f795d-2179-4ed3-872d-8a3aeaf76f46"]

@@ -298,3 +298,5 @@
 {"description":"Prepare PASS session for test 2 review","due":"20250316T035900Z","entry":"20250314T065122Z","modified":"20250314T173036Z","status":"pending","uuid":"41af1680-c8e6-465b-bd9a-59767c4cf8e7"}
 {"description":"Prepare PASS session for test 2 review","due":"20250316T035900Z","entry":"20250314T065122Z","modified":"20250314T173044Z","project":"PASS","status":"pending","uuid":"41af1680-c8e6-465b-bd9a-59767c4cf8e7"}
 {"description":"Watch dataflow testing videos","due":"20250313T190000Z","end":"20250314T173108Z","entry":"20250311T061816Z","modified":"20250314T173108Z","project":"EECS4313","status":"completed","uuid":"fab1777b-ef3b-4aa7-9079-ecda5eda7376"}
+{"description":"Lab 3","due":"20250318T035900Z","end":"20250315T223817Z","entry":"20250310T172141Z","modified":"20250315T223817Z","project":"EECS4315","status":"completed","uuid":"9c55fbeb-2f6a-469d-bd18-196e256bc0d3"}
+{"description":"Ask Jackie Lab 3 questions in office hours","due":"20250317T180000Z","entry":"20250315T223844Z","modified":"20250315T223844Z","project":"EECS4315","status":"pending","uuid":"281f795d-2179-4ed3-872d-8a3aeaf76f46"}
