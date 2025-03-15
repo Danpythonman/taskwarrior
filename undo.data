@@ -1050,3 +1050,19 @@ new [description:"Prepare week 8 PASS session" due:"1741838340" end:"1741935070"
 time 1741935082
 new [description:"Prepare PASS session for test 2 review" entry:"1741935082" modified:"1741935082" status:"pending" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]
 ---
+time 1741973418
+old [description:"Solutions for PASS session" entry:"1741898688" modified:"1741898688" status:"pending" uuid:"5bd5ab92-dec0-4b08-ba13-eb855452714c"]
+new [description:"Solutions for PASS session" end:"1741973418" entry:"1741898688" modified:"1741973418" status:"completed" uuid:"5bd5ab92-dec0-4b08-ba13-eb855452714c"]
+---
+time 1741973436
+old [description:"Prepare PASS session for test 2 review" entry:"1741935082" modified:"1741935082" status:"pending" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]
+new [description:"Prepare PASS session for test 2 review" due:"1742097540" entry:"1741935082" modified:"1741973436" status:"pending" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]
+---
+time 1741973444
+old [description:"Prepare PASS session for test 2 review" due:"1742097540" entry:"1741935082" modified:"1741973436" status:"pending" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]
+new [description:"Prepare PASS session for test 2 review" due:"1742097540" entry:"1741935082" modified:"1741973444" project:"PASS" status:"pending" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]
+---
+time 1741973468
+old [description:"Watch dataflow testing videos" due:"1741892400" entry:"1741673896" modified:"1741673896" project:"EECS4313" status:"pending" uuid:"fab1777b-ef3b-4aa7-9079-ecda5eda7376"]
+new [description:"Watch dataflow testing videos" due:"1741892400" end:"1741973468" entry:"1741673896" modified:"1741973468" project:"EECS4313" status:"completed" uuid:"fab1777b-ef3b-4aa7-9079-ecda5eda7376"]
+---

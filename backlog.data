@@ -294,3 +294,7 @@
 {"description":"task","end":"20250314T035231Z","entry":"20250314T035219Z","modified":"20250314T035237Z","status":"deleted","uuid":"6e883617-1931-41cc-a80b-a4670aed2747"}
 {"description":"Prepare week 8 PASS session","due":"20250313T035900Z","end":"20250314T065110Z","entry":"20250310T052126Z","modified":"20250314T065110Z","priority":"H","project":"PASS","status":"completed","uuid":"6af8a687-2a35-49ce-b79a-2625801b31fd"}
 {"description":"Prepare PASS session for test 2 review","entry":"20250314T065122Z","modified":"20250314T065122Z","status":"pending","uuid":"41af1680-c8e6-465b-bd9a-59767c4cf8e7"}
+{"description":"Solutions for PASS session","end":"20250314T173018Z","entry":"20250313T204448Z","modified":"20250314T173018Z","status":"completed","uuid":"5bd5ab92-dec0-4b08-ba13-eb855452714c"}
+{"description":"Prepare PASS session for test 2 review","due":"20250316T035900Z","entry":"20250314T065122Z","modified":"20250314T173036Z","status":"pending","uuid":"41af1680-c8e6-465b-bd9a-59767c4cf8e7"}
+{"description":"Prepare PASS session for test 2 review","due":"20250316T035900Z","entry":"20250314T065122Z","modified":"20250314T173044Z","project":"PASS","status":"pending","uuid":"41af1680-c8e6-465b-bd9a-59767c4cf8e7"}
+{"description":"Watch dataflow testing videos","due":"20250313T190000Z","end":"20250314T173108Z","entry":"20250311T061816Z","modified":"20250314T173108Z","project":"EECS4313","status":"completed","uuid":"fab1777b-ef3b-4aa7-9079-ecda5eda7376"}
