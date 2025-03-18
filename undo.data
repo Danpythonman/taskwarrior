@@ -1073,3 +1073,48 @@ new [description:"Lab 3" due:"1742270340" end:"1742078297" entry:"1741627301" mo
 time 1742078324
 new [description:"Ask Jackie Lab 3 questions in office hours" due:"1742234400" entry:"1742078324" modified:"1742078324" project:"EECS4315" status:"pending" uuid:"281f795d-2179-4ed3-872d-8a3aeaf76f46"]
 ---
+time 1742226286
+old [description:"Prepare PASS session for test 2 review" due:"1742097540" entry:"1741935082" modified:"1741973444" project:"PASS" status:"pending" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]
+new [description:"Prepare PASS session for test 2 review" due:"1742097540" end:"1742226286" entry:"1741935082" modified:"1742226286" project:"PASS" status:"completed" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]
+---
+time 1742226319
+new [description:"Prepare week 9 PASS session (Kahoot and maybe some problem solving)" due:"1742443140" entry:"1742226319" modified:"1742226319" project:"PASS" status:"pending" uuid:"3c11af99-5348-48b8-a590-61459a008df1"]
+---
+time 1742226336
+new [description:"Add Kafka to more services" due:"1742270399" entry:"1742226336" modified:"1742226336" project:"EECS4314" status:"pending" uuid:"7f2155ab-9a74-4991-acb3-4f6900c65192"]
+---
+time 1742226358
+new [description:"Programming test 2" due:"1742475600" entry:"1742226358" modified:"1742226358" project:"EECS4315" status:"pending" uuid:"0107d37e-8306-4f5b-9ffe-3e8575a6d290"]
+---
+time 1742226377
+new [description:"Integrate frontend with backend" due:"1742270399" entry:"1742226377" modified:"1742226377" project:"ENG4000" status:"pending" uuid:"9b282c5a-75a6-4718-a32a-30e3cd06bfb6"]
+---
+time 1742226395
+new [description:"Fix scheduler not recognizing impossible tasks" due:"1742270399" entry:"1742226395" modified:"1742226395" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
+---
+time 1742226432
+new [description:"Lecture notes from missed lecture (Thu March 13)" due:"1742270399" entry:"1742226432" modified:"1742226432" project:"ENG4550" status:"pending" uuid:"eea86fb2-70c3-4752-98aa-3d7c20b32328"]
+---
+time 1742226483
+new [description:"Watch dataflow testing 2 videos" due:"1742270399" entry:"1742226483" modified:"1742226483" project:"EECS4313" status:"pending" uuid:"0f023b87-a4f7-462e-bfb1-df722038bae9"]
+---
+time 1742226507
+old [description:"Handle repeated events in schedule" due:"1741409940" entry:"1739202383" modified:"1741114077" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+new [description:"Handle repeated events in schedule" due:"1742831307" entry:"1739202383" modified:"1742226507" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+---
+time 1742226518
+old [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1741409940" entry:"1740341476" modified:"1741114067" project:"ENG4000" status:"pending" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
+new [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1741409940" end:"1742226518" entry:"1740341476" modified:"1742226518" project:"ENG4000" status:"completed" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
+---
+time 1742226541
+old [description:"Add Kafka to more services" due:"1742270399" entry:"1742226336" modified:"1742226336" project:"EECS4314" status:"pending" uuid:"7f2155ab-9a74-4991-acb3-4f6900c65192"]
+new [description:"Add Kafka to more services" due:"1742270399" entry:"1742226336" modified:"1742226541" priority:"H" project:"EECS4314" status:"pending" uuid:"7f2155ab-9a74-4991-acb3-4f6900c65192"]
+---
+time 1742226554
+old [description:"Integrate frontend with backend" due:"1742270399" entry:"1742226377" modified:"1742226377" project:"ENG4000" status:"pending" uuid:"9b282c5a-75a6-4718-a32a-30e3cd06bfb6"]
+new [description:"Integrate frontend with backend" due:"1742270399" entry:"1742226377" modified:"1742226554" priority:"H" project:"ENG4000" status:"pending" uuid:"9b282c5a-75a6-4718-a32a-30e3cd06bfb6"]
+---
+time 1742226559
+old [description:"Fix scheduler not recognizing impossible tasks" due:"1742270399" entry:"1742226395" modified:"1742226395" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
+new [description:"Fix scheduler not recognizing impossible tasks" due:"1742270399" entry:"1742226395" modified:"1742226559" priority:"H" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
+---
