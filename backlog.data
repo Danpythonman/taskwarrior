@@ -313,3 +313,7 @@
 {"description":"Add Kafka to more services","due":"20250318T035959Z","entry":"20250317T154536Z","modified":"20250317T154901Z","priority":"H","project":"EECS4314","status":"pending","uuid":"7f2155ab-9a74-4991-acb3-4f6900c65192"}
 {"description":"Integrate frontend with backend","due":"20250318T035959Z","entry":"20250317T154617Z","modified":"20250317T154914Z","priority":"H","project":"ENG4000","status":"pending","uuid":"9b282c5a-75a6-4718-a32a-30e3cd06bfb6"}
 {"description":"Fix scheduler not recognizing impossible tasks","due":"20250318T035959Z","entry":"20250317T154635Z","modified":"20250317T154919Z","priority":"H","project":"ENG4000","status":"pending","uuid":"bf367328-ca85-4670-9926-d731f19c9221"}
+{"description":"Watch slice testing videos","due":"20250320T190000Z","entry":"20250318T213338Z","modified":"20250318T213338Z","project":"EECS4313","status":"pending","uuid":"295bf623-43ba-43ed-ac43-fa6cdb8e41fd"}
+{"description":"Assignment 4","due":"20250326T035900Z","entry":"20250318T214712Z","modified":"20250318T214712Z","status":"pending","uuid":"f5f186f1-08b9-4ce4-aa7e-88ba44179468"}
+{"description":"Assignment 4","due":"20250326T035900Z","entry":"20250318T214712Z","modified":"20250318T214736Z","project":"ENG4550","status":"pending","uuid":"f5f186f1-08b9-4ce4-aa7e-88ba44179468"}
+{"description":"Watch dataflow testing 2 videos","due":"20250318T035959Z","end":"20250318T215130Z","entry":"20250317T154803Z","modified":"20250318T215130Z","project":"EECS4313","status":"completed","uuid":"0f023b87-a4f7-462e-bfb1-df722038bae9"}

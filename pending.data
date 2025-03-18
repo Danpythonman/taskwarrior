@@ -8,4 +8,5 @@
 [description:"Integrate frontend with backend" due:"1742270399" entry:"1742226377" modified:"1742226554" priority:"H" project:"ENG4000" status:"pending" uuid:"9b282c5a-75a6-4718-a32a-30e3cd06bfb6"]
 [description:"Fix scheduler not recognizing impossible tasks" due:"1742270399" entry:"1742226395" modified:"1742226559" priority:"H" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
 [description:"Lecture notes from missed lecture (Thu March 13)" due:"1742270399" entry:"1742226432" modified:"1742226432" project:"ENG4550" status:"pending" uuid:"eea86fb2-70c3-4752-98aa-3d7c20b32328"]
-[description:"Watch dataflow testing 2 videos" due:"1742270399" entry:"1742226483" modified:"1742226483" project:"EECS4313" status:"pending" uuid:"0f023b87-a4f7-462e-bfb1-df722038bae9"]
+[description:"Watch slice testing videos" due:"1742497200" entry:"1742333618" modified:"1742333618" project:"EECS4313" status:"pending" uuid:"295bf623-43ba-43ed-ac43-fa6cdb8e41fd"]
+[description:"Assignment 4" due:"1742961540" entry:"1742334432" modified:"1742334456" project:"ENG4550" status:"pending" uuid:"f5f186f1-08b9-4ce4-aa7e-88ba44179468"]

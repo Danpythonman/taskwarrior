@@ -1118,3 +1118,17 @@ time 1742226559
 old [description:"Fix scheduler not recognizing impossible tasks" due:"1742270399" entry:"1742226395" modified:"1742226395" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
 new [description:"Fix scheduler not recognizing impossible tasks" due:"1742270399" entry:"1742226395" modified:"1742226559" priority:"H" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
 ---
+time 1742333618
+new [description:"Watch slice testing videos" due:"1742497200" entry:"1742333618" modified:"1742333618" project:"EECS4313" status:"pending" uuid:"295bf623-43ba-43ed-ac43-fa6cdb8e41fd"]
+---
+time 1742334432
+new [description:"Assignment 4" due:"1742961540" entry:"1742334432" modified:"1742334432" status:"pending" uuid:"f5f186f1-08b9-4ce4-aa7e-88ba44179468"]
+---
+time 1742334456
+old [description:"Assignment 4" due:"1742961540" entry:"1742334432" modified:"1742334432" status:"pending" uuid:"f5f186f1-08b9-4ce4-aa7e-88ba44179468"]
+new [description:"Assignment 4" due:"1742961540" entry:"1742334432" modified:"1742334456" project:"ENG4550" status:"pending" uuid:"f5f186f1-08b9-4ce4-aa7e-88ba44179468"]
+---
+time 1742334690
+old [description:"Watch dataflow testing 2 videos" due:"1742270399" entry:"1742226483" modified:"1742226483" project:"EECS4313" status:"pending" uuid:"0f023b87-a4f7-462e-bfb1-df722038bae9"]
+new [description:"Watch dataflow testing 2 videos" due:"1742270399" end:"1742334690" entry:"1742226483" modified:"1742334690" project:"EECS4313" status:"completed" uuid:"0f023b87-a4f7-462e-bfb1-df722038bae9"]
+---
