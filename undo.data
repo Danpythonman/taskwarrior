@@ -1132,3 +1132,23 @@ time 1742334690
 old [description:"Watch dataflow testing 2 videos" due:"1742270399" entry:"1742226483" modified:"1742226483" project:"EECS4313" status:"pending" uuid:"0f023b87-a4f7-462e-bfb1-df722038bae9"]
 new [description:"Watch dataflow testing 2 videos" due:"1742270399" end:"1742334690" entry:"1742226483" modified:"1742334690" project:"EECS4313" status:"completed" uuid:"0f023b87-a4f7-462e-bfb1-df722038bae9"]
 ---
+time 1742404529
+old [description:"Add Kafka to more services" due:"1742270399" entry:"1742226336" modified:"1742226541" priority:"H" project:"EECS4314" status:"pending" uuid:"7f2155ab-9a74-4991-acb3-4f6900c65192"]
+new [description:"Add Kafka to more services" due:"1742529540" entry:"1742226336" modified:"1742404529" priority:"H" project:"EECS4314" status:"pending" uuid:"7f2155ab-9a74-4991-acb3-4f6900c65192"]
+---
+time 1742404535
+old [description:"Integrate frontend with backend" due:"1742270399" entry:"1742226377" modified:"1742226554" priority:"H" project:"ENG4000" status:"pending" uuid:"9b282c5a-75a6-4718-a32a-30e3cd06bfb6"]
+new [description:"Integrate frontend with backend" due:"1742529540" entry:"1742226377" modified:"1742404535" priority:"H" project:"ENG4000" status:"pending" uuid:"9b282c5a-75a6-4718-a32a-30e3cd06bfb6"]
+---
+time 1742404547
+old [description:"Fix scheduler not recognizing impossible tasks" due:"1742270399" entry:"1742226395" modified:"1742226559" priority:"H" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
+new [description:"Fix scheduler not recognizing impossible tasks" due:"1742529540" entry:"1742226395" modified:"1742404547" priority:"H" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
+---
+time 1742404566
+old [description:"Prepare week 9 PASS session (Kahoot and maybe some problem solving)" due:"1742443140" entry:"1742226319" modified:"1742226319" project:"PASS" status:"pending" uuid:"3c11af99-5348-48b8-a590-61459a008df1"]
+new [description:"Prepare week 9 PASS session (Kahoot and maybe some problem solving)" due:"1742443140" entry:"1742226319" modified:"1742404566" priority:"H" project:"PASS" status:"pending" uuid:"3c11af99-5348-48b8-a590-61459a008df1"]
+---
+time 1742404583
+old [description:"Programming test 2" due:"1742475600" entry:"1742226358" modified:"1742226358" project:"EECS4315" status:"pending" uuid:"0107d37e-8306-4f5b-9ffe-3e8575a6d290"]
+new [description:"Programming test 2" due:"1742475600" entry:"1742226358" modified:"1742404583" priority:"H" project:"EECS4315" status:"pending" uuid:"0107d37e-8306-4f5b-9ffe-3e8575a6d290"]
+---
