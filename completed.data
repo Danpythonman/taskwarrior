@@ -1,3 +1,5 @@
+[description:"Prepare week 9 PASS session (Kahoot and maybe some problem solving)" due:"1742443140" end:"1742502116" entry:"1742226319" modified:"1742502116" priority:"H" project:"PASS" status:"completed" uuid:"3c11af99-5348-48b8-a590-61459a008df1"]
+[description:"Programming test 2" due:"1742475600" end:"1742502110" entry:"1742226358" modified:"1742502110" priority:"H" project:"EECS4315" status:"completed" uuid:"0107d37e-8306-4f5b-9ffe-3e8575a6d290"]
 [description:"Watch dataflow testing 2 videos" due:"1742270399" end:"1742334690" entry:"1742226483" modified:"1742334690" project:"EECS4313" status:"completed" uuid:"0f023b87-a4f7-462e-bfb1-df722038bae9"]
 [description:"Rescheduler (1. run the entire thing again, 2. try to find openenings for small amount of jobs)" due:"1741409940" end:"1742226518" entry:"1740341476" modified:"1742226518" project:"ENG4000" status:"completed" uuid:"0179c0a6-e86f-4b64-b03f-e0ae6b4dce81"]
 [description:"Prepare PASS session for test 2 review" due:"1742097540" end:"1742226286" entry:"1741935082" modified:"1742226286" project:"PASS" status:"completed" uuid:"41af1680-c8e6-465b-bd9a-59767c4cf8e7"]

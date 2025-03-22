@@ -1152,3 +1152,40 @@ time 1742404583
 old [description:"Programming test 2" due:"1742475600" entry:"1742226358" modified:"1742226358" project:"EECS4315" status:"pending" uuid:"0107d37e-8306-4f5b-9ffe-3e8575a6d290"]
 new [description:"Programming test 2" due:"1742475600" entry:"1742226358" modified:"1742404583" priority:"H" project:"EECS4315" status:"pending" uuid:"0107d37e-8306-4f5b-9ffe-3e8575a6d290"]
 ---
+time 1742502110
+old [description:"Programming test 2" due:"1742475600" entry:"1742226358" modified:"1742404583" priority:"H" project:"EECS4315" status:"pending" uuid:"0107d37e-8306-4f5b-9ffe-3e8575a6d290"]
+new [description:"Programming test 2" due:"1742475600" end:"1742502110" entry:"1742226358" modified:"1742502110" priority:"H" project:"EECS4315" status:"completed" uuid:"0107d37e-8306-4f5b-9ffe-3e8575a6d290"]
+---
+time 1742502116
+old [description:"Prepare week 9 PASS session (Kahoot and maybe some problem solving)" due:"1742443140" entry:"1742226319" modified:"1742404566" priority:"H" project:"PASS" status:"pending" uuid:"3c11af99-5348-48b8-a590-61459a008df1"]
+new [description:"Prepare week 9 PASS session (Kahoot and maybe some problem solving)" due:"1742443140" end:"1742502116" entry:"1742226319" modified:"1742502116" priority:"H" project:"PASS" status:"completed" uuid:"3c11af99-5348-48b8-a590-61459a008df1"]
+---
+time 1742502140
+new [description:"Review missed lecture (mathu rcrch 20)" due:"1742529599" entry:"1742502140" modified:"1742502140" project:"ENG4550" status:"pending" uuid:"694f9b33-ffcd-4e3b-9e5b-6009e00e9b15"]
+---
+time 1742502166
+new [description:"Watch dataflow testing slicing videos" due:"1742529599" entry:"1742502166" modified:"1742502166" project:"EECS4313" status:"pending" uuid:"d4faa342-73fb-48d8-9bcd-21e5199b11f0"]
+---
+time 1742595722
+new [description:"Written test 2" due:"1743080400" entry:"1742595722" modified:"1742595722" status:"pending" uuid:"f6521bb3-1ef9-4e98-9efc-4c1cbf215a41"]
+---
+time 1742595733
+old [description:"Written test 2" due:"1743080400" entry:"1742595722" modified:"1742595722" status:"pending" uuid:"f6521bb3-1ef9-4e98-9efc-4c1cbf215a41"]
+new [description:"Written test 2" due:"1743080400" entry:"1742595722" modified:"1742595733" project:"EECS4315" status:"pending" uuid:"f6521bb3-1ef9-4e98-9efc-4c1cbf215a41"]
+---
+time 1742595758
+new [description:"Test 2" due:"1743105600" entry:"1742595758" modified:"1742595758" project:"EECS4313" status:"pending" uuid:"c6ce62a7-2ad0-487d-981a-420849760a39"]
+---
+time 1742595802
+new [description:"Testing final project" due:"1744084740" entry:"1742595802" modified:"1742595802" project:"EECS4313" status:"pending" uuid:"779f46f8-4418-438e-94f7-267705794ca8"]
+---
+time 1742595862
+new [description:"Lab 3 report" due:"1742961540" entry:"1742595862" modified:"1742595862" project:"ENG4550" status:"pending" uuid:"f5732567-628a-4308-81e9-7ffc4ee26806"]
+---
+time 1742595888
+new [description:"Lab 4 prelab" due:"1743177600" entry:"1742595888" modified:"1742595888" status:"pending" uuid:"85cd75ef-1276-43f2-a6f2-9f3b8b064496"]
+---
+time 1742595897
+old [description:"Lab 4 prelab" due:"1743177600" entry:"1742595888" modified:"1742595888" status:"pending" uuid:"85cd75ef-1276-43f2-a6f2-9f3b8b064496"]
+new [description:"Lab 4 prelab" due:"1743177600" entry:"1742595888" modified:"1742595897" project:"ENG4550" status:"pending" uuid:"85cd75ef-1276-43f2-a6f2-9f3b8b064496"]
+---
