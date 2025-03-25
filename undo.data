@@ -1189,3 +1189,53 @@ time 1742595897
 old [description:"Lab 4 prelab" due:"1743177600" entry:"1742595888" modified:"1742595888" status:"pending" uuid:"85cd75ef-1276-43f2-a6f2-9f3b8b064496"]
 new [description:"Lab 4 prelab" due:"1743177600" entry:"1742595888" modified:"1742595897" project:"ENG4550" status:"pending" uuid:"85cd75ef-1276-43f2-a6f2-9f3b8b064496"]
 ---
+time 1742859963
+old [description:"Fix scheduler not recognizing impossible tasks" due:"1742529540" entry:"1742226395" modified:"1742404547" priority:"H" project:"ENG4000" status:"pending" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
+new [description:"Fix scheduler not recognizing impossible tasks" due:"1742529540" end:"1742859963" entry:"1742226395" modified:"1742859963" priority:"H" project:"ENG4000" status:"completed" uuid:"bf367328-ca85-4670-9926-d731f19c9221"]
+---
+time 1742882641
+old [description:"Lecture notes from missed lecture (steady state errors)" due:"1741838340" entry:"1741715045" modified:"1741732574" project:"ENG4550" status:"pending" uuid:"d57b6114-5a73-4915-9410-539dcc0165f6"]
+new [description:"Lecture notes from missed lecture (steady state errors)" due:"1741838340" end:"1742882641" entry:"1741715045" modified:"1742882641" project:"ENG4550" status:"completed" uuid:"d57b6114-5a73-4915-9410-539dcc0165f6"]
+---
+time 1742882648
+old [description:"Lecture notes from missed lecture (Thu March 13)" due:"1742270399" entry:"1742226432" modified:"1742226432" project:"ENG4550" status:"pending" uuid:"eea86fb2-70c3-4752-98aa-3d7c20b32328"]
+new [description:"Lecture notes from missed lecture (Thu March 13)" due:"1742270399" end:"1742882648" entry:"1742226432" modified:"1742882648" project:"ENG4550" status:"completed" uuid:"eea86fb2-70c3-4752-98aa-3d7c20b32328"]
+---
+time 1742882669
+old [description:"Review missed lecture (mathu rcrch 20)" due:"1742529599" entry:"1742502140" modified:"1742502140" project:"ENG4550" status:"pending" uuid:"694f9b33-ffcd-4e3b-9e5b-6009e00e9b15"]
+new [description:"Review missed lecture (mathu rcrch 20)" due:"1742529599" end:"1742882669" entry:"1742502140" modified:"1742882669" project:"ENG4550" status:"completed" uuid:"694f9b33-ffcd-4e3b-9e5b-6009e00e9b15"]
+---
+time 1742885573
+old [description:"Watch slice testing videos" due:"1742497200" entry:"1742333618" modified:"1742333618" project:"EECS4313" status:"pending" uuid:"295bf623-43ba-43ed-ac43-fa6cdb8e41fd"]
+new [description:"Watch slice testing videos" due:"1742497200" end:"1742885573" entry:"1742333618" modified:"1742885573" project:"EECS4313" status:"completed" uuid:"295bf623-43ba-43ed-ac43-fa6cdb8e41fd"]
+---
+time 1742885581
+old [description:"Watch dataflow testing slicing videos" due:"1742529599" entry:"1742502166" modified:"1742502166" project:"EECS4313" status:"pending" uuid:"d4faa342-73fb-48d8-9bcd-21e5199b11f0"]
+new [description:"Watch dataflow testing slicing videos" due:"1742529599" end:"1742885581" entry:"1742502166" modified:"1742885581" project:"EECS4313" status:"completed" uuid:"d4faa342-73fb-48d8-9bcd-21e5199b11f0"]
+---
+time 1742885601
+new [description:"Prepare PASS session week 11" due:"1743047940" entry:"1742885601" modified:"1742885601" status:"pending" uuid:"645cc861-2238-4b14-939f-ecb07c648109"]
+---
+time 1742885611
+old [description:"Prepare PASS session week 11" due:"1743047940" entry:"1742885601" modified:"1742885601" status:"pending" uuid:"645cc861-2238-4b14-939f-ecb07c648109"]
+new [description:"Prepare PASS session week 11" due:"1743047940" entry:"1742885601" modified:"1742885611" project:"PASS" status:"pending" uuid:"645cc861-2238-4b14-939f-ecb07c648109"]
+---
+time 1742885630
+new [description:"Watch system testing videos" due:"1743102000" entry:"1742885630" modified:"1742885630" project:"EECS4313" status:"pending" uuid:"07a8a03f-22bc-4abc-986f-39fcb71f557d"]
+---
+time 1742885641
+old [description:"Add Kafka to more services" due:"1742529540" entry:"1742226336" modified:"1742404529" priority:"H" project:"EECS4314" status:"pending" uuid:"7f2155ab-9a74-4991-acb3-4f6900c65192"]
+new [description:"Add Kafka to more services" due:"1742529540" end:"1742885641" entry:"1742226336" modified:"1742885641" priority:"H" project:"EECS4314" status:"completed" uuid:"7f2155ab-9a74-4991-acb3-4f6900c65192"]
+---
+time 1742885651
+old [description:"Assignment 4" due:"1742961540" entry:"1742334432" modified:"1742334456" project:"ENG4550" status:"pending" uuid:"f5f186f1-08b9-4ce4-aa7e-88ba44179468"]
+new [description:"Assignment 4" due:"1742961540" entry:"1742334432" modified:"1742885651" priority:"H" project:"ENG4550" status:"pending" uuid:"f5f186f1-08b9-4ce4-aa7e-88ba44179468"]
+---
+time 1742885658
+old [description:"Lab 3 report" due:"1742961540" entry:"1742595862" modified:"1742595862" project:"ENG4550" status:"pending" uuid:"f5732567-628a-4308-81e9-7ffc4ee26806"]
+new [description:"Lab 3 report" due:"1742961540" entry:"1742595862" modified:"1742885658" priority:"H" project:"ENG4550" status:"pending" uuid:"f5732567-628a-4308-81e9-7ffc4ee26806"]
+---
+time 1742885663
+old [description:"Lab 3 prelab" due:"1741924740" entry:"1741627327" modified:"1741627327" project:"ENG4550" status:"pending" uuid:"e84ef065-1de7-4e91-b8cd-3a3863fab380"]
+new [description:"Lab 3 prelab" due:"1741924740" entry:"1741627327" modified:"1742885663" priority:"H" project:"ENG4550" status:"pending" uuid:"e84ef065-1de7-4e91-b8cd-3a3863fab380"]
+---
