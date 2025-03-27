@@ -1,3 +1,6 @@
+[description:"Ask Jackie Lab 3 questions in office hours" due:"1743015600" end:"1743060152" entry:"1742078324" modified:"1743060152" project:"EECS4315" status:"completed" uuid:"281f795d-2179-4ed3-872d-8a3aeaf76f46"]
+[description:"Prepare PASS session week 11" due:"1743047940" end:"1743060145" entry:"1742885601" modified:"1743060145" priority:"H" project:"PASS" status:"completed" uuid:"645cc861-2238-4b14-939f-ecb07c648109"]
+[description:"Integrate frontend with backend" due:"1742529540" end:"1743034241" entry:"1742226377" modified:"1743034241" priority:"H" project:"ENG4000" status:"completed" uuid:"9b282c5a-75a6-4718-a32a-30e3cd06bfb6"]
 [description:"Lab 3 report" due:"1742961540" end:"1742962889" entry:"1742595862" modified:"1742962889" priority:"H" project:"ENG4550" status:"completed" uuid:"f5732567-628a-4308-81e9-7ffc4ee26806"]
 [description:"Lab 3 prelab" due:"1741924740" end:"1742962881" entry:"1741627327" modified:"1742962881" priority:"H" project:"ENG4550" status:"completed" uuid:"e84ef065-1de7-4e91-b8cd-3a3863fab380"]
 [description:"Add Kafka to more services" due:"1742529540" end:"1742885641" entry:"1742226336" modified:"1742885641" priority:"H" project:"EECS4314" status:"completed" uuid:"7f2155ab-9a74-4991-acb3-4f6900c65192"]
