@@ -367,3 +367,8 @@
 {"description":"Integrate task service","due":"20250328T035900Z","end":"20250328T174618Z","entry":"20250327T001101Z","modified":"20250328T174618Z","project":"EECS4314","status":"completed","uuid":"ddd048b3-f92a-4f43-91a3-f0e4b342cd03"}
 {"description":"Lab 4 prelab","due":"20250328T160000Z","end":"20250328T174625Z","entry":"20250321T222448Z","modified":"20250328T174625Z","project":"ENG4550","status":"completed","uuid":"85cd75ef-1276-43f2-a6f2-9f3b8b064496"}
 {"description":"Lab 4 report","due":"20250409T035900Z","entry":"20250328T184028Z","modified":"20250328T184028Z","project":"ENG4550","status":"pending","uuid":"d909ad85-c6d8-4008-ae09-ec80a1087016"}
+{"description":"Assignment 5","due":"20250409T035900Z","entry":"20250331T175148Z","modified":"20250331T175148Z","project":"ENG4550","status":"pending","uuid":"8724544f-4caf-4d71-9269-666953b974b4"}
+{"description":"Final report and deliverables","due":"20250407T035900Z","entry":"20250331T175252Z","modified":"20250331T175252Z","project":"EECS4314","status":"pending","uuid":"97946421-9dcb-4ca6-ace3-c6fe42d7c7c5"}
+{"description":"Lab 4","due":"20250408T035900Z","entry":"20250331T175334Z","modified":"20250331T175334Z","status":"pending","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd"}
+{"description":"Lab 4","due":"20250408T035900Z","entry":"20250331T175334Z","modified":"20250331T175348Z","project":"EECS44315","status":"pending","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd"}
+{"description":"Lab 4","due":"20250408T035900Z","entry":"20250331T175334Z","modified":"20250331T175352Z","project":"EECS4315","status":"pending","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd"}

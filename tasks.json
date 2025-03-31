@@ -1,8 +1,11 @@
 [
-{"id":1,"description":"Handle repeated events in schedule","due":"20250402T042444Z","entry":"20250210T154623Z","modified":"20250326T042444Z","project":"ENG4000","status":"pending","uuid":"8925dc4c-5a44-42b0-95ef-b656dba35249","urgency":8.1502},
-{"id":2,"description":"Testing final project","due":"20250408T035900Z","entry":"20250321T222322Z","modified":"20250321T222322Z","project":"EECS4313","status":"pending","uuid":"779f46f8-4418-438e-94f7-267705794ca8","urgency":5.20181},
-{"id":3,"description":"Watch system testing videos","due":"20250401T190000Z","entry":"20250325T065350Z","modified":"20250326T042412Z","project":"EECS4313","status":"pending","uuid":"07a8a03f-22bc-4abc-986f-39fcb71f557d","urgency":8.09386},
-{"id":4,"description":"Frontend","due":"20250329T035900Z","entry":"20250326T042541Z","modified":"20250326T042541Z","project":"ENG4000","status":"pending","uuid":"1b1edb61-c75e-4cf0-916c-38220432262e","urgency":9.74584},
-{"id":5,"description":"Confirm that impossible events are actually impossible","due":"20250329T035900Z","entry":"20250326T042618Z","modified":"20250326T042618Z","project":"ENG4000","status":"pending","uuid":"12d1adb4-27d3-45de-8e3d-4ffb6409bc7c","urgency":9.74584},
-{"id":6,"description":"Lab 4 report","due":"20250409T035900Z","entry":"20250328T184028Z","modified":"20250328T184028Z","project":"ENG4550","status":"pending","uuid":"d909ad85-c6d8-4008-ae09-ec80a1087016","urgency":4.70631}
+{"id":1,"description":"Handle repeated events in schedule","due":"20250402T042444Z","entry":"20250210T154623Z","modified":"20250326T042444Z","project":"ENG4000","status":"pending","uuid":"8925dc4c-5a44-42b0-95ef-b656dba35249","urgency":9.47804},
+{"id":2,"description":"Testing final project","due":"20250408T035900Z","entry":"20250321T222322Z","modified":"20250321T222322Z","project":"EECS4313","status":"pending","uuid":"779f46f8-4418-438e-94f7-267705794ca8","urgency":6.52418},
+{"id":3,"description":"Watch system testing videos","due":"20250401T190000Z","entry":"20250325T065350Z","modified":"20250326T042412Z","project":"EECS4313","status":"pending","uuid":"07a8a03f-22bc-4abc-986f-39fcb71f557d","urgency":9.42171},
+{"id":4,"description":"Frontend","due":"20250329T035900Z","entry":"20250326T042541Z","modified":"20250326T042541Z","project":"ENG4000","status":"pending","uuid":"1b1edb61-c75e-4cf0-916c-38220432262e","urgency":11.0737},
+{"id":5,"description":"Confirm that impossible events are actually impossible","due":"20250329T035900Z","entry":"20250326T042618Z","modified":"20250326T042618Z","project":"ENG4000","status":"pending","uuid":"12d1adb4-27d3-45de-8e3d-4ffb6409bc7c","urgency":11.0737},
+{"id":6,"description":"Lab 4 report","due":"20250409T035900Z","entry":"20250328T184028Z","modified":"20250328T184028Z","project":"ENG4550","status":"pending","uuid":"d909ad85-c6d8-4008-ae09-ec80a1087016","urgency":6.03416},
+{"id":7,"description":"Assignment 5","due":"20250409T035900Z","entry":"20250331T175148Z","modified":"20250331T175148Z","project":"ENG4550","status":"pending","uuid":"8724544f-4caf-4d71-9269-666953b974b4","urgency":6.01772},
+{"id":8,"description":"Final report and deliverables","due":"20250407T035900Z","entry":"20250331T175252Z","modified":"20250331T175252Z","project":"EECS4314","status":"pending","uuid":"97946421-9dcb-4ca6-ace3-c6fe42d7c7c5","urgency":6.93201},
+{"id":9,"description":"Lab 4","due":"20250408T035900Z","entry":"20250331T175334Z","modified":"20250331T175352Z","project":"EECS4315","status":"pending","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd","urgency":6.47486}
 ]

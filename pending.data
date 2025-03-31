@@ -4,3 +4,6 @@
 [description:"Frontend" due:"1743220740" entry:"1742963141" modified:"1742963141" project:"ENG4000" status:"pending" uuid:"1b1edb61-c75e-4cf0-916c-38220432262e"]
 [description:"Confirm that impossible events are actually impossible" due:"1743220740" entry:"1742963178" modified:"1742963178" project:"ENG4000" status:"pending" uuid:"12d1adb4-27d3-45de-8e3d-4ffb6409bc7c"]
 [description:"Lab 4 report" due:"1744171140" entry:"1743187228" modified:"1743187228" project:"ENG4550" status:"pending" uuid:"d909ad85-c6d8-4008-ae09-ec80a1087016"]
+[description:"Assignment 5" due:"1744171140" entry:"1743443508" modified:"1743443508" project:"ENG4550" status:"pending" uuid:"8724544f-4caf-4d71-9269-666953b974b4"]
+[description:"Final report and deliverables" due:"1743998340" entry:"1743443572" modified:"1743443572" project:"EECS4314" status:"pending" uuid:"97946421-9dcb-4ca6-ace3-c6fe42d7c7c5"]
+[description:"Lab 4" due:"1744084740" entry:"1743443614" modified:"1743443632" project:"EECS4315" status:"pending" uuid:"a90cf746-7ce3-452e-98eb-d640d888f8dd"]
