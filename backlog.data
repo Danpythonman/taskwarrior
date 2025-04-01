@@ -372,3 +372,7 @@
 {"description":"Lab 4","due":"20250408T035900Z","entry":"20250331T175334Z","modified":"20250331T175334Z","status":"pending","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd"}
 {"description":"Lab 4","due":"20250408T035900Z","entry":"20250331T175334Z","modified":"20250331T175348Z","project":"EECS44315","status":"pending","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd"}
 {"description":"Lab 4","due":"20250408T035900Z","entry":"20250331T175334Z","modified":"20250331T175352Z","project":"EECS4315","status":"pending","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd"}
+{"description":"Finish lecture notes (apr 1, frequency response of 1st and 2nd order systems, bode plots)","due":"20250402T035959Z","entry":"20250401T181136Z","modified":"20250401T181136Z","project":"ENG4550","status":"pending","uuid":"cea49cb0-4fef-4352-aa11-1807e534d3a9"}
+{"description":"Prepare week 13 PASS session","due":"20250403T035900Z","entry":"20250401T195050Z","modified":"20250401T195050Z","project":"PASS","status":"pending","uuid":"2f73ca47-b4d1-47a5-8a5c-4f38162bb1fd"}
+{"description":"Finish lecture notes (apr 1, frequency response of 1st and 2nd order systems, bode plots)","due":"20250402T035959Z","entry":"20250401T181136Z","modified":"20250401T195114Z","priority":"H","project":"ENG4550","status":"pending","uuid":"cea49cb0-4fef-4352-aa11-1807e534d3a9"}
+{"description":"Prepare week 13 PASS session","due":"20250403T035900Z","entry":"20250401T195050Z","modified":"20250401T195129Z","priority":"H","project":"PASS","status":"pending","uuid":"2f73ca47-b4d1-47a5-8a5c-4f38162bb1fd"}

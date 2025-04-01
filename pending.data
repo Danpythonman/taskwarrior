@@ -7,3 +7,5 @@
 [description:"Assignment 5" due:"1744171140" entry:"1743443508" modified:"1743443508" project:"ENG4550" status:"pending" uuid:"8724544f-4caf-4d71-9269-666953b974b4"]
 [description:"Final report and deliverables" due:"1743998340" entry:"1743443572" modified:"1743443572" project:"EECS4314" status:"pending" uuid:"97946421-9dcb-4ca6-ace3-c6fe42d7c7c5"]
 [description:"Lab 4" due:"1744084740" entry:"1743443614" modified:"1743443632" project:"EECS4315" status:"pending" uuid:"a90cf746-7ce3-452e-98eb-d640d888f8dd"]
+[description:"Finish lecture notes (apr 1, frequency response of 1st and 2nd order systems, bode plots)" due:"1743566399" entry:"1743531096" modified:"1743537074" priority:"H" project:"ENG4550" status:"pending" uuid:"cea49cb0-4fef-4352-aa11-1807e534d3a9"]
+[description:"Prepare week 13 PASS session" due:"1743652740" entry:"1743537050" modified:"1743537089" priority:"H" project:"PASS" status:"pending" uuid:"2f73ca47-b4d1-47a5-8a5c-4f38162bb1fd"]
