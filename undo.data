@@ -1352,3 +1352,7 @@ new [description:"Prepare week 13 PASS session" due:"1743652740" entry:"17435370
 time 1743613394
 new [description:"Course evaluations" due:"1743652799" entry:"1743613394" modified:"1743613394" status:"pending" uuid:"89f34ac8-6b75-42d2-a94e-8dc1c2d73d79"]
 ---
+time 1743704269
+old [description:"Prepare week 13 PASS session" due:"1743652740" entry:"1743537050" modified:"1743537089" priority:"H" project:"PASS" status:"pending" uuid:"2f73ca47-b4d1-47a5-8a5c-4f38162bb1fd"]
+new [description:"Prepare week 13 PASS session" due:"1743652740" end:"1743704269" entry:"1743537050" modified:"1743704269" priority:"H" project:"PASS" status:"completed" uuid:"2f73ca47-b4d1-47a5-8a5c-4f38162bb1fd"]
+---
