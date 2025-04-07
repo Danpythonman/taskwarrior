@@ -1359,3 +1359,11 @@ new [description:"Prepare week 13 PASS session" due:"1743652740" end:"1743704269
 time 1743784916
 new [description:"Review missed lecture (apr. 3)" due:"1743825599" entry:"1743784916" modified:"1743784916" project:"ENG4550" status:"pending" uuid:"92113991-9b11-4fea-aecf-82ccb055a17a"]
 ---
+time 1743975548
+old [description:"Assignment 5" due:"1744171140" entry:"1743443508" modified:"1743443508" project:"ENG4550" status:"pending" uuid:"8724544f-4caf-4d71-9269-666953b974b4"]
+new [description:"Assignment 5" due:"1744171140" end:"1743975548" entry:"1743443508" modified:"1743975548" project:"ENG4550" status:"completed" uuid:"8724544f-4caf-4d71-9269-666953b974b4"]
+---
+time 1743987224
+old [description:"Course evaluations" due:"1743652799" entry:"1743613394" modified:"1743613394" status:"pending" uuid:"89f34ac8-6b75-42d2-a94e-8dc1c2d73d79"]
+new [description:"Course evaluations" due:"1743652799" end:"1743987224" entry:"1743613394" modified:"1743987224" status:"completed" uuid:"89f34ac8-6b75-42d2-a94e-8dc1c2d73d79"]
+---
