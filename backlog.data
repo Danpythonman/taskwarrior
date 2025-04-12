@@ -385,3 +385,4 @@
 {"description":"Lab 4 report","due":"20250409T035900Z","end":"20250409T025636Z","entry":"20250328T184028Z","modified":"20250409T025636Z","project":"ENG4550","status":"completed","uuid":"d909ad85-c6d8-4008-ae09-ec80a1087016"}
 {"description":"Lab 4","due":"20250408T035900Z","end":"20250409T025656Z","entry":"20250331T175334Z","modified":"20250409T025656Z","project":"EECS4315","status":"completed","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd"}
 {"description":"Testing final project","due":"20250408T035900Z","end":"20250409T025725Z","entry":"20250321T222322Z","modified":"20250409T025725Z","project":"EECS4313","status":"completed","uuid":"779f46f8-4418-438e-94f7-267705794ca8"}
+{"description":"Watch system testing videos","due":"20250401T190000Z","end":"20250412T021223Z","entry":"20250325T065350Z","modified":"20250412T021223Z","project":"EECS4313","status":"completed","uuid":"07a8a03f-22bc-4abc-986f-39fcb71f557d"}
