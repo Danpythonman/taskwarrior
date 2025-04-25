@@ -1387,3 +1387,13 @@ time 1744423943
 old [description:"Watch system testing videos" due:"1743534000" entry:"1742885630" modified:"1742963052" project:"EECS4313" status:"pending" uuid:"07a8a03f-22bc-4abc-986f-39fcb71f557d"]
 new [description:"Watch system testing videos" due:"1743534000" end:"1744423943" entry:"1742885630" modified:"1744423943" project:"EECS4313" status:"completed" uuid:"07a8a03f-22bc-4abc-986f-39fcb71f557d"]
 ---
+time 1744770457
+new [description:"Prepare exam review PASS session" due:"1744862340" entry:"1744770457" modified:"1744770457" project:"PASS" status:"pending" uuid:"dfbf6905-40d8-469d-91c2-7ea31b03f221"]
+---
+time 1744770493
+new [description:"Final report due" due:"1745294340" entry:"1744770493" modified:"1744770493" project:"ENG4000" status:"pending" uuid:"7e21a34c-7446-4c77-8825-13398bbd970f"]
+---
+time 1744998918
+old [description:"Prepare exam review PASS session" due:"1744862340" entry:"1744770457" modified:"1744770457" project:"PASS" status:"pending" uuid:"dfbf6905-40d8-469d-91c2-7ea31b03f221"]
+new [description:"Prepare exam review PASS session" due:"1744862340" end:"1744998918" entry:"1744770457" modified:"1744998918" project:"PASS" status:"completed" uuid:"dfbf6905-40d8-469d-91c2-7ea31b03f221"]
+---

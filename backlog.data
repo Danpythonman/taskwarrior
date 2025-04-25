@@ -386,3 +386,6 @@
 {"description":"Lab 4","due":"20250408T035900Z","end":"20250409T025656Z","entry":"20250331T175334Z","modified":"20250409T025656Z","project":"EECS4315","status":"completed","uuid":"a90cf746-7ce3-452e-98eb-d640d888f8dd"}
 {"description":"Testing final project","due":"20250408T035900Z","end":"20250409T025725Z","entry":"20250321T222322Z","modified":"20250409T025725Z","project":"EECS4313","status":"completed","uuid":"779f46f8-4418-438e-94f7-267705794ca8"}
 {"description":"Watch system testing videos","due":"20250401T190000Z","end":"20250412T021223Z","entry":"20250325T065350Z","modified":"20250412T021223Z","project":"EECS4313","status":"completed","uuid":"07a8a03f-22bc-4abc-986f-39fcb71f557d"}
+{"description":"Prepare exam review PASS session","due":"20250417T035900Z","entry":"20250416T022737Z","modified":"20250416T022737Z","project":"PASS","status":"pending","uuid":"dfbf6905-40d8-469d-91c2-7ea31b03f221"}
+{"description":"Final report due","due":"20250422T035900Z","entry":"20250416T022813Z","modified":"20250416T022813Z","project":"ENG4000","status":"pending","uuid":"7e21a34c-7446-4c77-8825-13398bbd970f"}
+{"description":"Prepare exam review PASS session","due":"20250417T035900Z","end":"20250418T175518Z","entry":"20250416T022737Z","modified":"20250418T175518Z","project":"PASS","status":"completed","uuid":"dfbf6905-40d8-469d-91c2-7ea31b03f221"}
