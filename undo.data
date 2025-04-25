@@ -1397,3 +1397,27 @@ time 1744998918
 old [description:"Prepare exam review PASS session" due:"1744862340" entry:"1744770457" modified:"1744770457" project:"PASS" status:"pending" uuid:"dfbf6905-40d8-469d-91c2-7ea31b03f221"]
 new [description:"Prepare exam review PASS session" due:"1744862340" end:"1744998918" entry:"1744770457" modified:"1744998918" project:"PASS" status:"completed" uuid:"dfbf6905-40d8-469d-91c2-7ea31b03f221"]
 ---
+time 1745557188
+old [description:"Finish lecture notes (apr 1, frequency response of 1st and 2nd order systems, bode plots)" due:"1743566399" entry:"1743531096" modified:"1743537074" priority:"H" project:"ENG4550" status:"pending" uuid:"cea49cb0-4fef-4352-aa11-1807e534d3a9"]
+new [description:"Finish lecture notes (apr 1, frequency response of 1st and 2nd order systems, bode plots)" due:"1743566399" end:"1745557188" entry:"1743531096" modified:"1745557188" priority:"H" project:"ENG4550" status:"completed" uuid:"cea49cb0-4fef-4352-aa11-1807e534d3a9"]
+---
+time 1745557194
+old [description:"Handle repeated events in schedule" due:"1743567884" entry:"1739202383" modified:"1742963084" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+new [description:"Handle repeated events in schedule" due:"1743567884" end:"1745557194" entry:"1739202383" modified:"1745557194" project:"ENG4000" status:"completed" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
+---
+time 1745557198
+old [description:"Frontend" due:"1743220740" entry:"1742963141" modified:"1742963141" project:"ENG4000" status:"pending" uuid:"1b1edb61-c75e-4cf0-916c-38220432262e"]
+new [description:"Frontend" due:"1743220740" end:"1745557198" entry:"1742963141" modified:"1745557198" project:"ENG4000" status:"completed" uuid:"1b1edb61-c75e-4cf0-916c-38220432262e"]
+---
+time 1745557200
+old [description:"Confirm that impossible events are actually impossible" due:"1743220740" entry:"1742963178" modified:"1742963178" project:"ENG4000" status:"pending" uuid:"12d1adb4-27d3-45de-8e3d-4ffb6409bc7c"]
+new [description:"Confirm that impossible events are actually impossible" due:"1743220740" end:"1745557200" entry:"1742963178" modified:"1745557200" project:"ENG4000" status:"completed" uuid:"12d1adb4-27d3-45de-8e3d-4ffb6409bc7c"]
+---
+time 1745557203
+old [description:"Review missed lecture (apr. 3)" due:"1743825599" entry:"1743784916" modified:"1743784916" project:"ENG4550" status:"pending" uuid:"92113991-9b11-4fea-aecf-82ccb055a17a"]
+new [description:"Review missed lecture (apr. 3)" due:"1743825599" end:"1745557203" entry:"1743784916" modified:"1745557203" project:"ENG4550" status:"completed" uuid:"92113991-9b11-4fea-aecf-82ccb055a17a"]
+---
+time 1745557206
+old [description:"Final report due" due:"1745294340" entry:"1744770493" modified:"1744770493" project:"ENG4000" status:"pending" uuid:"7e21a34c-7446-4c77-8825-13398bbd970f"]
+new [description:"Final report due" due:"1745294340" end:"1745557206" entry:"1744770493" modified:"1745557206" project:"ENG4000" status:"completed" uuid:"7e21a34c-7446-4c77-8825-13398bbd970f"]
+---

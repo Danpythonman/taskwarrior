@@ -1,6 +1,0 @@
-[description:"Handle repeated events in schedule" due:"1743567884" entry:"1739202383" modified:"1742963084" project:"ENG4000" status:"pending" uuid:"8925dc4c-5a44-42b0-95ef-b656dba35249"]
-[description:"Frontend" due:"1743220740" entry:"1742963141" modified:"1742963141" project:"ENG4000" status:"pending" uuid:"1b1edb61-c75e-4cf0-916c-38220432262e"]
-[description:"Confirm that impossible events are actually impossible" due:"1743220740" entry:"1742963178" modified:"1742963178" project:"ENG4000" status:"pending" uuid:"12d1adb4-27d3-45de-8e3d-4ffb6409bc7c"]
-[description:"Finish lecture notes (apr 1, frequency response of 1st and 2nd order systems, bode plots)" due:"1743566399" entry:"1743531096" modified:"1743537074" priority:"H" project:"ENG4550" status:"pending" uuid:"cea49cb0-4fef-4352-aa11-1807e534d3a9"]
-[description:"Review missed lecture (apr. 3)" due:"1743825599" entry:"1743784916" modified:"1743784916" project:"ENG4550" status:"pending" uuid:"92113991-9b11-4fea-aecf-82ccb055a17a"]
-[description:"Final report due" due:"1745294340" entry:"1744770493" modified:"1744770493" project:"ENG4000" status:"pending" uuid:"7e21a34c-7446-4c77-8825-13398bbd970f"]
