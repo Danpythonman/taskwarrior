@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0078D7;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+.container {
+    margin: 2rem auto;
+    padding: 1rem;
+    max-width: 800px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.task:last-child {
+    border-bottom: none;
+}
+
+.task-details {
+    flex: 1;
+    margin-right: 1rem;
+}
+
+.task-details h3 {
+    margin: 0 0 0.5rem;
+}
+
+.task-details p {
+    margin: 0;
+    color: #555;
+}
+
+.urgency {
+    font-weight: bold;
+    color: #d9534f;
+}
+
+.task-details .duration-remaining {
+    font-weight: bold;
+    color: green;
+}
+
+.task-details .duration-overdue {
+    font-weight: bold;
+    color: red;
+}
