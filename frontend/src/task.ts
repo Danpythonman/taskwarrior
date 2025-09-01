@@ -69,7 +69,8 @@ class Task {
             return;
         }
         const now = new Date();
-        const timeRemaining = intervalToDuration({ start: this.due, end: now });
+        const [start, end] = this.due < now ? [this.due, now] : [now, this.due];
+        const timeRemaining = intervalToDuration({ start: start, end: end });
         const timeRemainingText = formatDuration(timeRemaining);
         if (this.due > now) {
             element.innerText = `${timeRemainingText} remaining`;
