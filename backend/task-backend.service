@@ -1,3 +1,19 @@
+# Place this file in:
+#
+#   /etc/systemd/system/task-backend.service
+#
+# then reload Systemctl:
+#
+#   sudo systemctl daemon-reload
+#
+# start the service:
+#
+#   sudo systemctl start task-backend.service
+#
+# enable the service so it runs on startup:
+#
+#   sudo systemctl enable task-backend.service
+
 [Unit]
 Description=Task export JSON API (FastAPI/uvicorn)
 After=network-online.target
@@ -7,7 +23,7 @@ Wants=network-online.target
 Type=simple
 User=<<<USER>>>
 WorkingDirectory=<<WORKING DIRECTORY - probably clone this project in /opt/task-backend>>
-ExecStart=<<PATH/TO/VENV>>/uvicorn app:app --host 127.0.0.1 --port 8010
+ExecStart=<<PATH/TO/VENV>>/uvicorn backend.server:app --host 127.0.0.1 --port 8010
 Restart=on-failure
 RestartSec=2
 TimeoutStartSec=15
