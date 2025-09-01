@@ -1,0 +1,40 @@
+# Save this file as:
+#
+#   /etc/nginx/sites-available/task-backend
+#
+# then run this command to link this file to Nginx's configuration:
+#
+#   sudo ln -s /etc/nginx/sites-available/task-backend /etc/nginx/sites-enabled/
+#
+# then run this to make sure the config is all good:
+#
+#   sudo nginx -t
+#
+# then reload Nginx:
+#
+#   sudo systemctl reload nginx
+
+server {
+    listen 80;
+    server_name task-backend.danieldigiovanni.com;
+
+    location / {
+        proxy_pass http://127.0.0.1:8010;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+
+        # WebSocket/HTTP/1.1 support
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+
+        # Timeouts
+        proxy_connect_timeout 5s;
+        proxy_read_timeout 60s;
+    }
+
+    access_log /var/log/nginx/task_backend_access.log;
+    error_log  /var/log/nginx/task_backend_error.log;
+}

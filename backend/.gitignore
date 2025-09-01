@@ -1,0 +1,3 @@
+# Python optimization files
+__pycache__/
+*.pyc

@@ -1,0 +1,17 @@
+[Unit]
+Description=Task export JSON API (FastAPI/uvicorn)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=<<<USER>>>
+WorkingDirectory=<<WORKING DIRECTORY - probably clone this project in /opt/task-backend>>
+ExecStart=<<PATH/TO/VENV>>/uvicorn app:app --host 127.0.0.1 --port 8010
+Restart=on-failure
+RestartSec=2
+TimeoutStartSec=15
+TimeoutStopSec=15
+
+[Install]
+WantedBy=multi-user.target
