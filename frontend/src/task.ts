@@ -59,27 +59,45 @@ class Task {
     }
 
     /**
-     * Updates the given HTML element with the time remaining or overdue for the
-     * task. Adds appropriate CSS classes for styling.
+     * Updates the countdown display for the task's due date.
      *
-     * @param element - The HTML element to update.
+     * Sets the countdown title and text nodes to show either the time remaining
+     * until the due date, or the time overdue if the due date has passed. Also
+     * updates the taskDiv's CSS class to reflect the task's status (good,
+     * neutral, or bad) based on how much time is left or overdue.
+     *
+     * @param taskDiv - The div representing the task, whose class will be updated.
+     * @param countdownTitleText - The text node for the countdown title (will be either "TIME REMAINING:" or "OVERDUE BY:").
+     * @param countdownText - The text node for the countdown duration.
      */
-    updateTimeRemaining(element: HTMLElement): void {
+    updateTimeRemaining(taskDiv: HTMLDivElement, countdownTitleText: Text, countdownText: Text): void {
         if (!this.due) {
             return;
         }
+
         const now = new Date();
         const [start, end] = this.due < now ? [this.due, now] : [now, this.due];
         const timeRemaining = intervalToDuration({ start: start, end: end });
         const timeRemainingText = formatDuration(timeRemaining);
-        if (this.due > now) {
-            element.innerText = `${timeRemainingText} remaining`;
-            element.classList.add('duration-remaining');
-            element.classList.remove('duration-overdue');
+
+        countdownTitleText.nodeValue = (this.due > now)
+            ? 'TIME REMAINING:'
+            : 'OVERDUE BY:';
+        countdownText.nodeValue = timeRemainingText;
+
+        taskDiv.classList.remove('good', 'bad', 'neutral');
+        if (this.due < now) {
+            taskDiv.classList.add('bad');
         } else {
-            element.innerText = `${timeRemainingText} overdue`;
-            element.classList.add('duration-overdue');
-            element.classList.remove('duration-remaining');
+            if (timeRemaining.years && timeRemaining.years > 0) {
+                taskDiv.classList.add('good');
+            } else if (timeRemaining.months && timeRemaining.months > 0) {
+                taskDiv.classList.add('good');
+            } else if (!timeRemaining.days || timeRemaining.days <= 1) {
+                taskDiv.classList.add('neutral');
+            } else {
+                taskDiv.classList.add('good');
+            }
         }
     }
 
@@ -105,25 +123,11 @@ class Task {
         const dueStrongText = document.createTextNode('Due: ');
         dueStrong.appendChild(dueStrongText);
         dueP.appendChild(dueStrong);
-        if (this.due) {
-            const dueText =  document.createTextNode(formatDate(this.due));
-            dueP.appendChild(dueText);
-
-            const remainingP = document.createElement('p');
-
-            // Set the time remaining text
-            this.updateTimeRemaining(remainingP)
-
-            // Make sure the time remaining text keeps updating
-            setInterval(() => { this.updateTimeRemaining(remainingP) }, 1000);
-
-            detailsDiv.appendChild(dueP);
-            detailsDiv.appendChild(remainingP);
-        } else {
-            const dueText =  document.createTextNode('No due date');
-            dueP.appendChild(dueText);
-            detailsDiv.appendChild(dueP);
-        }
+        const dueText = (this.due)
+            ? document.createTextNode(formatDate(this.due))
+            : document.createTextNode('No due date');
+        dueP.appendChild(dueText);
+        detailsDiv.appendChild(dueP);
 
         const projectP = document.createElement('p');
         const projectStrong = document.createElement('strong');
@@ -143,15 +147,35 @@ class Task {
         statusP.appendChild(statusText);
         detailsDiv.appendChild(statusP);
 
-        taskDiv.appendChild(detailsDiv);
-
-        const urgencyDiv = document.createElement('div');
-        urgencyDiv.classList.add('urgency');
-
+        const urgencyP = document.createElement('p');
+        const urgencyStrong = document.createElement('strong');
+        const urgencyStrongText = document.createTextNode('Urgency: ');
+        urgencyStrong.appendChild(urgencyStrongText);
+        urgencyP.appendChild(urgencyStrong);
         const urgencyText = document.createTextNode(`Urgency: ${this.urgency.toFixed(2)}`);
-        urgencyDiv.appendChild(urgencyText);
+        urgencyP.appendChild(urgencyText);
+        detailsDiv.appendChild(urgencyP);
 
-        taskDiv.appendChild(urgencyDiv);
+        const countdownDiv = document.createElement('div');
+        const countdownTitleP = document.createElement('p');
+        countdownTitleP.classList.add('countdown-title')
+        const countdownTitleText = document.createTextNode('');
+        const countdownP = document.createElement('p');
+        countdownP.classList.add('countdown-text')
+        const countdownText = document.createTextNode('');
+        countdownTitleP.appendChild(countdownTitleText);
+        countdownP.appendChild(countdownText);
+        countdownDiv.appendChild(countdownTitleP);
+        countdownDiv.appendChild(countdownP);
+        detailsDiv.appendChild(countdownDiv)
+
+        // Set the time remaining text
+        this.updateTimeRemaining(taskDiv, countdownTitleText, countdownText);
+
+        // Make sure the time remaining text keeps updating
+        setInterval(() => { this.updateTimeRemaining(taskDiv, countdownTitleText, countdownText) }, 1000);
+
+        taskDiv.appendChild(detailsDiv);
 
         return taskDiv;
     }

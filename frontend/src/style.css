@@ -1,24 +1,53 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+:root {
+    color-scheme: light;
+    --bg: #fff;
+    --fg: #000;
+    --good: #e6f4ea;
+    --neutral: #fff9e6;
+    --bad: #fdecea;
 }
 
-header {
-    background-color: #0078D7;
-    color: white;
-    padding: 1rem 2rem;
-    text-align: center;
+:root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #000;
+    --fg: #fff;
+    --good:   #15361f;
+    --neutral:#4f3a14;
+    --bad:    #3b1f22;
+}
+
+body {
+    font-family: Courier, monospace;
+    margin: 0;
+    padding: 0;
+    background-color: var(--bg);
+    color: var(--fg);
+}
+
+#light-bulb {
+    width: 50px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+:root[data-theme="dark"] #light-bulb {
+  filter: invert(1);
+}
+
+#light-bulb:hover {
+    opacity: 0.5;
+}
+
+#light-bulb:active {
+    opacity: 0.25;
 }
 
 .container {
     margin: 2rem auto;
     padding: 1rem;
     max-width: 800px;
-    background: white;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .task {
@@ -26,7 +55,19 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 3px solid var(--bg);
+}
+
+.task.good {
+    background-color: var(--good);
+}
+
+.task.neutral {
+    background-color: var(--neutral);
+}
+
+.task.bad {
+    background-color: var(--bad);
 }
 
 .task:last-child {
@@ -39,25 +80,22 @@ header {
 }
 
 .task-details h3 {
+    font-size: larger;
+    font-weight: bolder;
     margin: 0 0 0.5rem;
 }
 
 .task-details p {
     margin: 0;
-    color: #555;
 }
 
-.urgency {
+.countdown-title {
+    text-align: center;
+    font-size: large;
     font-weight: bold;
-    color: #d9534f;
 }
 
-.task-details .duration-remaining {
-    font-weight: bold;
-    color: green;
-}
-
-.task-details .duration-overdue {
-    font-weight: bold;
-    color: red;
+.countdown-text {
+    text-align: center;
+    font-size: large;
 }
