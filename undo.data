@@ -1421,3 +1421,374 @@ time 1745557206
 old [description:"Final report due" due:"1745294340" entry:"1744770493" modified:"1744770493" project:"ENG4000" status:"pending" uuid:"7e21a34c-7446-4c77-8825-13398bbd970f"]
 new [description:"Final report due" due:"1745294340" end:"1745557206" entry:"1744770493" modified:"1745557206" project:"ENG4000" status:"completed" uuid:"7e21a34c-7446-4c77-8825-13398bbd970f"]
 ---
+time 1756670231
+new [description:"test" entry:"1756670231" modified:"1756670231" status:"pending" uuid:"b3a122d4-c390-4541-95e4-032a2ce4cf95"]
+---
+time 1756671214
+new [description:"Loan repayment starts -d 2025-11-01T00:00:00-0400" entry:"1756671214" modified:"1756671214" status:"pending" uuid:"10e95582-f6f3-4016-9e9c-a05f6f7c181c"]
+---
+time 1756671246
+new [description:"-d 1d test" entry:"1756671246" modified:"1756671246" status:"pending" uuid:"00c9726d-ae7e-40da-8515-fab832f9f854"]
+---
+time 1756671290
+new [description:"-d 2025-11-01T00:00:00-0400 test" entry:"1756671290" modified:"1756671290" status:"pending" uuid:"b8d6dcd4-f76b-49cc-bad9-71233a29438c"]
+---
+time 1756671352
+new [description:"Loan repayment starts" due:"1761969600" entry:"1756671352" modified:"1756671352" status:"pending" uuid:"47833f29-8ab8-4db4-9f46-a70457907f50"]
+---
+time 1756671371
+old [description:"test" entry:"1756670231" modified:"1756670231" status:"pending" uuid:"b3a122d4-c390-4541-95e4-032a2ce4cf95"]
+new [description:"test" end:"1756671367" entry:"1756670231" modified:"1756671371" status:"deleted" uuid:"b3a122d4-c390-4541-95e4-032a2ce4cf95"]
+---
+time 1756671391
+old [description:"Loan repayment starts -d 2025-11-01T00:00:00-0400" entry:"1756671214" modified:"1756671214" status:"pending" uuid:"10e95582-f6f3-4016-9e9c-a05f6f7c181c"]
+new [description:"Loan repayment starts -d 2025-11-01T00:00:00-0400" end:"1756671389" entry:"1756671214" modified:"1756671391" status:"deleted" uuid:"10e95582-f6f3-4016-9e9c-a05f6f7c181c"]
+---
+time 1756671395
+old [description:"-d 1d test" entry:"1756671246" modified:"1756671246" status:"pending" uuid:"00c9726d-ae7e-40da-8515-fab832f9f854"]
+new [description:"-d 1d test" end:"1756671392" entry:"1756671246" modified:"1756671395" status:"deleted" uuid:"00c9726d-ae7e-40da-8515-fab832f9f854"]
+---
+time 1756671399
+old [description:"-d 2025-11-01T00:00:00-0400 test" entry:"1756671290" modified:"1756671290" status:"pending" uuid:"b8d6dcd4-f76b-49cc-bad9-71233a29438c"]
+new [description:"-d 2025-11-01T00:00:00-0400 test" end:"1756671397" entry:"1756671290" modified:"1756671399" status:"deleted" uuid:"b8d6dcd4-f76b-49cc-bad9-71233a29438c"]
+---
+time 1756703962
+new [description:"Help Raf move" due:"1756818000" entry:"1756703962" modified:"1756703962" status:"pending" uuid:"4478f872-fc75-416c-896d-382ba43baba0"]
+---
+time 1756839338
+old [description:"Help Raf move" due:"1756818000" entry:"1756703962" modified:"1756703962" status:"pending" uuid:"4478f872-fc75-416c-896d-382ba43baba0"]
+new [description:"Help Raf move" due:"1756818000" end:"1756839338" entry:"1756703962" modified:"1756839338" status:"completed" uuid:"4478f872-fc75-416c-896d-382ba43baba0"]
+---
+time 1756839863
+new [description:"Bartfeld appointment Mon Sep 8 1pm" due:"1757350800" entry:"1756839863" modified:"1756839863" status:"pending" uuid:"7b1c77f4-eb15-418e-98c7-ba533603e3a2"]
+---
+time 1756839948
+new [description:"Gilmore cleaning Fri Sep 26 10am" due:"1758895200" entry:"1756839948" modified:"1756839948" status:"pending" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+---
+time 1756839968
+old [description:"Loan repayment starts" due:"1761969600" entry:"1756671352" modified:"1756671352" status:"pending" uuid:"47833f29-8ab8-4db4-9f46-a70457907f50"]
+new [description:"Loan repayment starts" due:"1761969600" entry:"1756671352" modified:"1756839968" project:"personal" status:"pending" uuid:"47833f29-8ab8-4db4-9f46-a70457907f50"]
+---
+time 1756839984
+old [description:"Bartfeld appointment Mon Sep 8 1pm" due:"1757350800" entry:"1756839863" modified:"1756839863" status:"pending" uuid:"7b1c77f4-eb15-418e-98c7-ba533603e3a2"]
+new [description:"Bartfeld appointment Mon Sep 8 1pm" due:"1757350800" entry:"1756839863" modified:"1756839984" project:"personal" status:"pending" uuid:"7b1c77f4-eb15-418e-98c7-ba533603e3a2"]
+---
+time 1756839987
+old [description:"Gilmore cleaning Fri Sep 26 10am" due:"1758895200" entry:"1756839948" modified:"1756839948" status:"pending" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+new [description:"Gilmore cleaning Fri Sep 26 10am" due:"1758895200" entry:"1756839948" modified:"1756839987" project:"personal" status:"pending" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+---
+time 1757035708
+new [description:"Fees due for courses" due:"1757476800" entry:"1757035708" modified:"1757035708" project:"admin" status:"pending" uuid:"6e9be7ff-1e60-492e-b172-24374bf087f0"]
+---
+time 1757035725
+new [description:"OGS application" due:"1757649600" entry:"1757035725" modified:"1757035725" status:"pending" uuid:"49513ff6-e4d7-4395-a375-e249c007ff7c"]
+---
+time 1757186135
+new [description:"Complete form on eclass" due:"1757303940" entry:"1757186135" modified:"1757186135" project:"6444" status:"pending" uuid:"6e1d7e63-5fd6-4f6e-b988-2a8f1653bbbd"]
+---
+time 1757295768
+new [description:"Prepare for lab 1" due:"1757476740" entry:"1757295768" modified:"1757295768" project:"TA" status:"pending" uuid:"f3482fe4-0b33-44cd-bd65-9405e57f1b7a"]
+---
+time 1757295875
+new [description:"Enroll in computer vision EECS5323" due:"1757390340" entry:"1757295875" modified:"1757295875" project:"admin" status:"pending" uuid:"0726f50c-9fb2-4096-bafb-874dd66107b8"]
+---
+time 1757295921
+old [description:"Complete form on eclass" due:"1757303940" entry:"1757186135" modified:"1757186135" project:"6444" status:"pending" uuid:"6e1d7e63-5fd6-4f6e-b988-2a8f1653bbbd"]
+new [description:"Complete form on eclass" due:"1757303940" end:"1757295921" entry:"1757186135" modified:"1757295921" project:"6444" status:"completed" uuid:"6e1d7e63-5fd6-4f6e-b988-2a8f1653bbbd"]
+---
+time 1757356888
+old [description:"Bartfeld appointment Mon Sep 8 1pm" due:"1757350800" entry:"1756839863" modified:"1756839984" project:"personal" status:"pending" uuid:"7b1c77f4-eb15-418e-98c7-ba533603e3a2"]
+new [description:"Bartfeld appointment Mon Sep 8 1pm" due:"1757350800" end:"1757356888" entry:"1756839863" modified:"1757356888" project:"personal" status:"completed" uuid:"7b1c77f4-eb15-418e-98c7-ba533603e3a2"]
+---
+time 1757356906
+old [description:"Enroll in computer vision EECS5323" due:"1757390340" entry:"1757295875" modified:"1757295875" project:"admin" status:"pending" uuid:"0726f50c-9fb2-4096-bafb-874dd66107b8"]
+new [description:"Enroll in computer vision EECS5323" due:"1757390340" end:"1757356906" entry:"1757295875" modified:"1757356906" project:"admin" status:"completed" uuid:"0726f50c-9fb2-4096-bafb-874dd66107b8"]
+---
+time 1757372787
+new [description:"Notes from lecture 2" due:"1757476740" entry:"1757372787" modified:"1757372787" project:"5323" status:"pending" uuid:"ba0ce0e9-1874-4abb-91d6-970b58743632"]
+---
+time 1757382048
+new [description:"Check assignment 1" due:"1757476740" entry:"1757382048" modified:"1757382048" project:"5323" status:"pending" uuid:"f9e53a86-1615-42d1-99a7-c5c7f93c3435"]
+---
+time 1757474222
+new [description:"Computer vision assignment 1" due:"1759291140" entry:"1757474222" modified:"1757474222" project:"5323" status:"pending" uuid:"c0011499-978f-4f30-b234-754f51036cf3"]
+---
+time 1757474235
+old [description:"Prepare for lab 1" due:"1757476740" entry:"1757295768" modified:"1757295768" project:"TA" status:"pending" uuid:"f3482fe4-0b33-44cd-bd65-9405e57f1b7a"]
+new [description:"Prepare for lab 1" due:"1757476740" end:"1757474235" entry:"1757295768" modified:"1757474235" project:"TA" status:"completed" uuid:"f3482fe4-0b33-44cd-bd65-9405e57f1b7a"]
+---
+time 1757474254
+old [description:"Check assignment 1" due:"1757476740" entry:"1757382048" modified:"1757382048" project:"5323" status:"pending" uuid:"f9e53a86-1615-42d1-99a7-c5c7f93c3435"]
+new [description:"Check assignment 1" due:"1757476740" end:"1757474254" entry:"1757382048" modified:"1757474254" project:"5323" status:"completed" uuid:"f9e53a86-1615-42d1-99a7-c5c7f93c3435"]
+---
+time 1757474284
+new [description:"Quiz 1" due:"1757534340" entry:"1757474284" modified:"1757474284" project:"5323" status:"pending" uuid:"5471d1d2-5fdf-4e0c-994a-7d11485c6d25"]
+---
+time 1757474354
+new [description:"Review compliance papers" due:"1758513540" entry:"1757474354" modified:"1757474354" project:"research" status:"pending" uuid:"906a7489-52f2-46d1-a0ad-60a7964af7de"]
+---
+time 1757474606
+new [description:"Submit insurance claim for meds" due:"1759291140" entry:"1757474606" modified:"1757474606" project:"personal" status:"pending" uuid:"c595a0b2-90e2-4082-91bb-54eccabf0fee"]
+---
+time 1757474641
+old [description:"OGS application" due:"1757649600" entry:"1757035725" modified:"1757035725" status:"pending" uuid:"49513ff6-e4d7-4395-a375-e249c007ff7c"]
+new [description:"OGS application" due:"1757649600" entry:"1757035725" modified:"1757474641" project:"admin" status:"pending" uuid:"49513ff6-e4d7-4395-a375-e249c007ff7c"]
+---
+time 1757479743
+old [description:"Notes from lecture 2" due:"1757476740" entry:"1757372787" modified:"1757372787" project:"5323" status:"pending" uuid:"ba0ce0e9-1874-4abb-91d6-970b58743632"]
+new [description:"Notes from lecture 2" due:"1757476740" end:"1757479743" entry:"1757372787" modified:"1757479743" project:"5323" status:"completed" uuid:"ba0ce0e9-1874-4abb-91d6-970b58743632"]
+---
+time 1757479757
+old [description:"Quiz 1" due:"1757534340" entry:"1757474284" modified:"1757474284" project:"5323" status:"pending" uuid:"5471d1d2-5fdf-4e0c-994a-7d11485c6d25"]
+new [description:"Quiz 1" due:"1757534340" end:"1757479757" entry:"1757474284" modified:"1757479757" project:"5323" status:"completed" uuid:"5471d1d2-5fdf-4e0c-994a-7d11485c6d25"]
+---
+time 1757540159
+new [description:"Quiz 2" due:"1758081540" entry:"1757540159" modified:"1757540159" project:"5323" status:"pending" uuid:"7500d516-5c77-47bd-a363-4e0d7da5740e"]
+---
+time 1757540171
+new [description:"Lecture 3 notes" due:"1758081540" entry:"1757540171" modified:"1757540171" project:"5323" status:"pending" uuid:"259ebe44-1a0b-4930-ba3c-3c476bf68353"]
+---
+time 1757567230
+new [description:"3" entry:"1757567230" modified:"1757567230" status:"pending" uuid:"ae0af5fa-3488-46e8-b073-662756f9ecd9"]
+---
+time 1757567243
+old [description:"3" entry:"1757567230" modified:"1757567230" status:"pending" uuid:"ae0af5fa-3488-46e8-b073-662756f9ecd9"]
+new [description:"3" end:"1757567241" entry:"1757567230" modified:"1757567243" status:"deleted" uuid:"ae0af5fa-3488-46e8-b073-662756f9ecd9"]
+---
+time 1757616003
+new [description:"Lecture notes from Wed Sep 11" due:"1757735940" entry:"1757616003" modified:"1757616003" project:"6221" status:"pending" uuid:"03e2456c-d183-4ad0-a471-1b578979bc6f"]
+---
+time 1757616034
+old [description:"Fees due for courses" due:"1757476800" entry:"1757035708" modified:"1757035708" project:"admin" status:"pending" uuid:"6e9be7ff-1e60-492e-b172-24374bf087f0"]
+new [description:"Direct deposit information for grad studies" due:"1757476800" entry:"1757035708" modified:"1757616034" project:"admin" status:"pending" uuid:"6e9be7ff-1e60-492e-b172-24374bf087f0"]
+---
+time 1757616046
+old [description:"Direct deposit information for grad studies" due:"1757476800" entry:"1757035708" modified:"1757616034" project:"admin" status:"pending" uuid:"6e9be7ff-1e60-492e-b172-24374bf087f0"]
+new [description:"Direct deposit information for grad studies" due:"1757649540" entry:"1757035708" modified:"1757616046" project:"admin" status:"pending" uuid:"6e9be7ff-1e60-492e-b172-24374bf087f0"]
+---
+time 1757632335
+old [description:"Lecture 3 notes" due:"1758081540" entry:"1757540171" modified:"1757540171" project:"5323" status:"pending" uuid:"259ebe44-1a0b-4930-ba3c-3c476bf68353"]
+new [description:"Lecture 3 notes" due:"1758081540" end:"1757632335" entry:"1757540171" modified:"1757632335" project:"5323" status:"completed" uuid:"259ebe44-1a0b-4930-ba3c-3c476bf68353"]
+---
+time 1757632345
+old [description:"Quiz 2" due:"1758081540" entry:"1757540159" modified:"1757540159" project:"5323" status:"pending" uuid:"7500d516-5c77-47bd-a363-4e0d7da5740e"]
+new [description:"Quiz 2" due:"1758081540" end:"1757632345" entry:"1757540159" modified:"1757632345" project:"5323" status:"completed" uuid:"7500d516-5c77-47bd-a363-4e0d7da5740e"]
+---
+time 1757912222
+new [description:"6221 Assignment 1" due:"1759463940" entry:"1757912222" modified:"1757912222" project:"6221" status:"pending" uuid:"6479e610-e764-493f-a2bf-56f35223f8d2"]
+---
+time 1758046175
+new [description:"Quiz 3" due:"1758067199" entry:"1758046175" modified:"1758046175" project:"5323" status:"pending" uuid:"19448152-1cc2-4321-bcfa-70f1e46165e4"]
+---
+time 1758046185
+new [description:"Lecture notes on photometry" due:"1758067199" entry:"1758046185" modified:"1758046185" project:"5323" status:"pending" uuid:"50266dd4-c23b-4d0b-a169-29cb5fe4936f"]
+---
+time 1758046220
+old [description:"Lecture notes from Wed Sep 11" due:"1757735940" entry:"1757616003" modified:"1757616003" project:"6221" status:"pending" uuid:"03e2456c-d183-4ad0-a471-1b578979bc6f"]
+new [description:"Lecture notes from Wed Sep 11" due:"1757735940" end:"1758046216" entry:"1757616003" modified:"1758046220" project:"6221" status:"deleted" uuid:"03e2456c-d183-4ad0-a471-1b578979bc6f"]
+---
+time 1758046242
+old [description:"6221 Assignment 1" due:"1759463940" entry:"1757912222" modified:"1757912222" project:"6221" status:"pending" uuid:"6479e610-e764-493f-a2bf-56f35223f8d2"]
+new [description:"6221 Assignment 1" due:"1759463940" end:"1758046240" entry:"1757912222" modified:"1758046242" project:"6221" status:"deleted" uuid:"6479e610-e764-493f-a2bf-56f35223f8d2"]
+---
+time 1758127275
+old [description:"Quiz 3" due:"1758067199" entry:"1758046175" modified:"1758046175" project:"5323" status:"pending" uuid:"19448152-1cc2-4321-bcfa-70f1e46165e4"]
+new [description:"Quiz 3" due:"1758067199" end:"1758127275" entry:"1758046175" modified:"1758127275" project:"5323" status:"completed" uuid:"19448152-1cc2-4321-bcfa-70f1e46165e4"]
+---
+time 1758403711
+old [description:"Lecture notes on photometry" due:"1758067199" entry:"1758046185" modified:"1758046185" project:"5323" status:"pending" uuid:"50266dd4-c23b-4d0b-a169-29cb5fe4936f"]
+new [description:"Lecture notes on photometry" due:"1758067199" end:"1758403711" entry:"1758046185" modified:"1758403711" project:"5323" status:"completed" uuid:"50266dd4-c23b-4d0b-a169-29cb5fe4936f"]
+---
+time 1758519310
+old [description:"Direct deposit information for grad studies" due:"1757649540" entry:"1757035708" modified:"1757616046" project:"admin" status:"pending" uuid:"6e9be7ff-1e60-492e-b172-24374bf087f0"]
+new [description:"Direct deposit information for grad studies" due:"1757649540" end:"1758519310" entry:"1757035708" modified:"1758519310" project:"admin" status:"completed" uuid:"6e9be7ff-1e60-492e-b172-24374bf087f0"]
+---
+time 1758519401
+old [description:"Review compliance papers" due:"1758513540" entry:"1757474354" modified:"1757474354" project:"research" status:"pending" uuid:"906a7489-52f2-46d1-a0ad-60a7964af7de"]
+new [description:"Review compliance papers" due:"1758513540" end:"1758519401" entry:"1757474354" modified:"1758519401" project:"research" status:"completed" uuid:"906a7489-52f2-46d1-a0ad-60a7964af7de"]
+---
+time 1758584841
+new [description:"Quiz 5" entry:"1758584841" modified:"1758584841" project:"5323" status:"pending" uuid:"94c0eb8f-0716-42b8-8656-e77cf7818675"]
+---
+time 1758584849
+new [description:"Quiz 5" due:"1758686340" entry:"1758584849" modified:"1758584849" project:"5323" status:"pending" uuid:"2fcaeda3-784e-4eeb-9921-e5d83cedee13"]
+---
+time 1758651653
+old [description:"Quiz 5" entry:"1758584841" modified:"1758584841" project:"5323" status:"pending" uuid:"94c0eb8f-0716-42b8-8656-e77cf7818675"]
+new [description:"Quiz 5" end:"1758651653" entry:"1758584841" modified:"1758651653" project:"5323" status:"completed" uuid:"94c0eb8f-0716-42b8-8656-e77cf7818675"]
+---
+time 1758751644
+new [description:"Quiz 6" due:"1758772740" entry:"1758751644" modified:"1758751644" project:"5323" status:"pending" uuid:"af8303da-12df-4696-bc1e-007e0263adbb"]
+---
+time 1758932558
+old [description:"Quiz 5" due:"1758686340" entry:"1758584849" modified:"1758584849" project:"5323" status:"pending" uuid:"2fcaeda3-784e-4eeb-9921-e5d83cedee13"]
+new [description:"Quiz 5" due:"1758686340" end:"1758932558" entry:"1758584849" modified:"1758932558" project:"5323" status:"completed" uuid:"2fcaeda3-784e-4eeb-9921-e5d83cedee13"]
+---
+time 1758932584
+old [description:"Gilmore cleaning Fri Sep 26 10am" due:"1758895200" entry:"1756839948" modified:"1756839987" project:"personal" status:"pending" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+new [description:"Gilmore cleaning Fri Sep 26 10am" due:"1760706000" entry:"1756839948" modified:"1758932584" project:"personal" status:"pending" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+---
+time 1758947905
+old [description:"Computer vision assignment 1" due:"1759291140" entry:"1757474222" modified:"1757474222" project:"5323" status:"pending" uuid:"c0011499-978f-4f30-b234-754f51036cf3"]
+new [description:"Computer vision assignment 1" due:"1759291140" end:"1758947905" entry:"1757474222" modified:"1758947905" project:"5323" status:"completed" uuid:"c0011499-978f-4f30-b234-754f51036cf3"]
+---
+time 1758947934
+new [description:"Look through rxpx github" due:"1759017599" entry:"1758947934" modified:"1758947934" project:"rxpx" status:"pending" uuid:"8df82085-c99c-4ccc-82f4-cff73d1d8700"]
+---
+time 1758947952
+new [description:"Start on assignment 1" due:"1759017599" entry:"1758947952" modified:"1758947952" project:"6444" status:"pending" uuid:"af6b90d4-5904-4f4b-b6c1-e637768ff284"]
+---
+time 1759186371
+old [description:"Quiz 6" due:"1758772740" entry:"1758751644" modified:"1758751644" project:"5323" status:"pending" uuid:"af8303da-12df-4696-bc1e-007e0263adbb"]
+new [description:"Quiz 6" due:"1758772740" end:"1759186371" entry:"1758751644" modified:"1759186371" project:"5323" status:"completed" uuid:"af8303da-12df-4696-bc1e-007e0263adbb"]
+---
+time 1759186398
+new [description:"Quiz 7" entry:"1759186398" modified:"1759186398" project:"5323" status:"pending" uuid:"34460b37-d474-4679-9e0b-735a22b26dc8"]
+---
+time 1759186403
+new [description:"Quiz 7" due:"1759291140" entry:"1759186403" modified:"1759186403" project:"5323" status:"pending" uuid:"5fde8a0e-33ab-4f0b-83d9-8dac2a275d9c"]
+---
+time 1759186414
+old [description:"Quiz 7" entry:"1759186398" modified:"1759186398" project:"5323" status:"pending" uuid:"34460b37-d474-4679-9e0b-735a22b26dc8"]
+new [description:"Quiz 7" end:"1759186413" entry:"1759186398" modified:"1759186414" project:"5323" status:"deleted" uuid:"34460b37-d474-4679-9e0b-735a22b26dc8"]
+---
+time 1759276062
+old [description:"OGS application" due:"1757649600" entry:"1757035725" modified:"1757474641" project:"admin" status:"pending" uuid:"49513ff6-e4d7-4395-a375-e249c007ff7c"]
+new [description:"OGS application" due:"1759895940" entry:"1757035725" modified:"1759276062" project:"admin" status:"pending" uuid:"49513ff6-e4d7-4395-a375-e249c007ff7c"]
+---
+time 1759276078
+old [description:"Quiz 7" due:"1759291140" entry:"1759186403" modified:"1759186403" project:"5323" status:"pending" uuid:"5fde8a0e-33ab-4f0b-83d9-8dac2a275d9c"]
+new [description:"Quiz 7" due:"1759291140" end:"1759276078" entry:"1759186403" modified:"1759276078" project:"5323" status:"completed" uuid:"5fde8a0e-33ab-4f0b-83d9-8dac2a275d9c"]
+---
+time 1759276091
+old [description:"Look through rxpx github" due:"1759017599" entry:"1758947934" modified:"1758947934" project:"rxpx" status:"pending" uuid:"8df82085-c99c-4ccc-82f4-cff73d1d8700"]
+new [description:"Look through rxpx github" due:"1759017599" end:"1759276091" entry:"1758947934" modified:"1759276091" project:"rxpx" status:"completed" uuid:"8df82085-c99c-4ccc-82f4-cff73d1d8700"]
+---
+time 1759336484
+new [description:"Figure out how to connect to pc via wifi on linux" entry:"1759336484" modified:"1759336484" status:"pending" uuid:"f04ea7e0-7549-4444-bbf2-20924b5c66f6"]
+---
+time 1759336519
+new [description:"Email samad about rxpx stuff need to deploy" entry:"1759336519" modified:"1759336519" status:"pending" uuid:"30530853-f15f-4e2f-a146-3fc3853649f7"]
+---
+time 1759336542
+new [description:"Email vector cc maleknaz check up on vector scholarship progress" entry:"1759336542" modified:"1759336542" status:"pending" uuid:"3df932c3-15df-4f11-8aa9-89696f081d13"]
+---
+time 1759336576
+new [description:"Figure out the questions from the presentation on the papers, review presentation" entry:"1759336576" modified:"1759336576" status:"pending" uuid:"e914eb27-7627-4dde-a2fd-87942f3e7972"]
+---
+time 1759356012
+old [description:"Email samad about rxpx stuff need to deploy" entry:"1759336519" modified:"1759336519" status:"pending" uuid:"30530853-f15f-4e2f-a146-3fc3853649f7"]
+new [description:"Email samad about rxpx stuff need to deploy" end:"1759356012" entry:"1759336519" modified:"1759356012" status:"completed" uuid:"30530853-f15f-4e2f-a146-3fc3853649f7"]
+---
+time 1759424634
+new [description:"Move taskr backend to GCP" entry:"1759424634" modified:"1759424634" status:"pending" uuid:"b2eb11f0-5bae-4271-bda6-d8926597e46d"]
+---
+time 1759424655
+new [description:"Quiz 8" due:"1759809540" entry:"1759424655" modified:"1759424655" project:"5323" status:"pending" uuid:"0ab2ca2e-c252-45c9-bb43-5b4d39d5166d"]
+---
+time 1759424682
+old [description:"Figure out how to connect to pc via wifi on linux" entry:"1759336484" modified:"1759336484" status:"pending" uuid:"f04ea7e0-7549-4444-bbf2-20924b5c66f6"]
+new [description:"Figure out how to connect to pc via wifi on linux" due:"1759723140" entry:"1759336484" modified:"1759424682" status:"pending" uuid:"f04ea7e0-7549-4444-bbf2-20924b5c66f6"]
+---
+time 1759424692
+old [description:"Email vector cc maleknaz check up on vector scholarship progress" entry:"1759336542" modified:"1759336542" status:"pending" uuid:"3df932c3-15df-4f11-8aa9-89696f081d13"]
+new [description:"Email vector cc maleknaz check up on vector scholarship progress" due:"1759449599" entry:"1759336542" modified:"1759424692" status:"pending" uuid:"3df932c3-15df-4f11-8aa9-89696f081d13"]
+---
+time 1759424712
+old [description:"Figure out the questions from the presentation on the papers, review presentation" entry:"1759336576" modified:"1759336576" status:"pending" uuid:"e914eb27-7627-4dde-a2fd-87942f3e7972"]
+new [description:"Figure out the questions from the presentation on the papers, review presentation" due:"1759723140" entry:"1759336576" modified:"1759424712" status:"pending" uuid:"e914eb27-7627-4dde-a2fd-87942f3e7972"]
+---
+time 1759424729
+old [description:"Move taskr backend to GCP" entry:"1759424634" modified:"1759424634" status:"pending" uuid:"b2eb11f0-5bae-4271-bda6-d8926597e46d"]
+new [description:"Move taskr backend to GCP" due:"1759723140" entry:"1759424634" modified:"1759424729" status:"pending" uuid:"b2eb11f0-5bae-4271-bda6-d8926597e46d"]
+---
+time 1759424758
+old [description:"Gilmore cleaning Fri Sep 26 10am" due:"1760706000" entry:"1756839948" modified:"1758932584" project:"personal" status:"pending" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+new [description:"Gilmore cleaning Fri Sep 26 10am" due:"1759496400" entry:"1756839948" modified:"1759424758" project:"personal" status:"pending" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+---
+time 1759527502
+old [description:"Gilmore cleaning Fri Sep 26 10am" due:"1759496400" entry:"1756839948" modified:"1759424758" project:"personal" status:"pending" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+new [description:"Gilmore cleaning Fri Sep 26 10am" due:"1759496400" end:"1759527502" entry:"1756839948" modified:"1759527502" project:"personal" status:"completed" uuid:"78632f98-c3b8-40b1-b6b6-59ea11298b37"]
+---
+time 1759533961
+old [description:"Quiz 8" due:"1759809540" entry:"1759424655" modified:"1759424655" project:"5323" status:"pending" uuid:"0ab2ca2e-c252-45c9-bb43-5b4d39d5166d"]
+new [description:"Quiz 8" due:"1759809540" end:"1759533961" entry:"1759424655" modified:"1759533961" project:"5323" status:"completed" uuid:"0ab2ca2e-c252-45c9-bb43-5b4d39d5166d"]
+---
+time 1759610460
+old [description:"Email vector cc maleknaz check up on vector scholarship progress" due:"1759449599" entry:"1759336542" modified:"1759424692" status:"pending" uuid:"3df932c3-15df-4f11-8aa9-89696f081d13"]
+new [description:"Email vector cc maleknaz check up on vector scholarship progress" due:"1759449599" end:"1759610460" entry:"1759336542" modified:"1759610460" status:"completed" uuid:"3df932c3-15df-4f11-8aa9-89696f081d13"]
+---
+time 1759611972
+old [description:"Submit insurance claim for meds" due:"1759291140" entry:"1757474606" modified:"1757474606" project:"personal" status:"pending" uuid:"c595a0b2-90e2-4082-91bb-54eccabf0fee"]
+new [description:"Submit insurance claim for meds" due:"1759291140" end:"1759611972" entry:"1757474606" modified:"1759611972" project:"personal" status:"completed" uuid:"c595a0b2-90e2-4082-91bb-54eccabf0fee"]
+---
+time 1759611999
+new [description:"Check on insurance claims" due:"1760155140" entry:"1759611999" modified:"1759611999" project:"personal" status:"pending" uuid:"1cede04c-8695-4551-bb0e-e970c97e7b58"]
+---
+time 1759612011
+new [description:"TD bank renew student acount" due:"1760155140" entry:"1759612011" modified:"1759612011" project:"personal" status:"pending" uuid:"8b750d81-6aae-4a06-8915-792f9ff80439"]
+---
+time 1759692784
+new [description:"Finishing touches on rxpx project" due:"1759895940" entry:"1759692784" modified:"1759692784" project:"rxpx" status:"pending" uuid:"8106128b-1516-4cab-a718-47bee9f23856"]
+---
+time 1759692839
+old [description:"Figure out how to connect to pc via wifi on linux" due:"1759723140" entry:"1759336484" modified:"1759424682" status:"pending" uuid:"f04ea7e0-7549-4444-bbf2-20924b5c66f6"]
+new [description:"Figure out how to connect to pc via wifi on linux" due:"1759723140" entry:"1759336484" modified:"1759692839" project:"research" status:"pending" uuid:"f04ea7e0-7549-4444-bbf2-20924b5c66f6"]
+---
+time 1759692852
+old [description:"Figure out the questions from the presentation on the papers, review presentation" due:"1759723140" entry:"1759336576" modified:"1759424712" status:"pending" uuid:"e914eb27-7627-4dde-a2fd-87942f3e7972"]
+new [description:"Figure out the questions from the presentation on the papers, review presentation" due:"1759723140" entry:"1759336576" modified:"1759692852" project:"research" status:"pending" uuid:"e914eb27-7627-4dde-a2fd-87942f3e7972"]
+---
+time 1759692865
+old [description:"Move taskr backend to GCP" due:"1759723140" entry:"1759424634" modified:"1759424729" status:"pending" uuid:"b2eb11f0-5bae-4271-bda6-d8926597e46d"]
+new [description:"Move taskr backend to GCP" due:"1759723140" entry:"1759424634" modified:"1759692865" project:"personal" status:"pending" uuid:"b2eb11f0-5bae-4271-bda6-d8926597e46d"]
+---
+time 1759693144
+new [description:"Check on student finnancial statement payment" due:"1759809540" entry:"1759693144" modified:"1759693144" project:"personal" status:"pending" uuid:"d540f48a-2c4f-4560-a196-9df9bbdc70c0"]
+---
+time 1759717753
+old [description:"Figure out the questions from the presentation on the papers, review presentation" due:"1759723140" entry:"1759336576" modified:"1759692852" project:"research" status:"pending" uuid:"e914eb27-7627-4dde-a2fd-87942f3e7972"]
+new [description:"Figure out the questions from the presentation on the papers, review presentation" due:"1759723140" end:"1759717753" entry:"1759336576" modified:"1759717753" project:"research" status:"completed" uuid:"e914eb27-7627-4dde-a2fd-87942f3e7972"]
+---
+time 1759728813
+old [description:"Figure out how to connect to pc via wifi on linux" due:"1759723140" entry:"1759336484" modified:"1759692839" project:"research" status:"pending" uuid:"f04ea7e0-7549-4444-bbf2-20924b5c66f6"]
+new [description:"Figure out how to connect to pc via wifi on linux" due:"1759723140" end:"1759728813" entry:"1759336484" modified:"1759728813" project:"research" status:"completed" uuid:"f04ea7e0-7549-4444-bbf2-20924b5c66f6"]
+---
+time 1759770494
+old [description:"Check on student finnancial statement payment" due:"1759809540" entry:"1759693144" modified:"1759693144" project:"personal" status:"pending" uuid:"d540f48a-2c4f-4560-a196-9df9bbdc70c0"]
+new [description:"Check on student finnancial statement payment" due:"1759809540" end:"1759770494" entry:"1759693144" modified:"1759770494" project:"personal" status:"completed" uuid:"d540f48a-2c4f-4560-a196-9df9bbdc70c0"]
+---
+time 1759800622
+old [description:"OGS application" due:"1759895940" entry:"1757035725" modified:"1759276062" project:"admin" status:"pending" uuid:"49513ff6-e4d7-4395-a375-e249c007ff7c"]
+new [description:"OGS application" due:"1759895940" end:"1759800622" entry:"1757035725" modified:"1759800622" project:"admin" status:"completed" uuid:"49513ff6-e4d7-4395-a375-e249c007ff7c"]
+---
+time 1759800662
+new [description:"Review papers presentation" due:"1759982340" entry:"1759800662" modified:"1759800662" project:"research" status:"pending" uuid:"9bd0f352-522c-4e05-b4ff-693600c7a49b"]
+---
+time 1759800681
+new [description:"Quiz 9" due:"1759895940" entry:"1759800681" modified:"1759800681" project:"5323" status:"pending" uuid:"2ef4b7f9-62ed-4c5f-95cd-6bca9d490846"]
+---
+time 1759800701
+new [description:"Midterm" due:"1760990400" entry:"1759800701" modified:"1759800701" project:"5323" status:"pending" uuid:"cbb2ad71-0b61-4910-bed7-9aaac8641161"]
+---
+time 1760249473
+old [description:"Start on assignment 1" due:"1759017599" entry:"1758947952" modified:"1758947952" project:"6444" status:"pending" uuid:"af6b90d4-5904-4f4b-b6c1-e637768ff284"]
+new [description:"Start on assignment 1" due:"1759017599" end:"1760249473" entry:"1758947952" modified:"1760249473" project:"6444" status:"completed" uuid:"af6b90d4-5904-4f4b-b6c1-e637768ff284"]
+---
+time 1760249482
+old [description:"Quiz 9" due:"1759895940" entry:"1759800681" modified:"1759800681" project:"5323" status:"pending" uuid:"2ef4b7f9-62ed-4c5f-95cd-6bca9d490846"]
+new [description:"Quiz 9" due:"1759895940" end:"1760249482" entry:"1759800681" modified:"1760249482" project:"5323" status:"completed" uuid:"2ef4b7f9-62ed-4c5f-95cd-6bca9d490846"]
+---
+time 1760249517
+new [description:"Assignment presentation" due:"1761019140" entry:"1760249517" modified:"1760249517" status:"pending" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+---
+time 1760249533
+new [description:"Assignment presentation" due:"1761325140" entry:"1760249533" modified:"1760249533" project:"6444" status:"pending" uuid:"b35f41ad-379d-4e4f-a53b-4bd4c20e53a7"]
+---
+time 1760249550
+old [description:"Assignment presentation" due:"1761019140" entry:"1760249517" modified:"1760249517" status:"pending" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+new [description:"Assignment presentation" due:"1761019140" entry:"1760249517" modified:"1760249550" project:"6444" status:"pending" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+---
+time 1760249586
+new [description:"Assignment 2" due:"1761710340" entry:"1760249586" modified:"1760249586" project:"5323" status:"pending" uuid:"c9219364-b702-4cf0-99ac-0b65a390ed77"]
+---
