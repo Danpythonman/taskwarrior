@@ -17,7 +17,7 @@
 }
 
 body {
-    font-family: Courier, monospace;
+    font-family: Helvetica, monospace;
     margin: 0;
     padding: 0;
     background-color: var(--bg);
@@ -50,12 +50,26 @@ body {
     max-width: 800px;
 }
 
+#task-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 350px), 1fr));
+    gap: 1rem;
+}
+
 .task {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    border-bottom: 3px solid var(--bg);
+    border-bottom: none;
+    border: 3px solid var(--bg);
+    /* border-radius: 12px; */
+    transition: transform 0.3s ease;
+
+}
+
+.task:hover {
+    transform: scale(1.1);
 }
 
 .task.good {
@@ -93,9 +107,12 @@ body {
     text-align: center;
     font-size: large;
     font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 10px;
 }
 
 .countdown-text {
     text-align: center;
     font-size: large;
+    font-family: monospace;
 }
