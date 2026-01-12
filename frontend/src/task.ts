@@ -70,7 +70,7 @@ class Task {
      * @param countdownTitleText - The text node for the countdown title (will be either "TIME REMAINING:" or "OVERDUE BY:").
      * @param countdownText - The text node for the countdown duration.
      */
-    updateTimeRemaining(taskDiv: HTMLDivElement, countdownTitleText: Text, countdownText: Text): void {
+    updateTimeRemaining(taskDiv: HTMLDivElement, countdownContainer: HTMLDivElement): void {
         if (!this.due) {
             return;
         }
@@ -78,12 +78,43 @@ class Task {
         const now = new Date();
         const [start, end] = this.due < now ? [this.due, now] : [now, this.due];
         const timeRemaining = intervalToDuration({ start: start, end: end });
-        const timeRemainingText = formatDuration(timeRemaining);
 
-        countdownTitleText.nodeValue = (this.due > now)
-            ? 'TIME REMAINING:'
-            : 'OVERDUE BY:';
-        countdownText.nodeValue = timeRemainingText;
+        // Build time units array, excluding zero values
+        const timeUnits = [];
+        
+        if (timeRemaining.years && timeRemaining.years > 0) {
+            timeUnits.push({ value: timeRemaining.years.toString().padStart(2, '0'), label: 'years' });
+        }
+        if (timeRemaining.months && timeRemaining.months > 0) {
+            timeUnits.push({ value: timeRemaining.months.toString().padStart(2, '0'), label: 'months' });
+        }
+        if (timeRemaining.days && timeRemaining.days > 0) {
+            timeUnits.push({ value: timeRemaining.days.toString().padStart(2, '0'), label: 'days' });
+        }
+        if (timeRemaining.hours && timeRemaining.hours > 0) {
+            timeUnits.push({ value: timeRemaining.hours.toString().padStart(2, '0'), label: 'hours' });
+        }
+        if (timeRemaining.minutes && timeRemaining.minutes > 0) {
+            timeUnits.push({ value: timeRemaining.minutes.toString().padStart(2, '0'), label: 'mins' });
+        }
+        // Always show seconds
+        timeUnits.push({ value: (timeRemaining.seconds || 0).toString().padStart(2, '0'), label: 'secs' });
+
+        // Build HTML
+        const unitsHTML = timeUnits.map((unit, index) => `
+            ${index > 0 ? '<div class="time-separator">:</div>' : ''}
+            <div class="time-unit">
+                <div class="time-value">${unit.value}</div>
+                <div class="time-label">${unit.label}</div>
+            </div>
+        `).join('');
+
+        countdownContainer.innerHTML = `
+            <p class="countdown-title">${this.due > now ? 'TIME REMAINING:' : 'OVERDUE BY:'}</p>
+            <div class="countdown-display">
+                ${unitsHTML}
+            </div>
+        `;
 
         taskDiv.classList.remove('good', 'bad', 'neutral');
         if (this.due < now) {
@@ -170,10 +201,10 @@ class Task {
         detailsDiv.appendChild(countdownDiv)
 
         // Set the time remaining text
-        this.updateTimeRemaining(taskDiv, countdownTitleText, countdownText);
+        this.updateTimeRemaining(taskDiv, countdownDiv);
 
         // Make sure the time remaining text keeps updating
-        setInterval(() => { this.updateTimeRemaining(taskDiv, countdownTitleText, countdownText) }, 1000);
+        setInterval(() => { this.updateTimeRemaining(taskDiv, countdownDiv) }, 1000);
 
         taskDiv.appendChild(detailsDiv);
 
