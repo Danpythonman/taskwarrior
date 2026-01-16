@@ -1,5 +1,5 @@
 import { formatDate, str2date } from './utils.ts'
-import { formatDuration, intervalToDuration } from 'date-fns'
+import { intervalToDuration } from 'date-fns'
 
 const taskJsonUrl = import.meta.env.VITE_TASK_JSON_URL;
 
