@@ -1,3 +1,6 @@
 # Python optimization files
 __pycache__/
 *.pyc
+
+# Virtual environment
+venv/
