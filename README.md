@@ -68,3 +68,10 @@ Deploying Frontend
    ```bash
    gsutil -m rsync -R dist/ gs://my-bucket-name
    ```
+
+5. If you want to disable caching on the index.html page in the Google Cloud bucket, use the following commands:
+
+   ```
+   gsutil setmeta -h "Cache-Control:no-cache, max-age=0, must-revalidate" gs://my-bucket-name/
+   gsutil setmeta -h "Cache-Control:no-cache, max-age=0, must-revalidate" gs://my-bucket-name/index.html
+   ```
