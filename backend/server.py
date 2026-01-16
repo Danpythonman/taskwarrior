@@ -9,6 +9,7 @@ representation suitable for downstream processing.
 from __future__ import annotations
 from datetime import datetime, timezone
 import json
+from operator import attrgetter
 import signal
 import subprocess
 import typing
@@ -140,6 +141,7 @@ class TaskImprovedModel(BaseModel):
     due         : Optional[datetime]                         = None
     due_in      : Optional[TimeDiffModel]                    = None
     overdue_by  : Optional[TimeDiffModel]                    = None
+    urgency     : Optional[float]                            = 0.0
 
     @staticmethod
     def from_raw(raw_task: TaskRaw) -> TaskImprovedModel:
@@ -155,6 +157,7 @@ class TaskImprovedModel(BaseModel):
 
         description = raw_task.get('description') or ''
         status = raw_task.get('status') or 'pending'
+        urgency = raw_task.get('urgency') or 0.0
         project = raw_task.get('project')
         priority = TaskImprovedModel.PRIORITY_MAP.get(raw_task.get('priority'))
 
@@ -184,6 +187,7 @@ class TaskImprovedModel(BaseModel):
             due         = due         ,
             due_in      = due_in      ,
             overdue_by  = overdue_by  ,
+            urgency     = urgency     ,
         )
 
 
@@ -237,6 +241,20 @@ def get_raw_tasks() -> List[TaskRaw]:
         raise HTTPException(status_code=502, detail='`task export` generated invalid JSON')
 
 
+def raw2improved(raw_tasks: List[TaskRaw]) -> List[TaskImprovedModel]:
+    '''
+    Converts raw tasks to improved tasks.
+
+    Args:
+        raw_tasks: The list of raw tasks, which should come from the
+            `get_raw_tasks` function.
+
+    Returns:
+        Improved tasks in the same order as in the `raw_tasks` list.
+    '''
+    return [TaskImprovedModel.from_raw(raw_task) for raw_task in raw_tasks]
+
+
 GPT_TASK_HTML_TEMPLATE = '''
 <!DOCTYPE HTML>
 <html>
@@ -266,6 +284,9 @@ GPT_TASK_HTML_TEMPLATE = '''
               <strong>Overdue by:</strong>
               {{ task.overdue_by['days'] }} days, {{ task.overdue_by['hours'] }} hours, {{ task.overdue_by['days'] }} minutes
             </li>
+          {% endif %}
+          {% if task.urgency %}
+            <li><strong>Urgency:</strong> {{ task.urgency }}</li>
           {% endif %}
         </ul>
       </div>
@@ -314,7 +335,7 @@ def gpt_tasks():
 
     raw_tasks = get_raw_tasks()
     try:
-        return [TaskImprovedModel.from_raw(raw_task) for raw_task in raw_tasks]
+        return raw2improved(raw_tasks)
     except IncorrectDateFormatException as e:
         raise HTTPException(status_code=502, detail=str(e))
 
@@ -330,7 +351,11 @@ def gpt_tasks_html():
     '''
     raw_tasks = get_raw_tasks()
     try:
-        improved_tasks = [TaskImprovedModel.from_raw(raw_task) for raw_task in raw_tasks]
+        improved_tasks = sorted(
+            raw2improved(raw_tasks),
+            key=attrgetter('urgency'),
+            reverse=True
+        )
         html = gpt_task_html_template.render(
             tasks=improved_tasks,
             now=datetime.now()
