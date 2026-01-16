@@ -16,12 +16,14 @@ from typing import Dict, List, Literal, Optional, TypedDict
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import HTMLResponse, JSONResponse
+from jinja2 import Environment, select_autoescape
 from pydantic import BaseModel
 
 
 DATETIME_FORMAT = '%Y%m%dT%H%M%SZ'
 '''Format for the datetime strings in the raw tasks.'''
+
 
 class TaskRaw(TypedDict, total=False):
     '''
@@ -235,6 +237,48 @@ def get_raw_tasks() -> List[TaskRaw]:
         raise HTTPException(status_code=502, detail='`task export` generated invalid JSON')
 
 
+GPT_TASK_HTML_TEMPLATE = '''
+<!DOCTYPE HTML>
+<html>
+  <body>
+    {% for task in tasks %}
+      <div class="task">
+        <h2>{{ task.description }}</h2>
+        <ul>
+          <li><strong>Status:</strong> {{ task.status }}</li>
+          {% if task.priority %}
+            <li><strong>Priority:</strong> {{ task.priority }}</li>
+          {% endif %}
+          {% if task.project %}
+            <li><strong>Project:</strong> {{ task.project }}</li>
+          {% endif %}
+          {% if task.due %}
+            <li><strong>Due:</strong> {{ task.due.strftime("%A, %B %d, %Y at %I:%M %p") }}</li>
+          {% endif %}
+          {% if task.due_in %}
+            <li>
+              <strong>Due in:</strong>
+              {{ task.due_in['days'] }} days, {{ task.due_in['hours'] }} hours, {{ task.due_in['days'] }} minutes
+            </li>
+          {% endif %}
+          {% if task.overdue_by %}
+            <li>
+              <strong>Overdue by:</strong>
+              {{ task.overdue_by['days'] }} days, {{ task.overdue_by['hours'] }} hours, {{ task.overdue_by['days'] }} minutes
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+      <hr>
+    {% endfor %}
+  </body>
+</html>
+'''
+
+jinja_env = Environment(autoescape=select_autoescape())
+gpt_task_html_template = jinja_env.from_string(GPT_TASK_HTML_TEMPLATE)
+
+
 app = FastAPI()
 
 app.add_middleware(
@@ -261,7 +305,7 @@ def tasks():
 @app.get('/gpt/tasks', response_model=List[TaskImprovedModel])
 def gpt_tasks():
     '''
-    HTTP GET handler returning enhanced tasks for GPT processing.
+    HTTP GET handler returning enhanced tasks for GPT processing in JSON format.
 
     Transforms raw TaskWarrior tasks via `Task.from_raw` into a
     normalized structure (ISO datetimes, priority strings, and
@@ -271,5 +315,26 @@ def gpt_tasks():
     raw_tasks = get_raw_tasks()
     try:
         return [TaskImprovedModel.from_raw(raw_task) for raw_task in raw_tasks]
+    except IncorrectDateFormatException as e:
+        raise HTTPException(status_code=502, detail=str(e))
+
+
+@app.get('/gpt/html/tasks', response_class=HTMLResponse)
+def gpt_tasks_html():
+    '''
+    HTTP GET handler returning enhanced tasks for GPT processing in HTML format.
+
+    Transforms raw TaskWarrior tasks via `Task.from_raw` into a
+    normalized structure (ISO datetimes, priority strings, and
+    `due_in`/`overdue_by` diffs) and returns them as HTML.
+    '''
+    raw_tasks = get_raw_tasks()
+    try:
+        improved_tasks = [TaskImprovedModel.from_raw(raw_task) for raw_task in raw_tasks]
+        html = gpt_task_html_template.render(
+            tasks=improved_tasks,
+            now=datetime.now()
+        )
+        return HTMLResponse(content=html)
     except IncorrectDateFormatException as e:
         raise HTTPException(status_code=502, detail=str(e))
