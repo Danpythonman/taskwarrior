@@ -1792,3 +1792,1396 @@ new [description:"Assignment presentation" due:"1761019140" entry:"1760249517" m
 time 1760249586
 new [description:"Assignment 2" due:"1761710340" entry:"1760249586" modified:"1760249586" project:"5323" status:"pending" uuid:"c9219364-b702-4cf0-99ac-0b65a390ed77"]
 ---
+time 1760393549
+old [description:"Move taskr backend to GCP" due:"1759723140" entry:"1759424634" modified:"1759692865" project:"personal" status:"pending" uuid:"b2eb11f0-5bae-4271-bda6-d8926597e46d"]
+new [description:"Move taskr backend to GCP" due:"1759723140" end:"1760393549" entry:"1759424634" modified:"1760393549" project:"personal" status:"completed" uuid:"b2eb11f0-5bae-4271-bda6-d8926597e46d"]
+---
+time 1760394239
+new [description:"Update personal website" due:"1760399999" entry:"1760394239" modified:"1760394239" project:"personal" status:"pending" uuid:"02f3b52c-77aa-46c0-a17b-8f16b4cf5a4b"]
+---
+time 1760419945
+old [description:"Update personal website" due:"1760399999" entry:"1760394239" modified:"1760394239" project:"personal" status:"pending" uuid:"02f3b52c-77aa-46c0-a17b-8f16b4cf5a4b"]
+new [description:"Update personal website" due:"1760399999" end:"1760419945" entry:"1760394239" modified:"1760419945" project:"personal" status:"completed" uuid:"02f3b52c-77aa-46c0-a17b-8f16b4cf5a4b"]
+---
+time 1760419973
+new [description:"Add micrograd to personal webiste" due:"1760587140" entry:"1760419973" modified:"1760419973" project:"personal" status:"pending" uuid:"94708e87-47bb-469b-a921-84d86da116bc"]
+---
+time 1760419981
+new [description:"Add GPT2 to personal webiste" due:"1760673540" entry:"1760419981" modified:"1760419981" project:"personal" status:"pending" uuid:"ba2c3624-dbfa-4c12-828e-a18be01daa41"]
+---
+time 1760467887
+new [description:"Test patch from Elmira LLM run" due:"1760486399" entry:"1760467887" modified:"1760467887" project:"6444" status:"pending" uuid:"7532a249-2e94-4b8b-9af4-fd700c8e7cb4"]
+---
+time 1760658958
+old [description:"Finishing touches on rxpx project" due:"1759895940" entry:"1759692784" modified:"1759692784" project:"rxpx" status:"pending" uuid:"8106128b-1516-4cab-a718-47bee9f23856"]
+new [description:"Finishing touches on rxpx project" due:"1759895940" end:"1760658958" entry:"1759692784" modified:"1760658958" project:"rxpx" status:"completed" uuid:"8106128b-1516-4cab-a718-47bee9f23856"]
+---
+time 1760658963
+old [description:"Review papers presentation" due:"1759982340" entry:"1759800662" modified:"1759800662" project:"research" status:"pending" uuid:"9bd0f352-522c-4e05-b4ff-693600c7a49b"]
+new [description:"Review papers presentation" due:"1759982340" end:"1760658963" entry:"1759800662" modified:"1760658963" project:"research" status:"completed" uuid:"9bd0f352-522c-4e05-b4ff-693600c7a49b"]
+---
+time 1760658976
+old [description:"Test patch from Elmira LLM run" due:"1760486399" entry:"1760467887" modified:"1760467887" project:"6444" status:"pending" uuid:"7532a249-2e94-4b8b-9af4-fd700c8e7cb4"]
+new [description:"Test patch from Elmira LLM run" due:"1760486399" end:"1760658976" entry:"1760467887" modified:"1760658976" project:"6444" status:"completed" uuid:"7532a249-2e94-4b8b-9af4-fd700c8e7cb4"]
+---
+time 1760659002
+old [description:"Add micrograd to personal webiste" due:"1760587140" entry:"1760419973" modified:"1760419973" project:"personal" status:"pending" uuid:"94708e87-47bb-469b-a921-84d86da116bc"]
+new [description:"Add micrograd to personal webiste" due:"1760932740" entry:"1760419973" modified:"1760659002" project:"personal" status:"pending" uuid:"94708e87-47bb-469b-a921-84d86da116bc"]
+---
+time 1760659015
+old [description:"Add GPT2 to personal webiste" due:"1760673540" entry:"1760419981" modified:"1760419981" project:"personal" status:"pending" uuid:"ba2c3624-dbfa-4c12-828e-a18be01daa41"]
+new [description:"Add GPT2 to personal webiste" due:"1760932740" entry:"1760419981" modified:"1760659015" project:"personal" status:"pending" uuid:"ba2c3624-dbfa-4c12-828e-a18be01daa41"]
+---
+time 1760659037
+old [description:"Assignment presentation" due:"1761325140" entry:"1760249533" modified:"1760249533" project:"6444" status:"pending" uuid:"b35f41ad-379d-4e4f-a53b-4bd4c20e53a7"]
+new [description:"Assignment report" due:"1761325140" entry:"1760249533" modified:"1760659037" project:"6444" status:"pending" uuid:"b35f41ad-379d-4e4f-a53b-4bd4c20e53a7"]
+---
+time 1760659093
+old [description:"Check on insurance claims" due:"1760155140" entry:"1759611999" modified:"1759611999" project:"personal" status:"pending" uuid:"1cede04c-8695-4551-bb0e-e970c97e7b58"]
+new [description:"Check on insurance claims" due:"1760155140" end:"1760659093" entry:"1759611999" modified:"1760659093" project:"personal" status:"completed" uuid:"1cede04c-8695-4551-bb0e-e970c97e7b58"]
+---
+time 1760659124
+new [description:"Test mistral again for part 2 of assigment" due:"1760659199" entry:"1760659124" modified:"1760659124" project:"6444" status:"pending" uuid:"5cbb26d7-9e27-4296-adc7-b4d671148f5f"]
+---
+time 1760659158
+new [description:"Ask Maleknaz for namecheap account" due:"1760724000" entry:"1760659158" modified:"1760659158" project:"rxpx" status:"pending" uuid:"856a5955-8459-48e2-8ff6-92fb885eb5aa"]
+---
+time 1760659192
+new [description:"Ask Tan for the dataset of PAAB documents" due:"1760724000" entry:"1760659192" modified:"1760659192" project:"rxpx" status:"pending" uuid:"0945130a-90c8-4b21-be2b-4ea70e930f6b"]
+---
+time 1760659221
+new [description:"Start deploying" due:"1760745599" entry:"1760659221" modified:"1760659221" priority:"H" project:"rxpx" status:"pending" uuid:"55766fd7-d15f-4ded-80ff-b159e64b22e5"]
+---
+time 1760659252
+old [description:"TD bank renew student acount" due:"1760155140" entry:"1759612011" modified:"1759612011" project:"personal" status:"pending" uuid:"8b750d81-6aae-4a06-8915-792f9ff80439"]
+new [description:"TD bank renew student acount" due:"1761012000" entry:"1759612011" modified:"1760659252" project:"personal" status:"pending" uuid:"8b750d81-6aae-4a06-8915-792f9ff80439"]
+---
+time 1760659351
+new [description:"Reread the rights and obligations paper" due:"1760720400" entry:"1760659351" modified:"1760659351" project:"rxpx" status:"pending" uuid:"953048ba-7ec6-49d8-a0c0-1ef61249437d"]
+---
+time 1760729395
+new [description:"Mark programming test 1" due:"1760724000" entry:"1760729395" modified:"1760729395" project:"ta" status:"pending" uuid:"b4ff3e8b-01bb-49e5-85f7-a087bce31318"]
+---
+time 1761066848
+new [description:"Rank papers to present" due:"1761091199" entry:"1761066848" modified:"1761066848" project:"6444" status:"pending" uuid:"5835f29c-3324-482e-9bba-d2d9dfef4be3"]
+---
+time 1761189766
+old [description:"Start deploying" due:"1760745599" entry:"1760659221" modified:"1760659221" priority:"H" project:"rxpx" status:"pending" uuid:"55766fd7-d15f-4ded-80ff-b159e64b22e5"]
+new [description:"Start deploying" due:"1760745599" end:"1761189766" entry:"1760659221" modified:"1761189766" priority:"H" project:"rxpx" status:"completed" uuid:"55766fd7-d15f-4ded-80ff-b159e64b22e5"]
+---
+time 1761189778
+old [description:"Test mistral again for part 2 of assigment" due:"1760659199" entry:"1760659124" modified:"1760659124" project:"6444" status:"pending" uuid:"5cbb26d7-9e27-4296-adc7-b4d671148f5f"]
+new [description:"Test mistral again for part 2 of assigment" due:"1760659199" end:"1761189778" entry:"1760659124" modified:"1761189778" project:"6444" status:"completed" uuid:"5cbb26d7-9e27-4296-adc7-b4d671148f5f"]
+---
+time 1761189790
+old [description:"Ask Maleknaz for namecheap account" due:"1760724000" entry:"1760659158" modified:"1760659158" project:"rxpx" status:"pending" uuid:"856a5955-8459-48e2-8ff6-92fb885eb5aa"]
+new [description:"Ask Maleknaz for namecheap account" due:"1760724000" end:"1761189790" entry:"1760659158" modified:"1761189790" project:"rxpx" status:"completed" uuid:"856a5955-8459-48e2-8ff6-92fb885eb5aa"]
+---
+time 1761189799
+old [description:"Ask Tan for the dataset of PAAB documents" due:"1760724000" entry:"1760659192" modified:"1760659192" project:"rxpx" status:"pending" uuid:"0945130a-90c8-4b21-be2b-4ea70e930f6b"]
+new [description:"Ask Tan for the dataset of PAAB documents" due:"1760724000" end:"1761189799" entry:"1760659192" modified:"1761189799" project:"rxpx" status:"completed" uuid:"0945130a-90c8-4b21-be2b-4ea70e930f6b"]
+---
+time 1761189811
+old [description:"Midterm" due:"1760990400" entry:"1759800701" modified:"1759800701" project:"5323" status:"pending" uuid:"cbb2ad71-0b61-4910-bed7-9aaac8641161"]
+new [description:"Midterm" due:"1760990400" end:"1761189811" entry:"1759800701" modified:"1761189811" project:"5323" status:"completed" uuid:"cbb2ad71-0b61-4910-bed7-9aaac8641161"]
+---
+time 1761189838
+new [description:"Rxpx video demo" due:"1761263999" entry:"1761189838" modified:"1761189838" project:"rxpx" status:"pending" uuid:"5cdaa2cc-70c4-4be1-8990-6daeb507ad59"]
+---
+time 1761189866
+new [description:"get overleaf account for Maleknaz" due:"1761263999" entry:"1761189866" modified:"1761189866" project:"5323" status:"pending" uuid:"72c38efd-b72d-4f8f-854b-7c4e6f3b204b"]
+---
+time 1761189901
+old [description:"Add micrograd to personal webiste" due:"1760932740" entry:"1760419973" modified:"1760659002" project:"personal" status:"pending" uuid:"94708e87-47bb-469b-a921-84d86da116bc"]
+new [description:"Add micrograd to personal webiste" due:"1761537540" entry:"1760419973" modified:"1761189901" project:"personal" status:"pending" uuid:"94708e87-47bb-469b-a921-84d86da116bc"]
+---
+time 1761189914
+old [description:"Add GPT2 to personal webiste" due:"1760932740" entry:"1760419981" modified:"1760659015" project:"personal" status:"pending" uuid:"ba2c3624-dbfa-4c12-828e-a18be01daa41"]
+new [description:"Add GPT2 to personal webiste" due:"1761537540" entry:"1760419981" modified:"1761189914" project:"personal" status:"pending" uuid:"ba2c3624-dbfa-4c12-828e-a18be01daa41"]
+---
+time 1761189926
+old [description:"Mark programming test 1" due:"1760724000" entry:"1760729395" modified:"1760729395" project:"ta" status:"pending" uuid:"b4ff3e8b-01bb-49e5-85f7-a087bce31318"]
+new [description:"Mark programming test 1" due:"1761263999" entry:"1760729395" modified:"1761189926" project:"ta" status:"pending" uuid:"b4ff3e8b-01bb-49e5-85f7-a087bce31318"]
+---
+time 1761189953
+old [description:"Assignment presentation" due:"1761019140" entry:"1760249517" modified:"1760249550" project:"6444" status:"pending" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+new [description:"Assignment presentation" due:"1761145200" entry:"1760249517" modified:"1761189953" project:"6444" status:"pending" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+---
+time 1761189974
+old [description:"Rank papers to present" due:"1761091199" entry:"1761066848" modified:"1761066848" project:"6444" status:"pending" uuid:"5835f29c-3324-482e-9bba-d2d9dfef4be3"]
+new [description:"Rank papers to present" due:"1761145200" entry:"1761066848" modified:"1761189974" project:"6444" status:"pending" uuid:"5835f29c-3324-482e-9bba-d2d9dfef4be3"]
+---
+time 1761189989
+old [description:"Rank papers to present" due:"1761145200" entry:"1761066848" modified:"1761189974" project:"6444" status:"pending" uuid:"5835f29c-3324-482e-9bba-d2d9dfef4be3"]
+new [description:"Rank papers to present" due:"1761231600" entry:"1761066848" modified:"1761189989" project:"6444" status:"pending" uuid:"5835f29c-3324-482e-9bba-d2d9dfef4be3"]
+---
+time 1761189999
+old [description:"Assignment presentation" due:"1761145200" entry:"1760249517" modified:"1761189953" project:"6444" status:"pending" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+new [description:"Assignment presentation" due:"1761231600" entry:"1760249517" modified:"1761189999" project:"6444" status:"pending" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+---
+time 1761239982
+old [description:"Assignment presentation" due:"1761231600" entry:"1760249517" modified:"1761189999" project:"6444" status:"pending" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+new [description:"Assignment presentation" due:"1761231600" end:"1761239982" entry:"1760249517" modified:"1761239982" project:"6444" status:"completed" uuid:"107eb9d0-2000-4b6e-ba98-902483d9baed"]
+---
+time 1761240011
+new [description:"Read paper for moderation" entry:"1761240011" modified:"1761240011" project:"6444" status:"pending" uuid:"da82d32f-5161-4040-847a-6c2bc39f843c"]
+---
+time 1761240017
+new [description:"Read paper for moderation" due:"1761623940" entry:"1761240017" modified:"1761240017" project:"6444" status:"pending" uuid:"7b286a95-a67b-4984-9b03-873dc44e77e4"]
+---
+time 1761240035
+new [description:"Read paper for presentation" due:"1761623940" entry:"1761240035" modified:"1761240035" project:"6444" status:"pending" uuid:"225ed61c-5e81-4da7-a315-a908801fce8b"]
+---
+time 1761240045
+old [description:"Read paper for moderation" entry:"1761240011" modified:"1761240011" project:"6444" status:"pending" uuid:"da82d32f-5161-4040-847a-6c2bc39f843c"]
+new [description:"Read paper for moderation" end:"1761240045" entry:"1761240011" modified:"1761240045" project:"6444" status:"completed" uuid:"da82d32f-5161-4040-847a-6c2bc39f843c"]
+---
+time 1761240164
+old [description:"Rxpx video demo" due:"1761263999" entry:"1761189838" modified:"1761189838" project:"rxpx" status:"pending" uuid:"5cdaa2cc-70c4-4be1-8990-6daeb507ad59"]
+new [description:"Rxpx video demo" due:"1761263999" end:"1761240164" entry:"1761189838" modified:"1761240164" project:"rxpx" status:"completed" uuid:"5cdaa2cc-70c4-4be1-8990-6daeb507ad59"]
+---
+time 1761343585
+new [description:"Set up AWS cost allocation tags" due:"1761350399" entry:"1761343585" modified:"1761343585" project:"rxpx" status:"pending" uuid:"8b12c133-5ec6-4053-8e6b-f706d5df91bd"]
+---
+time 1761343591
+new [description:"Set up AWS account for Tan" due:"1761350399" entry:"1761343591" modified:"1761343591" project:"rxpx" status:"pending" uuid:"1230469f-aafa-45bf-acb2-7a04d984f546"]
+---
+time 1761343600
+new [description:"Set up openai api key for rxpx" due:"1761350399" entry:"1761343600" modified:"1761343600" project:"rxpx" status:"pending" uuid:"ba1fbec9-4697-436d-87cd-a73697972550"]
+---
+time 1761343613
+new [description:"Message Maleknaz about reimbursement" due:"1761350399" entry:"1761343613" modified:"1761343613" project:"rxpx" status:"pending" uuid:"ecdc02a7-a260-4971-a70e-24a4fe79df99"]
+---
+time 1761423882
+old [description:"Loan repayment starts" due:"1761969600" entry:"1756671352" modified:"1756839968" project:"personal" status:"pending" uuid:"47833f29-8ab8-4db4-9f46-a70457907f50"]
+new [description:"Loan repayment starts" due:"1761969600" end:"1761423882" entry:"1756671352" modified:"1761423882" project:"personal" status:"completed" uuid:"47833f29-8ab8-4db4-9f46-a70457907f50"]
+---
+time 1761423904
+old [description:"Rank papers to present" due:"1761231600" entry:"1761066848" modified:"1761189989" project:"6444" status:"pending" uuid:"5835f29c-3324-482e-9bba-d2d9dfef4be3"]
+new [description:"Rank papers to present" due:"1761231600" end:"1761423904" entry:"1761066848" modified:"1761423904" project:"6444" status:"completed" uuid:"5835f29c-3324-482e-9bba-d2d9dfef4be3"]
+---
+time 1761423915
+old [description:"get overleaf account for Maleknaz" due:"1761263999" entry:"1761189866" modified:"1761189866" project:"5323" status:"pending" uuid:"72c38efd-b72d-4f8f-854b-7c4e6f3b204b"]
+new [description:"get overleaf account for Maleknaz" due:"1761263999" end:"1761423915" entry:"1761189866" modified:"1761423915" project:"5323" status:"completed" uuid:"72c38efd-b72d-4f8f-854b-7c4e6f3b204b"]
+---
+time 1761423926
+old [description:"Assignment report" due:"1761325140" entry:"1760249533" modified:"1760659037" project:"6444" status:"pending" uuid:"b35f41ad-379d-4e4f-a53b-4bd4c20e53a7"]
+new [description:"Assignment report" due:"1761325140" end:"1761423926" entry:"1760249533" modified:"1761423926" project:"6444" status:"completed" uuid:"b35f41ad-379d-4e4f-a53b-4bd4c20e53a7"]
+---
+time 1761423943
+old [description:"Mark programming test 1" due:"1761263999" entry:"1760729395" modified:"1761189926" project:"ta" status:"pending" uuid:"b4ff3e8b-01bb-49e5-85f7-a087bce31318"]
+new [description:"Mark programming test 1" due:"1761263999" end:"1761423943" entry:"1760729395" modified:"1761423943" project:"ta" status:"completed" uuid:"b4ff3e8b-01bb-49e5-85f7-a087bce31318"]
+---
+time 1761428190
+old [description:"Set up AWS cost allocation tags" due:"1761350399" entry:"1761343585" modified:"1761343585" project:"rxpx" status:"pending" uuid:"8b12c133-5ec6-4053-8e6b-f706d5df91bd"]
+new [description:"Set up AWS cost allocation tags" due:"1761350399" end:"1761428190" entry:"1761343585" modified:"1761428190" project:"rxpx" status:"completed" uuid:"8b12c133-5ec6-4053-8e6b-f706d5df91bd"]
+---
+time 1761428198
+old [description:"Set up AWS account for Tan" due:"1761350399" entry:"1761343591" modified:"1761343591" project:"rxpx" status:"pending" uuid:"1230469f-aafa-45bf-acb2-7a04d984f546"]
+new [description:"Set up AWS account for Tan" due:"1761350399" end:"1761428198" entry:"1761343591" modified:"1761428198" project:"rxpx" status:"completed" uuid:"1230469f-aafa-45bf-acb2-7a04d984f546"]
+---
+time 1761428208
+old [description:"Set up openai api key for rxpx" due:"1761350399" entry:"1761343600" modified:"1761343600" project:"rxpx" status:"pending" uuid:"ba1fbec9-4697-436d-87cd-a73697972550"]
+new [description:"Set up openai api key for rxpx" due:"1761350399" end:"1761428208" entry:"1761343600" modified:"1761428208" project:"rxpx" status:"completed" uuid:"ba1fbec9-4697-436d-87cd-a73697972550"]
+---
+time 1761437505
+old [description:"Add micrograd to personal webiste" due:"1761537540" entry:"1760419973" modified:"1761189901" project:"personal" status:"pending" uuid:"94708e87-47bb-469b-a921-84d86da116bc"]
+new [description:"Add micrograd to personal webiste" due:"1761537540" end:"1761437505" entry:"1760419973" modified:"1761437505" project:"personal" status:"completed" uuid:"94708e87-47bb-469b-a921-84d86da116bc"]
+---
+time 1761541963
+old [description:"Add GPT2 to personal webiste" due:"1761537540" entry:"1760419981" modified:"1761189914" project:"personal" status:"pending" uuid:"ba2c3624-dbfa-4c12-828e-a18be01daa41"]
+new [description:"Add GPT2 to personal webiste" due:"1761537540" end:"1761541963" entry:"1760419981" modified:"1761541963" project:"personal" status:"completed" uuid:"ba2c3624-dbfa-4c12-828e-a18be01daa41"]
+---
+time 1761609851
+old [description:"TD bank renew student acount" due:"1761012000" entry:"1759612011" modified:"1760659252" project:"personal" status:"pending" uuid:"8b750d81-6aae-4a06-8915-792f9ff80439"]
+new [description:"TD bank renew student acount" due:"1761012000" end:"1761609851" entry:"1759612011" modified:"1761609851" project:"personal" status:"completed" uuid:"8b750d81-6aae-4a06-8915-792f9ff80439"]
+---
+time 1761623211
+old [description:"Read paper for moderation" due:"1761623940" entry:"1761240017" modified:"1761240017" project:"6444" status:"pending" uuid:"7b286a95-a67b-4984-9b03-873dc44e77e4"]
+new [description:"Read paper for moderation" due:"1761623940" end:"1761623211" entry:"1761240017" modified:"1761623211" project:"6444" status:"completed" uuid:"7b286a95-a67b-4984-9b03-873dc44e77e4"]
+---
+time 1761623229
+old [description:"Read paper for presentation" due:"1761623940" entry:"1761240035" modified:"1761240035" project:"6444" status:"pending" uuid:"225ed61c-5e81-4da7-a315-a908801fce8b"]
+new [description:"Read GPU kernel paper" due:"1761623940" entry:"1761240035" modified:"1761623229" project:"6444" status:"pending" uuid:"225ed61c-5e81-4da7-a315-a908801fce8b"]
+---
+time 1761623278
+new [description:"Review paper from week 1 of conference" due:"1761883140" entry:"1761623278" modified:"1761623278" project:"6444" status:"pending" uuid:"735e78fb-2d1b-42ed-90c4-2ec89dc95028"]
+---
+time 1761623299
+new [description:"Quiz 10" due:"1761710340" entry:"1761623299" modified:"1761623299" project:"5323" status:"pending" uuid:"8420934f-211a-46f6-9d4b-d58eb04b538f"]
+---
+time 1761623465
+old [description:"Quiz 10" due:"1761710340" entry:"1761623299" modified:"1761623299" project:"5323" status:"pending" uuid:"8420934f-211a-46f6-9d4b-d58eb04b538f"]
+new [description:"Quiz 10" due:"1761710340" end:"1761623465" entry:"1761623299" modified:"1761623465" project:"5323" status:"completed" uuid:"8420934f-211a-46f6-9d4b-d58eb04b538f"]
+---
+time 1761773711
+old [description:"Message Maleknaz about reimbursement" due:"1761350399" entry:"1761343613" modified:"1761343613" project:"rxpx" status:"pending" uuid:"ecdc02a7-a260-4971-a70e-24a4fe79df99"]
+new [description:"Message Maleknaz about reimbursement" due:"1762055940" entry:"1761343613" modified:"1761773711" project:"rxpx" status:"pending" uuid:"ecdc02a7-a260-4971-a70e-24a4fe79df99"]
+---
+time 1761773783
+old [description:"Read GPU kernel paper" due:"1761623940" entry:"1761240035" modified:"1761623229" project:"6444" status:"pending" uuid:"225ed61c-5e81-4da7-a315-a908801fce8b"]
+new [description:"Read GPU kernel paper" due:"1762145940" entry:"1761240035" modified:"1761773783" project:"6444" status:"pending" uuid:"225ed61c-5e81-4da7-a315-a908801fce8b"]
+---
+time 1761773940
+old [description:"Assignment 2" due:"1761710340" entry:"1760249586" modified:"1760249586" project:"5323" status:"pending" uuid:"c9219364-b702-4cf0-99ac-0b65a390ed77"]
+new [description:"Assignment 2" due:"1761969540" entry:"1760249586" modified:"1761773940" project:"5323" status:"pending" uuid:"c9219364-b702-4cf0-99ac-0b65a390ed77"]
+---
+time 1761774085
+new [description:"Quiz 12" due:"1761969540" entry:"1761774085" modified:"1761774085" project:"5323" status:"pending" uuid:"600a3117-63f6-4f84-9bb1-f1372af5075a"]
+---
+time 1761774303
+new [description:"Read GenAI for RE paper" due:"1761796740" entry:"1761774303" modified:"1761774303" project:"6444" status:"pending" uuid:"f8894f7a-ee2b-4801-a08d-917e10f2d00b"]
+---
+time 1761774325
+new [description:"Read survey on LLM CodeGen paper" due:"1761796740" entry:"1761774325" modified:"1761774325" project:"6444" status:"pending" uuid:"f06c5e0d-8a73-4f62-85d9-e5ab5d37c7a1"]
+---
+time 1761774403
+new [description:"Read survey LLM program repair paper" due:"1761796740" entry:"1761774403" modified:"1761774403" project:"6444" status:"pending" uuid:"24a31c81-94a9-4797-9565-95a5dba93412"]
+---
+time 1761774449
+new [description:"Test ML models for SWE-bench predictions" due:"1762145940" entry:"1761774449" modified:"1761774449" project:"6444" status:"pending" uuid:"e92f0c39-5ab6-4597-9e7d-8004e159b472"]
+---
+time 1761843934
+new [description:"Upload GPU paper to EasyChair" due:"1762232340" entry:"1761843934" modified:"1761843934" project:"5323" status:"pending" uuid:"99ea955c-adf1-4e94-8b26-0b7324a58be3"]
+---
+time 1761843946
+old [description:"Upload GPU paper to EasyChair" due:"1762232340" entry:"1761843934" modified:"1761843934" project:"5323" status:"pending" uuid:"99ea955c-adf1-4e94-8b26-0b7324a58be3"]
+new [description:"Upload GPU paper to EasyChair" due:"1762232340" entry:"1761843934" modified:"1761843946" project:"6444" status:"pending" uuid:"99ea955c-adf1-4e94-8b26-0b7324a58be3"]
+---
+time 1761848297
+old [description:"Reread the rights and obligations paper" due:"1760720400" entry:"1760659351" modified:"1760659351" project:"rxpx" status:"pending" uuid:"953048ba-7ec6-49d8-a0c0-1ef61249437d"]
+new [description:"Reread the rights and obligations paper" due:"1760720400" end:"1761848297" entry:"1760659351" modified:"1761848297" project:"rxpx" status:"completed" uuid:"953048ba-7ec6-49d8-a0c0-1ef61249437d"]
+---
+time 1761848322
+old [description:"Message Maleknaz about reimbursement" due:"1762055940" entry:"1761343613" modified:"1761773711" project:"rxpx" status:"pending" uuid:"ecdc02a7-a260-4971-a70e-24a4fe79df99"]
+new [description:"Message Maleknaz about reimbursement" due:"1762055940" end:"1761848322" entry:"1761343613" modified:"1761848322" project:"rxpx" status:"completed" uuid:"ecdc02a7-a260-4971-a70e-24a4fe79df99"]
+---
+time 1761852538
+new [description:"Overleaf draft of compliance paper" due:"1762145940" entry:"1761852538" modified:"1761852538" project:"rxpx" status:"pending" uuid:"8a0e6768-1b31-44f6-8ff1-49dcfc1c56cd"]
+---
+time 1761852607
+new [description:"Review for tutor session" due:"1761868799" entry:"1761852607" modified:"1761852607" project:"tutor" status:"pending" uuid:"81929d3f-40a2-425f-9abf-4f3a2f3095b8"]
+---
+time 1761881865
+old [description:"Read GenAI for RE paper" due:"1761796740" entry:"1761774303" modified:"1761774303" project:"6444" status:"pending" uuid:"f8894f7a-ee2b-4801-a08d-917e10f2d00b"]
+new [description:"Read GenAI for RE paper" due:"1761796740" end:"1761881865" entry:"1761774303" modified:"1761881865" project:"6444" status:"completed" uuid:"f8894f7a-ee2b-4801-a08d-917e10f2d00b"]
+---
+time 1762156213
+old [description:"Review for tutor session" due:"1761868799" entry:"1761852607" modified:"1761852607" project:"tutor" status:"pending" uuid:"81929d3f-40a2-425f-9abf-4f3a2f3095b8"]
+new [description:"Review for tutor session" due:"1761868799" end:"1762156213" entry:"1761852607" modified:"1762156213" project:"tutor" status:"completed" uuid:"81929d3f-40a2-425f-9abf-4f3a2f3095b8"]
+---
+time 1762156221
+old [description:"Assignment 2" due:"1761969540" entry:"1760249586" modified:"1761773940" project:"5323" status:"pending" uuid:"c9219364-b702-4cf0-99ac-0b65a390ed77"]
+new [description:"Assignment 2" due:"1761969540" end:"1762156221" entry:"1760249586" modified:"1762156221" project:"5323" status:"completed" uuid:"c9219364-b702-4cf0-99ac-0b65a390ed77"]
+---
+time 1762201921
+old [description:"Upload GPU paper to EasyChair" due:"1762232340" entry:"1761843934" modified:"1761843946" project:"6444" status:"pending" uuid:"99ea955c-adf1-4e94-8b26-0b7324a58be3"]
+new [description:"Upload GPU paper to EasyChair" due:"1762232340" end:"1762201921" entry:"1761843934" modified:"1762201921" project:"6444" status:"completed" uuid:"99ea955c-adf1-4e94-8b26-0b7324a58be3"]
+---
+time 1762202575
+old [description:"Quiz 12" due:"1761969540" entry:"1761774085" modified:"1761774085" project:"5323" status:"pending" uuid:"600a3117-63f6-4f84-9bb1-f1372af5075a"]
+new [description:"Quiz 12" due:"1761969540" end:"1762202575" entry:"1761774085" modified:"1762202575" project:"5323" status:"completed" uuid:"600a3117-63f6-4f84-9bb1-f1372af5075a"]
+---
+time 1762202605
+old [description:"Review paper from week 1 of conference" due:"1761883140" entry:"1761623278" modified:"1761623278" project:"6444" status:"pending" uuid:"735e78fb-2d1b-42ed-90c4-2ec89dc95028"]
+new [description:"Review paper from week 1 of conference" due:"1761883140" end:"1762202605" entry:"1761623278" modified:"1762202605" project:"6444" status:"completed" uuid:"735e78fb-2d1b-42ed-90c4-2ec89dc95028"]
+---
+time 1762276013
+new [description:"Quiz 13" due:"1762300799" entry:"1762276013" modified:"1762276013" project:"5323" status:"pending" uuid:"ded9cc18-610b-4bc9-8c20-a3301016f367"]
+---
+time 1762276033
+old [description:"Read survey on LLM CodeGen paper" due:"1761796740" entry:"1761774325" modified:"1761774325" project:"6444" status:"pending" uuid:"f06c5e0d-8a73-4f62-85d9-e5ab5d37c7a1"]
+new [description:"Read survey on LLM CodeGen paper" due:"1761796740" end:"1762276033" entry:"1761774325" modified:"1762276033" project:"6444" status:"completed" uuid:"f06c5e0d-8a73-4f62-85d9-e5ab5d37c7a1"]
+---
+time 1762276099
+new [description:"Read codevisionary paper" due:"1762405140" entry:"1762276099" modified:"1762276099" project:"6444" status:"pending" uuid:"77f81181-847b-4f4c-8de1-964fe50cef3b"]
+---
+time 1762276128
+new [description:"Read repo2run paper" due:"1762491540" entry:"1762276128" modified:"1762276128" project:"6444" status:"pending" uuid:"e23c5983-03dd-4e34-8588-5d353a621227"]
+---
+time 1762276145
+new [description:"Read dycodeeval paper" due:"1762577940" entry:"1762276145" modified:"1762276145" project:"6444" status:"pending" uuid:"2c4c4f7f-52cc-4c38-ba7b-f5660b2d6961"]
+---
+time 1762276158
+old [description:"Read survey LLM program repair paper" due:"1761796740" entry:"1761774403" modified:"1761774403" project:"6444" status:"pending" uuid:"24a31c81-94a9-4797-9565-95a5dba93412"]
+new [description:"Read survey LLM program repair paper" due:"1762300799" entry:"1761774403" modified:"1762276158" project:"6444" status:"pending" uuid:"24a31c81-94a9-4797-9565-95a5dba93412"]
+---
+time 1762276184
+new [description:"Start on final project" due:"1762300799" entry:"1762276184" modified:"1762276184" project:"5323" status:"pending" uuid:"38b98828-9100-4af5-b9d7-23cb7de646c8"]
+---
+time 1762281354
+old [description:"Overleaf draft of compliance paper" due:"1762145940" entry:"1761852538" modified:"1761852538" project:"rxpx" status:"pending" uuid:"8a0e6768-1b31-44f6-8ff1-49dcfc1c56cd"]
+new [description:"Ask Maleknaz where the content and reviews are, currently I just see a bunch of files with content for health" due:"1762145940" entry:"1761852538" modified:"1762281354" project:"rxpx" status:"pending" uuid:"8a0e6768-1b31-44f6-8ff1-49dcfc1c56cd"]
+---
+time 1762327379
+old [description:"Quiz 13" due:"1762300799" entry:"1762276013" modified:"1762276013" project:"5323" status:"pending" uuid:"ded9cc18-610b-4bc9-8c20-a3301016f367"]
+new [description:"Quiz 13" due:"1762300799" end:"1762327379" entry:"1762276013" modified:"1762327379" project:"5323" status:"completed" uuid:"ded9cc18-610b-4bc9-8c20-a3301016f367"]
+---
+time 1762412319
+new [description:"Respond to MotoAI" due:"1762473599" entry:"1762412319" modified:"1762412319" project:"personal" status:"pending" uuid:"5f9b4c0d-0d36-458e-8d9c-504687f2397c"]
+---
+time 1762460603
+new [description:"Quiz 14" due:"1762473599" entry:"1762460603" modified:"1762460603" project:"5323" status:"pending" uuid:"34125b56-eb8a-47b8-8a87-531ed7a7b24f"]
+---
+time 1762460617
+new [description:"Assignment 3" due:"1762473599" entry:"1762460617" modified:"1762460617" project:"5323" status:"pending" uuid:"9d9d2701-898c-47ba-bd73-4b61dd35bfb1"]
+---
+time 1762493319
+old [description:"Quiz 14" due:"1762473599" entry:"1762460603" modified:"1762460603" project:"5323" status:"pending" uuid:"34125b56-eb8a-47b8-8a87-531ed7a7b24f"]
+new [description:"Quiz 14" due:"1762473599" end:"1762493319" entry:"1762460603" modified:"1762493319" project:"5323" status:"completed" uuid:"34125b56-eb8a-47b8-8a87-531ed7a7b24f"]
+---
+time 1762493332
+old [description:"Read GPU kernel paper" due:"1762145940" entry:"1761240035" modified:"1761773783" project:"6444" status:"pending" uuid:"225ed61c-5e81-4da7-a315-a908801fce8b"]
+new [description:"Read GPU kernel paper" due:"1762145940" end:"1762493332" entry:"1761240035" modified:"1762493332" project:"6444" status:"completed" uuid:"225ed61c-5e81-4da7-a315-a908801fce8b"]
+---
+time 1762493340
+old [description:"Ask Maleknaz where the content and reviews are, currently I just see a bunch of files with content for health" due:"1762145940" entry:"1761852538" modified:"1762281354" project:"rxpx" status:"pending" uuid:"8a0e6768-1b31-44f6-8ff1-49dcfc1c56cd"]
+new [description:"Ask Maleknaz where the content and reviews are, currently I just see a bunch of files with content for health" due:"1762145940" end:"1762493340" entry:"1761852538" modified:"1762493340" project:"rxpx" status:"completed" uuid:"8a0e6768-1b31-44f6-8ff1-49dcfc1c56cd"]
+---
+time 1762493393
+new [description:"Presentation for GPU paper websubmit" due:"1762837140" entry:"1762493393" modified:"1762493393" project:"6444" status:"pending" uuid:"7f5bb0d2-7878-4ec4-84c4-02fa30132d1d"]
+---
+time 1762493433
+new [description:"Start filling out results table" due:"1762577940" entry:"1762493433" modified:"1762493433" project:"rxpx" status:"pending" uuid:"8bfff01b-6c02-43be-9bf3-68e6d4c9b136"]
+---
+time 1762740473
+old [description:"Read survey LLM program repair paper" due:"1762300799" entry:"1761774403" modified:"1762276158" project:"6444" status:"pending" uuid:"24a31c81-94a9-4797-9565-95a5dba93412"]
+new [description:"Read survey LLM program repair paper" due:"1762300799" end:"1762740473" entry:"1761774403" modified:"1762740473" project:"6444" status:"completed" uuid:"24a31c81-94a9-4797-9565-95a5dba93412"]
+---
+time 1762740540
+old [description:"Read repo2run paper" due:"1762491540" entry:"1762276128" modified:"1762276128" project:"6444" status:"pending" uuid:"e23c5983-03dd-4e34-8588-5d353a621227"]
+new [description:"Read repo2run paper" due:"1762491540" end:"1762740540" entry:"1762276128" modified:"1762740540" project:"6444" status:"completed" uuid:"e23c5983-03dd-4e34-8588-5d353a621227"]
+---
+time 1762740548
+old [description:"Read dycodeeval paper" due:"1762577940" entry:"1762276145" modified:"1762276145" project:"6444" status:"pending" uuid:"2c4c4f7f-52cc-4c38-ba7b-f5660b2d6961"]
+new [description:"Read dycodeeval paper" due:"1762577940" end:"1762740548" entry:"1762276145" modified:"1762740548" project:"6444" status:"completed" uuid:"2c4c4f7f-52cc-4c38-ba7b-f5660b2d6961"]
+---
+time 1762740557
+old [description:"Read codevisionary paper" due:"1762405140" entry:"1762276099" modified:"1762276099" project:"6444" status:"pending" uuid:"77f81181-847b-4f4c-8de1-964fe50cef3b"]
+new [description:"Read codevisionary paper" due:"1762405140" end:"1762740557" entry:"1762276099" modified:"1762740557" project:"6444" status:"completed" uuid:"77f81181-847b-4f4c-8de1-964fe50cef3b"]
+---
+time 1762740596
+new [description:"Read other papers for this week - SWEEffi, EffiBench, and RAS" due:"1762837140" entry:"1762740596" modified:"1762740596" project:"644" status:"pending" uuid:"8e87c3b3-1dae-4659-8bb5-7674ab36a300"]
+---
+time 1762740615
+old [description:"Read other papers for this week - SWEEffi, EffiBench, and RAS" due:"1762837140" entry:"1762740596" modified:"1762740596" project:"644" status:"pending" uuid:"8e87c3b3-1dae-4659-8bb5-7674ab36a300"]
+new [description:"Read other papers for this week - SWEEffi, EffiBench, and RAS" due:"1762837140" entry:"1762740596" modified:"1762740615" project:"6444" status:"pending" uuid:"8e87c3b3-1dae-4659-8bb5-7674ab36a300"]
+---
+time 1762740670
+old [description:"Assignment 3" due:"1762473599" entry:"1762460617" modified:"1762460617" project:"5323" status:"pending" uuid:"9d9d2701-898c-47ba-bd73-4b61dd35bfb1"]
+new [description:"Assignment 3" due:"1764133140" entry:"1762460617" modified:"1762740670" project:"5323" status:"pending" uuid:"9d9d2701-898c-47ba-bd73-4b61dd35bfb1"]
+---
+time 1762740678
+old [description:"Test ML models for SWE-bench predictions" due:"1762145940" entry:"1761774449" modified:"1761774449" project:"6444" status:"pending" uuid:"e92f0c39-5ab6-4597-9e7d-8004e159b472"]
+new [description:"Test ML models for SWE-bench predictions" due:"1762145940" end:"1762740678" entry:"1761774449" modified:"1762740678" project:"6444" status:"completed" uuid:"e92f0c39-5ab6-4597-9e7d-8004e159b472"]
+---
+time 1762740700
+new [description:"Figure out what to do for final project" entry:"1762740700" modified:"1762740700" project:"6444" status:"pending" uuid:"e5bb3912-957b-4251-b10b-c5a126bc7dc4"]
+---
+time 1762740730
+old [description:"Figure out what to do for final project" entry:"1762740700" modified:"1762740700" project:"6444" status:"pending" uuid:"e5bb3912-957b-4251-b10b-c5a126bc7dc4"]
+new [description:"Figure out what to do for final project" due:"1762837140" entry:"1762740700" modified:"1762740730" project:"6444" status:"pending" uuid:"e5bb3912-957b-4251-b10b-c5a126bc7dc4"]
+---
+time 1762741197
+new [description:"Submit project proposal" due:"1764046740" entry:"1762741197" modified:"1762741197" project:"6444" status:"pending" uuid:"42c071de-84aa-4168-acdb-0d36d7ada216"]
+---
+time 1762741216
+new [description:"Make sure you know what youre doing for project proposal" due:"1763441940" entry:"1762741216" modified:"1762741216" project:"6444" status:"pending" uuid:"326ad43a-abed-48a1-906c-f46da8b57c9d"]
+---
+time 1762846732
+old [description:"Presentation for GPU paper websubmit" due:"1762837140" entry:"1762493393" modified:"1762493393" project:"6444" status:"pending" uuid:"7f5bb0d2-7878-4ec4-84c4-02fa30132d1d"]
+new [description:"Presentation for GPU paper websubmit" due:"1762837140" end:"1762846732" entry:"1762493393" modified:"1762846732" project:"6444" status:"completed" uuid:"7f5bb0d2-7878-4ec4-84c4-02fa30132d1d"]
+---
+time 1763052916
+new [description:"Review paper for this week" due:"1763078399" entry:"1763052916" modified:"1763052916" project:"6444" status:"pending" uuid:"aa71ed21-c043-4c98-b3d9-44f409cab6ac"]
+---
+time 1763055658
+old [description:"Respond to MotoAI" due:"1762473599" entry:"1762412319" modified:"1762412319" project:"personal" status:"pending" uuid:"5f9b4c0d-0d36-458e-8d9c-504687f2397c"]
+new [description:"Respond to MotoAI" due:"1762473599" end:"1763055658" entry:"1762412319" modified:"1763055658" project:"personal" status:"completed" uuid:"5f9b4c0d-0d36-458e-8d9c-504687f2397c"]
+---
+time 1763055677
+old [description:"Read other papers for this week - SWEEffi, EffiBench, and RAS" due:"1762837140" entry:"1762740596" modified:"1762740615" project:"6444" status:"pending" uuid:"8e87c3b3-1dae-4659-8bb5-7674ab36a300"]
+new [description:"Read other papers for this week - SWEEffi, EffiBench, and RAS" due:"1762837140" end:"1763055677" entry:"1762740596" modified:"1763055677" project:"6444" status:"completed" uuid:"8e87c3b3-1dae-4659-8bb5-7674ab36a300"]
+---
+time 1763055694
+old [description:"Figure out what to do for final project" due:"1762837140" entry:"1762740700" modified:"1762740730" project:"6444" status:"pending" uuid:"e5bb3912-957b-4251-b10b-c5a126bc7dc4"]
+new [description:"Figure out what to do for final project" due:"1762837140" end:"1763055694" entry:"1762740700" modified:"1763055694" project:"6444" status:"completed" uuid:"e5bb3912-957b-4251-b10b-c5a126bc7dc4"]
+---
+time 1763055718
+old [description:"Review paper for this week" due:"1763078399" entry:"1763052916" modified:"1763052916" project:"6444" status:"pending" uuid:"aa71ed21-c043-4c98-b3d9-44f409cab6ac"]
+new [description:"Review paper for this week" due:"1763441940" entry:"1763052916" modified:"1763055718" project:"6444" status:"pending" uuid:"aa71ed21-c043-4c98-b3d9-44f409cab6ac"]
+---
+time 1763065175
+new [description:"Reread Trams slides 4088_all because there is good info near the end" due:"1763078399" entry:"1763065175" modified:"1763065175" project:"rxpx" status:"pending" uuid:"74cfc750-34f7-420b-8356-f9abcde91328"]
+---
+time 1763066275
+new [description:"Organize RxPx documents into dataset" due:"1763355540" entry:"1763066275" modified:"1763066275" project:"rxpx" status:"pending" uuid:"7de26ea2-28fe-4a15-879c-3da65dde2ff4"]
+---
+time 1763066952
+old [description:"Start filling out results table" due:"1762577940" entry:"1762493433" modified:"1762493433" project:"rxpx" status:"pending" uuid:"8bfff01b-6c02-43be-9bf3-68e6d4c9b136"]
+new [description:"Start filling out results table" due:"1762577940" end:"1763066952" entry:"1762493433" modified:"1763066952" project:"rxpx" status:"completed" uuid:"8bfff01b-6c02-43be-9bf3-68e6d4c9b136"]
+---
+time 1763484775
+old [description:"Start on final project" due:"1762300799" entry:"1762276184" modified:"1762276184" project:"5323" status:"pending" uuid:"38b98828-9100-4af5-b9d7-23cb7de646c8"]
+new [description:"Start on final project" due:"1762300799" end:"1763484775" entry:"1762276184" modified:"1763484775" project:"5323" status:"completed" uuid:"38b98828-9100-4af5-b9d7-23cb7de646c8"]
+---
+time 1763484787
+old [description:"Make sure you know what youre doing for project proposal" due:"1763441940" entry:"1762741216" modified:"1762741216" project:"6444" status:"pending" uuid:"326ad43a-abed-48a1-906c-f46da8b57c9d"]
+new [description:"Make sure you know what youre doing for project proposal" due:"1763441940" end:"1763484787" entry:"1762741216" modified:"1763484787" project:"6444" status:"completed" uuid:"326ad43a-abed-48a1-906c-f46da8b57c9d"]
+---
+time 1763484805
+new [description:"More work on neural ISP" due:"1763510399" entry:"1763484805" modified:"1763484805" project:"5323" status:"pending" uuid:"82ec2fa2-2eaa-4e95-af17-7768a7adf6d6"]
+---
+time 1763486571
+old [description:"Review paper for this week" due:"1763441940" entry:"1763052916" modified:"1763055718" project:"6444" status:"pending" uuid:"aa71ed21-c043-4c98-b3d9-44f409cab6ac"]
+new [description:"Review paper for this week" due:"1763441940" end:"1763486571" entry:"1763052916" modified:"1763486571" project:"6444" status:"completed" uuid:"aa71ed21-c043-4c98-b3d9-44f409cab6ac"]
+---
+time 1763612515
+new [description:"Review conference paper for this week" due:"1763683199" entry:"1763612515" modified:"1763612515" project:"6444" status:"pending" uuid:"3a65b051-964b-401f-a36d-4980ca9a1b7c"]
+---
+time 1763767165
+old [description:"Reread Trams slides 4088_all because there is good info near the end" due:"1763078399" entry:"1763065175" modified:"1763065175" project:"rxpx" status:"pending" uuid:"74cfc750-34f7-420b-8356-f9abcde91328"]
+new [description:"Reread Trams slides 4088_all because there is good info near the end" due:"1763078399" end:"1763767165" entry:"1763065175" modified:"1763767165" project:"rxpx" status:"completed" uuid:"74cfc750-34f7-420b-8356-f9abcde91328"]
+---
+time 1763767174
+old [description:"Submit project proposal" due:"1764046740" entry:"1762741197" modified:"1762741197" project:"6444" status:"pending" uuid:"42c071de-84aa-4168-acdb-0d36d7ada216"]
+new [description:"Submit project proposal" due:"1764046740" end:"1763767174" entry:"1762741197" modified:"1763767174" project:"6444" status:"completed" uuid:"42c071de-84aa-4168-acdb-0d36d7ada216"]
+---
+time 1763767212
+new [description:"Start on multimodal llm project" due:"1763769599" entry:"1763767212" modified:"1763767212" project:"6444" status:"pending" uuid:"16a601b4-84a0-4659-bc55-7517c0298e02"]
+---
+time 1763858938
+new [description:"Computer vision project presentation" due:"1764651540" entry:"1763858938" modified:"1763858938" project:"5323" status:"pending" uuid:"46534dd5-67cd-4d3c-896c-389a702153be"]
+---
+time 1764028268
+old [description:"Review conference paper for this week" due:"1763683199" entry:"1763612515" modified:"1763612515" project:"6444" status:"pending" uuid:"3a65b051-964b-401f-a36d-4980ca9a1b7c"]
+new [description:"Review conference paper for this week" due:"1763683199" end:"1764028268" entry:"1763612515" modified:"1764028268" project:"6444" status:"completed" uuid:"3a65b051-964b-401f-a36d-4980ca9a1b7c"]
+---
+time 1764305119
+old [description:"Assignment 3" due:"1764133140" entry:"1762460617" modified:"1762740670" project:"5323" status:"pending" uuid:"9d9d2701-898c-47ba-bd73-4b61dd35bfb1"]
+new [description:"Assignment 3" due:"1764133140" end:"1764305119" entry:"1762460617" modified:"1764305119" project:"5323" status:"completed" uuid:"9d9d2701-898c-47ba-bd73-4b61dd35bfb1"]
+---
+time 1765517487
+old [description:"More work on neural ISP" due:"1763510399" entry:"1763484805" modified:"1763484805" project:"5323" status:"pending" uuid:"82ec2fa2-2eaa-4e95-af17-7768a7adf6d6"]
+new [description:"More work on neural ISP" due:"1763510399" end:"1765517487" entry:"1763484805" modified:"1765517487" project:"5323" status:"completed" uuid:"82ec2fa2-2eaa-4e95-af17-7768a7adf6d6"]
+---
+time 1765517491
+old [description:"Start on multimodal llm project" due:"1763769599" entry:"1763767212" modified:"1763767212" project:"6444" status:"pending" uuid:"16a601b4-84a0-4659-bc55-7517c0298e02"]
+new [description:"Start on multimodal llm project" due:"1763769599" end:"1765517491" entry:"1763767212" modified:"1765517491" project:"6444" status:"completed" uuid:"16a601b4-84a0-4659-bc55-7517c0298e02"]
+---
+time 1765517502
+old [description:"Computer vision project presentation" due:"1764651540" entry:"1763858938" modified:"1763858938" project:"5323" status:"pending" uuid:"46534dd5-67cd-4d3c-896c-389a702153be"]
+new [description:"Computer vision project presentation" due:"1764651540" end:"1765517502" entry:"1763858938" modified:"1765517502" project:"5323" status:"completed" uuid:"46534dd5-67cd-4d3c-896c-389a702153be"]
+---
+time 1765517531
+new [description:"Computer vision project report due" due:"1765583999" entry:"1765517531" modified:"1765517531" project:"5323" status:"pending" uuid:"f579bf69-c4fb-4679-909a-fb634cbeeedb"]
+---
+time 1765517564
+new [description:"Jack course report due" due:"1766293140" entry:"1765517564" modified:"1765517564" project:"6444" status:"pending" uuid:"5565d8b3-1846-467c-896e-78bef1da1ee4"]
+---
+time 1767768001
+old [description:"Computer vision project report due" due:"1765583999" entry:"1765517531" modified:"1765517531" project:"5323" status:"pending" uuid:"f579bf69-c4fb-4679-909a-fb634cbeeedb"]
+new [description:"Computer vision project report due" due:"1765583999" end:"1767768001" entry:"1765517531" modified:"1767768001" project:"5323" status:"completed" uuid:"f579bf69-c4fb-4679-909a-fb634cbeeedb"]
+---
+time 1767768005
+old [description:"Jack course report due" due:"1766293140" entry:"1765517564" modified:"1765517564" project:"6444" status:"pending" uuid:"5565d8b3-1846-467c-896e-78bef1da1ee4"]
+new [description:"Jack course report due" due:"1766293140" end:"1767768005" entry:"1765517564" modified:"1767768005" project:"6444" status:"completed" uuid:"5565d8b3-1846-467c-896e-78bef1da1ee4"]
+---
+time 1767768011
+old [description:"Organize RxPx documents into dataset" due:"1763355540" entry:"1763066275" modified:"1763066275" project:"rxpx" status:"pending" uuid:"7de26ea2-28fe-4a15-879c-3da65dde2ff4"]
+new [description:"Organize RxPx documents into dataset" due:"1763355540" end:"1767768011" entry:"1763066275" modified:"1767768011" project:"rxpx" status:"completed" uuid:"7de26ea2-28fe-4a15-879c-3da65dde2ff4"]
+---
+time 1767768069
+new [description:"Call for papers for PROMISE 2026" due:"1767934800" entry:"1767768069" modified:"1767768069" project:"papers" status:"pending" uuid:"856c940b-5965-4ba9-8d83-15b90afe614e"]
+---
+time 1767768086
+new [description:"Call for papers for EASE 2026" due:"1768539600" entry:"1767768086" modified:"1767768086" project:"papers" status:"pending" uuid:"077f4bce-31f4-4c14-a8a3-f4ff7c48a78c"]
+---
+time 1767768106
+new [description:"Call for papers for ACM AIWare 2026" due:"1769922000" entry:"1767768106" modified:"1767768106" project:"papers" status:"pending" uuid:"cdc7eaea-f502-423f-95d7-8d613478ba18"]
+---
+time 1767768126
+new [description:"Connected minds scholarship application" due:"1769922000" entry:"1767768126" modified:"1767768126" project:"scholarships" status:"pending" uuid:"f052f726-35f3-4773-9ff3-4b4641468666"]
+---
+time 1767768155
+new [description:"Read multiagent rag paper" due:"1768107600" entry:"1767768155" modified:"1767768155" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1767768182
+new [description:"Read chapter 2 of experimental software engineering" entry:"1767768182" modified:"1767768182" project:"6002" status:"pending" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+---
+time 1767768248
+new [description:"Read data visualzation article the anatomy of a large scale hypertext engine" due:"1768107600" entry:"1767768248" modified:"1767768248" project:"6414" status:"pending" uuid:"9ee0436a-a984-421f-bf4c-5fee943386a8"]
+---
+time 1767768295
+old [description:"Read chapter 2 of experimental software engineering" entry:"1767768182" modified:"1767768182" project:"6002" status:"pending" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+new [description:"Read chapter 2 of experimental software engineering" due:"1767830399" entry:"1767768182" modified:"1767768295" project:"6002" status:"pending" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+---
+time 1767821648
+new [description:"Take notes on first lecture" due:"1767830399" entry:"1767821648" modified:"1767821648" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+---
+time 1767821708
+new [description:"Finish slides for week 1" due:"1768194000" entry:"1767821708" modified:"1767821708" project:"6002" status:"pending" uuid:"ee05b226-db5a-4532-9a5a-21b0deaff1d1"]
+---
+time 1767825915
+new [description:"Email Miguel for hackathon" due:"1767830399" entry:"1767825915" modified:"1767825915" status:"pending" uuid:"f845a426-60a1-4059-8087-2c147f3c084a"]
+---
+time 1767825933
+new [description:"Go to altera bank for GSA account" due:"1767992400" entry:"1767825933" modified:"1767825933" status:"pending" uuid:"57deb0dc-8572-480f-8675-1cd0c38d28ab"]
+---
+time 1767827871
+old [description:"Read data visualzation article the anatomy of a large scale hypertext engine" due:"1768107600" entry:"1767768248" modified:"1767768248" project:"6414" status:"pending" uuid:"9ee0436a-a984-421f-bf4c-5fee943386a8"]
+new [description:"Read data visualzation article the anatomy of a large scale hypertext engine" due:"1768107600" end:"1767827871" entry:"1767768248" modified:"1767827871" project:"6414" status:"completed" uuid:"9ee0436a-a984-421f-bf4c-5fee943386a8"]
+---
+time 1767828397
+old [description:"Email Miguel for hackathon" due:"1767830399" entry:"1767825915" modified:"1767825915" status:"pending" uuid:"f845a426-60a1-4059-8087-2c147f3c084a"]
+new [description:"Email Miguel for hackathon" due:"1767830399" end:"1767828397" entry:"1767825915" modified:"1767828397" status:"completed" uuid:"f845a426-60a1-4059-8087-2c147f3c084a"]
+---
+time 1767905584
+old [description:"Go to altera bank for GSA account" due:"1767992400" entry:"1767825933" modified:"1767825933" status:"pending" uuid:"57deb0dc-8572-480f-8675-1cd0c38d28ab"]
+new [description:"Go to altera bank for GSA account" due:"1767992400" end:"1767905584" entry:"1767825933" modified:"1767905584" status:"completed" uuid:"57deb0dc-8572-480f-8675-1cd0c38d28ab"]
+---
+time 1767905621
+new [description:"Wait for response on what to do for GSA account" due:"1768193940" entry:"1767905621" modified:"1767905621" project:"gsa" status:"pending" uuid:"5382c77e-45da-4bac-87fb-b51e38bf934b"]
+---
+time 1767905852
+new [description:"Finish refactoring rxpx data cleaning code" due:"1767916799" entry:"1767905852" modified:"1767905852" priority:"H" project:"rxpx" status:"pending" uuid:"78bddcbf-7166-4701-999e-87d662b5c1f9"]
+---
+time 1767987151
+new [description:"Review maleknaz comments on progress report" due:"1768193940" entry:"1767987151" modified:"1767987151" priority:"L" project:"admin" status:"pending" uuid:"7807aaf8-0983-4bee-bb74-104fd30f8e2c"]
+---
+time 1768178289
+old [description:"Finish refactoring rxpx data cleaning code" due:"1767916799" entry:"1767905852" modified:"1767905852" priority:"H" project:"rxpx" status:"pending" uuid:"78bddcbf-7166-4701-999e-87d662b5c1f9"]
+new [description:"Finish refactoring rxpx data cleaning code" due:"1767916799" end:"1768178289" entry:"1767905852" modified:"1768178289" priority:"H" project:"rxpx" status:"completed" uuid:"78bddcbf-7166-4701-999e-87d662b5c1f9"]
+---
+time 1768178309
+old [description:"Read chapter 2 of experimental software engineering" due:"1767830399" entry:"1767768182" modified:"1767768295" project:"6002" status:"pending" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+new [description:"Read chapter 2 of experimental software engineering" due:"1768262399" entry:"1767768182" modified:"1768178309" project:"6002" status:"pending" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+---
+time 1768178319
+old [description:"Read chapter 2 of experimental software engineering" due:"1768262399" entry:"1767768182" modified:"1768178309" project:"6002" status:"pending" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+new [description:"Read chapter 2 of experimental software engineering" due:"1768262399" entry:"1767768182" modified:"1768178319" priority:"H" project:"6002" status:"pending" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+---
+time 1768178358
+old [description:"Take notes on first lecture" due:"1767830399" entry:"1767821648" modified:"1767821648" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+new [description:"Take notes on first lecture" due:"1768280340" entry:"1767821648" modified:"1768178358" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+---
+time 1768178363
+old [description:"Take notes on first lecture" due:"1768280340" entry:"1767821648" modified:"1768178358" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+new [description:"Take notes on first lecture" due:"1768280340" entry:"1767821648" modified:"1768178363" priority:"M" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+---
+time 1768178386
+old [description:"Finish slides for week 1" due:"1768194000" entry:"1767821708" modified:"1767821708" project:"6002" status:"pending" uuid:"ee05b226-db5a-4532-9a5a-21b0deaff1d1"]
+new [description:"Finish slides for week 1" due:"1768262399" entry:"1767821708" modified:"1768178386" project:"6002" status:"pending" uuid:"ee05b226-db5a-4532-9a5a-21b0deaff1d1"]
+---
+time 1768178392
+old [description:"Finish slides for week 1" due:"1768262399" entry:"1767821708" modified:"1768178386" project:"6002" status:"pending" uuid:"ee05b226-db5a-4532-9a5a-21b0deaff1d1"]
+new [description:"Finish slides for week 1" due:"1768262399" entry:"1767821708" modified:"1768178392" priority:"H" project:"6002" status:"pending" uuid:"ee05b226-db5a-4532-9a5a-21b0deaff1d1"]
+---
+time 1768178409
+old [description:"Wait for response on what to do for GSA account" due:"1768193940" entry:"1767905621" modified:"1767905621" project:"gsa" status:"pending" uuid:"5382c77e-45da-4bac-87fb-b51e38bf934b"]
+new [description:"Wait for response on what to do for GSA account" due:"1768366740" entry:"1767905621" modified:"1768178409" project:"gsa" status:"pending" uuid:"5382c77e-45da-4bac-87fb-b51e38bf934b"]
+---
+time 1768178580
+new [description:"Read ch 1 of tufte" due:"1768280340" entry:"1768178580" modified:"1768178580" project:"6414" status:"pending" uuid:"aed10d11-4384-43eb-b505-fab47d133e11"]
+---
+time 1768178628
+new [description:"Review lab 1" due:"1768279740" entry:"1768178628" modified:"1768178628" priority:"H" project:"ta" status:"pending" uuid:"1979e0e1-aed4-4c5e-aedb-fb41a5ada5de"]
+---
+time 1768209825
+old [description:"Read chapter 2 of experimental software engineering" due:"1768262399" entry:"1767768182" modified:"1768178319" priority:"H" project:"6002" status:"pending" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+new [description:"Read chapter 2 of experimental software engineering" due:"1768262399" end:"1768209825" entry:"1767768182" modified:"1768209825" priority:"H" project:"6002" status:"completed" uuid:"40c9d059-8155-4e03-b1ee-44343958585c"]
+---
+time 1768209839
+old [description:"Finish slides for week 1" due:"1768262399" entry:"1767821708" modified:"1768178392" priority:"H" project:"6002" status:"pending" uuid:"ee05b226-db5a-4532-9a5a-21b0deaff1d1"]
+new [description:"Finish slides for week 1" due:"1768262399" end:"1768209839" entry:"1767821708" modified:"1768209839" priority:"H" project:"6002" status:"completed" uuid:"ee05b226-db5a-4532-9a5a-21b0deaff1d1"]
+---
+time 1768209869
+new [description:"Respond to review comments on slides" due:"1768366740" entry:"1768209869" modified:"1768209869" project:"6002" status:"pending" uuid:"ed0182a0-b898-4033-abe1-7b1e59f329f3"]
+---
+time 1768324719
+old [description:"Review lab 1" due:"1768279740" entry:"1768178628" modified:"1768178628" priority:"H" project:"ta" status:"pending" uuid:"1979e0e1-aed4-4c5e-aedb-fb41a5ada5de"]
+new [description:"Review lab 1" due:"1768279740" end:"1768324719" entry:"1768178628" modified:"1768324719" priority:"H" project:"ta" status:"completed" uuid:"1979e0e1-aed4-4c5e-aedb-fb41a5ada5de"]
+---
+time 1768324735
+old [description:"Read ch 1 of tufte" due:"1768280340" entry:"1768178580" modified:"1768178580" project:"6414" status:"pending" uuid:"aed10d11-4384-43eb-b505-fab47d133e11"]
+new [description:"Read ch 1 of tufte" due:"1768280340" end:"1768324735" entry:"1768178580" modified:"1768324735" project:"6414" status:"completed" uuid:"aed10d11-4384-43eb-b505-fab47d133e11"]
+---
+time 1768324754
+old [description:"Respond to review comments on slides" due:"1768366740" entry:"1768209869" modified:"1768209869" project:"6002" status:"pending" uuid:"ed0182a0-b898-4033-abe1-7b1e59f329f3"]
+new [description:"Respond to review comments on slides" due:"1768348799" entry:"1768209869" modified:"1768324754" project:"6002" status:"pending" uuid:"ed0182a0-b898-4033-abe1-7b1e59f329f3"]
+---
+time 1768324760
+old [description:"Respond to review comments on slides" due:"1768348799" entry:"1768209869" modified:"1768324754" project:"6002" status:"pending" uuid:"ed0182a0-b898-4033-abe1-7b1e59f329f3"]
+new [description:"Respond to review comments on slides" due:"1768348799" entry:"1768209869" modified:"1768324760" priority:"H" project:"6002" status:"pending" uuid:"ed0182a0-b898-4033-abe1-7b1e59f329f3"]
+---
+time 1768328251
+new [description:"Email sidi about lab1 especially the student whose tla was not workingTA" due:"1768233600" entry:"1768328251" modified:"1768328251" project:"eod" status:"pending" uuid:"01d5a6e2-a9a7-46bc-86a9-001cd9b22866"]
+---
+time 1768328313
+new [description:"Email sidi about lab1 especially the student whose tla was not working" due:"1768348799" entry:"1768328313" modified:"1768328313" project:"ta" status:"pending" uuid:"e98ac641-6036-4e8e-bcf8-44d872e357a5"]
+---
+time 1768328324
+old [description:"Email sidi about lab1 especially the student whose tla was not workingTA" due:"1768233600" entry:"1768328251" modified:"1768328251" project:"eod" status:"pending" uuid:"01d5a6e2-a9a7-46bc-86a9-001cd9b22866"]
+new [description:"Email sidi about lab1 especially the student whose tla was not workingTA" due:"1768233600" end:"1768328324" entry:"1768328251" modified:"1768328324" project:"eod" status:"completed" uuid:"01d5a6e2-a9a7-46bc-86a9-001cd9b22866"]
+---
+time 1768328335
+old [description:"Email sidi about lab1 especially the student whose tla was not working" due:"1768348799" entry:"1768328313" modified:"1768328313" project:"ta" status:"pending" uuid:"e98ac641-6036-4e8e-bcf8-44d872e357a5"]
+new [description:"Email sidi about lab1 especially the student whose tla was not working" due:"1768348799" entry:"1768328313" modified:"1768328335" priority:"H" project:"ta" status:"pending" uuid:"e98ac641-6036-4e8e-bcf8-44d872e357a5"]
+---
+time 1768427819
+old [description:"Respond to review comments on slides" due:"1768348799" entry:"1768209869" modified:"1768324760" priority:"H" project:"6002" status:"pending" uuid:"ed0182a0-b898-4033-abe1-7b1e59f329f3"]
+new [description:"Respond to review comments on slides" due:"1768348799" end:"1768427819" entry:"1768209869" modified:"1768427819" priority:"H" project:"6002" status:"completed" uuid:"ed0182a0-b898-4033-abe1-7b1e59f329f3"]
+---
+time 1768427842
+new [description:"test" entry:"1768427842" modified:"1768427842" priority:"H" project:"ta" status:"pending" uuid:"34d0d2ff-6112-4fb9-8fbc-6fc6a4b63063"]
+---
+time 1768427953
+new [description:"test" due:"1768435199" entry:"1768427953" modified:"1768427953" priority:"H" project:"ta" status:"pending" uuid:"23157c43-1f6f-4d7d-91f2-dd082fe98992"]
+---
+time 1768427965
+old [description:"test" entry:"1768427842" modified:"1768427842" priority:"H" project:"ta" status:"pending" uuid:"34d0d2ff-6112-4fb9-8fbc-6fc6a4b63063"]
+new [description:"test" end:"1768427965" entry:"1768427842" modified:"1768427965" priority:"H" project:"ta" status:"completed" uuid:"34d0d2ff-6112-4fb9-8fbc-6fc6a4b63063"]
+---
+time 1768427973
+old [description:"test" due:"1768435199" entry:"1768427953" modified:"1768427953" priority:"H" project:"ta" status:"pending" uuid:"23157c43-1f6f-4d7d-91f2-dd082fe98992"]
+new [description:"test" due:"1768435199" end:"1768427973" entry:"1768427953" modified:"1768427973" priority:"H" project:"ta" status:"completed" uuid:"23157c43-1f6f-4d7d-91f2-dd082fe98992"]
+---
+time 1768428003
+new [description:"Read ch 3 of experimentation in software engineering" due:"1768798740" entry:"1768428003" modified:"1768428003" priority:"M" project:"6002" status:"pending" uuid:"19e4a980-073b-45f8-bda2-3561123f4f1e"]
+---
+time 1768428021
+new [description:"Finished slides for ch 3 of experimentation in software engineering" due:"1768798740" entry:"1768428021" modified:"1768428021" priority:"H" project:"6002" status:"pending" uuid:"c00205d1-9941-4b59-b239-7b0eff96b9fe"]
+---
+time 1768428047
+new [description:"Notes on lecture 2" due:"1768798740" entry:"1768428047" modified:"1768428047" priority:"L" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+---
+time 1768511004
+new [description:"Read mapreduce paper" due:"1768798740" entry:"1768511004" modified:"1768511004" priority:"L" project:"6414" status:"pending" uuid:"04768329-67bc-4d9d-b982-57ee4fc60b17"]
+---
+time 1768526927
+old [description:"Email sidi about lab1 especially the student whose tla was not working" due:"1768348799" entry:"1768328313" modified:"1768328335" priority:"H" project:"ta" status:"pending" uuid:"e98ac641-6036-4e8e-bcf8-44d872e357a5"]
+new [description:"Email sidi about lab1 especially the student whose tla was not working" due:"1768348799" end:"1768526927" entry:"1768328313" modified:"1768526927" priority:"H" project:"ta" status:"completed" uuid:"e98ac641-6036-4e8e-bcf8-44d872e357a5"]
+---
+time 1768549702
+old [description:"Review maleknaz comments on progress report" due:"1768193940" entry:"1767987151" modified:"1767987151" priority:"L" project:"admin" status:"pending" uuid:"7807aaf8-0983-4bee-bb74-104fd30f8e2c"]
+new [description:"Review maleknaz comments on progress report" due:"1768193940" end:"1768549702" entry:"1767987151" modified:"1768549702" priority:"L" project:"admin" status:"completed" uuid:"7807aaf8-0983-4bee-bb74-104fd30f8e2c"]
+---
+time 1768578621
+new [description:"Send paper to ashik" due:"1768607999" entry:"1768578621" modified:"1768578621" priority:"H" project:"rxpx" status:"pending" uuid:"dc54713a-73bb-475c-8eb1-259a2b516ff2"]
+---
+time 1768579275
+old [description:"Send paper to ashik" due:"1768607999" entry:"1768578621" modified:"1768578621" priority:"H" project:"rxpx" status:"pending" uuid:"dc54713a-73bb-475c-8eb1-259a2b516ff2"]
+new [description:"Send paper to ashik" due:"1768607999" end:"1768579275" entry:"1768578621" modified:"1768579275" priority:"H" project:"rxpx" status:"completed" uuid:"dc54713a-73bb-475c-8eb1-259a2b516ff2"]
+---
+time 1769034109
+new [description:"Send email to ashik" due:"1769039999" entry:"1769034109" modified:"1769034109" priority:"H" project:"rxpx" status:"pending" uuid:"2888e5b2-4b18-4be5-a1e8-89653ad8c2ac"]
+---
+time 1769035807
+new [description:"Send maleknaz email about multiagent rag paper" due:"1769039999" entry:"1769035807" modified:"1769035807" priority:"M" project:"paper" status:"pending" uuid:"4a815fe0-cbf9-402b-8c38-96f71f084149"]
+---
+time 1769036244
+old [description:"Finished slides for ch 3 of experimentation in software engineering" due:"1768798740" entry:"1768428021" modified:"1768428021" priority:"H" project:"6002" status:"pending" uuid:"c00205d1-9941-4b59-b239-7b0eff96b9fe"]
+new [description:"Finished slides for ch 3 of experimentation in software engineering" due:"1768798740" end:"1769036244" entry:"1768428021" modified:"1769036244" priority:"H" project:"6002" status:"completed" uuid:"c00205d1-9941-4b59-b239-7b0eff96b9fe"]
+---
+time 1769036262
+new [description:"Review lecture 3" due:"1769039999" entry:"1769036262" modified:"1769036262" priority:"H" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1769036277
+old [description:"Read ch 3 of experimentation in software engineering" due:"1768798740" entry:"1768428003" modified:"1768428003" priority:"M" project:"6002" status:"pending" uuid:"19e4a980-073b-45f8-bda2-3561123f4f1e"]
+new [description:"Read ch 3 of experimentation in software engineering" due:"1768798740" end:"1769036277" entry:"1768428003" modified:"1769036277" priority:"M" project:"6002" status:"completed" uuid:"19e4a980-073b-45f8-bda2-3561123f4f1e"]
+---
+time 1769110567
+old [description:"Call for papers for EASE 2026" due:"1768539600" entry:"1767768086" modified:"1767768086" project:"papers" status:"pending" uuid:"077f4bce-31f4-4c14-a8a3-f4ff7c48a78c"]
+new [description:"Call for papers for EASE 2026" due:"1768539600" end:"1769110567" entry:"1767768086" modified:"1769110567" project:"papers" status:"completed" uuid:"077f4bce-31f4-4c14-a8a3-f4ff7c48a78c"]
+---
+time 1769110580
+old [description:"Call for papers for PROMISE 2026" due:"1767934800" entry:"1767768069" modified:"1767768069" project:"papers" status:"pending" uuid:"856c940b-5965-4ba9-8d83-15b90afe614e"]
+new [description:"Call for papers for PROMISE 2026" due:"1767934800" end:"1769110580" entry:"1767768069" modified:"1769110580" project:"papers" status:"completed" uuid:"856c940b-5965-4ba9-8d83-15b90afe614e"]
+---
+time 1769110600
+old [description:"Take notes on first lecture" due:"1768280340" entry:"1767821648" modified:"1768178363" priority:"M" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+new [description:"Take notes on first lecture" due:"1769126399" entry:"1767821648" modified:"1769110600" priority:"M" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+---
+time 1769110625
+old [description:"Take notes on first lecture" due:"1769126399" entry:"1767821648" modified:"1769110600" priority:"M" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+new [description:"Take notes on first lecture" due:"1769126399" entry:"1767821648" modified:"1769110625" priority:"H" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+---
+time 1769110642
+old [description:"Send email to ashik" due:"1769039999" entry:"1769034109" modified:"1769034109" priority:"H" project:"rxpx" status:"pending" uuid:"2888e5b2-4b18-4be5-a1e8-89653ad8c2ac"]
+new [description:"Send email to ashik" entry:"1769034109" modified:"1769110642" priority:"H" project:"rxpx" status:"pending" uuid:"2888e5b2-4b18-4be5-a1e8-89653ad8c2ac"]
+---
+time 1769110648
+old [description:"Send email to ashik" entry:"1769034109" modified:"1769110642" priority:"H" project:"rxpx" status:"pending" uuid:"2888e5b2-4b18-4be5-a1e8-89653ad8c2ac"]
+new [description:"Send email to ashik" due:"1769133600" entry:"1769034109" modified:"1769110648" priority:"H" project:"rxpx" status:"pending" uuid:"2888e5b2-4b18-4be5-a1e8-89653ad8c2ac"]
+---
+time 1769110672
+old [description:"Review lecture 3" due:"1769039999" entry:"1769036262" modified:"1769036262" priority:"H" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+new [description:"Review lecture 3" due:"1769230740" entry:"1769036262" modified:"1769110672" priority:"H" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1769110689
+old [description:"Send maleknaz email about multiagent rag paper" due:"1769039999" entry:"1769035807" modified:"1769035807" priority:"M" project:"paper" status:"pending" uuid:"4a815fe0-cbf9-402b-8c38-96f71f084149"]
+new [description:"Send maleknaz email about multiagent rag paper" due:"1769126399" entry:"1769035807" modified:"1769110689" priority:"M" project:"paper" status:"pending" uuid:"4a815fe0-cbf9-402b-8c38-96f71f084149"]
+---
+time 1769110714
+old [description:"Notes on lecture 2" due:"1768798740" entry:"1768428047" modified:"1768428047" priority:"L" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+new [description:"Notes on lecture 2" due:"1769317140" entry:"1768428047" modified:"1769110714" priority:"L" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+---
+time 1769110723
+old [description:"Wait for response on what to do for GSA account" due:"1768366740" entry:"1767905621" modified:"1768178409" project:"gsa" status:"pending" uuid:"5382c77e-45da-4bac-87fb-b51e38bf934b"]
+new [description:"Wait for response on what to do for GSA account" due:"1768366740" end:"1769110723" entry:"1767905621" modified:"1769110723" project:"gsa" status:"completed" uuid:"5382c77e-45da-4bac-87fb-b51e38bf934b"]
+---
+time 1769110744
+old [description:"Review lecture 3" due:"1769230740" entry:"1769036262" modified:"1769110672" priority:"H" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+new [description:"Review lecture 3" due:"1769230740" entry:"1769036262" modified:"1769110744" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1769110766
+old [description:"Notes on lecture 2" due:"1769317140" entry:"1768428047" modified:"1769110714" priority:"L" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+new [description:"Notes on lecture 2" due:"1769317140" entry:"1768428047" modified:"1769110766" priority:"M" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+---
+time 1769110786
+old [description:"Review lecture 3" due:"1769230740" entry:"1769036262" modified:"1769110744" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+new [description:"Review lecture 3" due:"1769403540" entry:"1769036262" modified:"1769110786" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1769110876
+new [description:"Read sparksql paper" due:"1769403540" entry:"1769110876" modified:"1769110876" priority:"M" project:"6414" status:"pending" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+---
+time 1769110895
+new [description:"Read paper raf sent" due:"1769403540" entry:"1769110895" modified:"1769110895" priority:"M" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+---
+time 1769196125
+old [description:"Send email to ashik" due:"1769133600" entry:"1769034109" modified:"1769110648" priority:"H" project:"rxpx" status:"pending" uuid:"2888e5b2-4b18-4be5-a1e8-89653ad8c2ac"]
+new [description:"Send email to ashik" due:"1769133600" end:"1769196125" entry:"1769034109" modified:"1769196125" priority:"H" project:"rxpx" status:"completed" uuid:"2888e5b2-4b18-4be5-a1e8-89653ad8c2ac"]
+---
+time 1769196134
+old [description:"Send maleknaz email about multiagent rag paper" due:"1769126399" entry:"1769035807" modified:"1769110689" priority:"M" project:"paper" status:"pending" uuid:"4a815fe0-cbf9-402b-8c38-96f71f084149"]
+new [description:"Send maleknaz email about multiagent rag paper" due:"1769126399" end:"1769196134" entry:"1769035807" modified:"1769196134" priority:"M" project:"paper" status:"completed" uuid:"4a815fe0-cbf9-402b-8c38-96f71f084149"]
+---
+time 1769196175
+new [description:"High level project document for rxpx" due:"1769749140" entry:"1769196175" modified:"1769196175" project:"rxpx" status:"pending" uuid:"dd58ff52-8f4e-4a59-89bd-7dff03da254e"]
+---
+time 1769196213
+new [description:"Add progress bar to UI and better structure of llm outputs" due:"1769749140" entry:"1769196213" modified:"1769196213" project:"rxpx" status:"pending" uuid:"30c1ec20-943f-4856-8fb7-235f53fdcfaa"]
+---
+time 1769196355
+new [description:"Send meeting invite to alireza davoodi for jan 30" due:"1769212799" entry:"1769196355" modified:"1769196355" project:"rxpx" status:"pending" uuid:"4ff0bf00-9dda-4559-a64b-7836b95982ab"]
+---
+time 1769208301
+new [description:"Check in on ashik and give a deadline" due:"1769317140" entry:"1769208301" modified:"1769208301" project:"rxpx" status:"pending" uuid:"10cecc21-1f23-4ac4-9b49-2413b09de65d"]
+---
+time 1769464904
+old [description:"Take notes on first lecture" due:"1769126399" entry:"1767821648" modified:"1769110625" priority:"H" project:"6127" status:"pending" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+new [description:"Take notes on first lecture" due:"1769126399" end:"1769464904" entry:"1767821648" modified:"1769464904" priority:"H" project:"6127" status:"completed" uuid:"62083a19-8a17-4e62-95cd-12262f046790"]
+---
+time 1769476572
+old [description:"Read mapreduce paper" due:"1768798740" entry:"1768511004" modified:"1768511004" priority:"L" project:"6414" status:"pending" uuid:"04768329-67bc-4d9d-b982-57ee4fc60b17"]
+new [description:"Read mapreduce paper" due:"1768798740" end:"1769476572" entry:"1768511004" modified:"1769476572" priority:"L" project:"6414" status:"completed" uuid:"04768329-67bc-4d9d-b982-57ee4fc60b17"]
+---
+time 1769476618
+old [description:"Notes on lecture 2" due:"1769317140" entry:"1768428047" modified:"1769110766" priority:"M" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+new [description:"eod" due:"1769317140" entry:"1768428047" modified:"1769476618" priority:"M" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+---
+time 1769476660
+old [description:"eod" due:"1769317140" entry:"1768428047" modified:"1769476618" priority:"M" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+new [description:"Review lecture 2" due:"1769317140" entry:"1768428047" modified:"1769476660" priority:"M" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+---
+time 1769476675
+old [description:"Review lecture 2" due:"1769317140" entry:"1768428047" modified:"1769476660" priority:"M" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+new [description:"Review lecture 2" due:"1769558399" entry:"1768428047" modified:"1769476675" priority:"M" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+---
+time 1769476707
+old [description:"Review lecture 3" due:"1769403540" entry:"1769036262" modified:"1769110786" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+new [description:"Review lecture 3" due:"1769576340" entry:"1769036262" modified:"1769476707" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1769476729
+old [description:"Read sparksql paper" due:"1769403540" entry:"1769110876" modified:"1769110876" priority:"M" project:"6414" status:"pending" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+new [description:"Read sparksql paper" due:"1769558399" entry:"1769110876" modified:"1769476729" priority:"M" project:"6414" status:"pending" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+---
+time 1769476762
+old [description:"Read paper raf sent" due:"1769403540" entry:"1769110895" modified:"1769110895" priority:"M" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+new [description:"Read paper raf sent" due:"1769576340" entry:"1769110895" modified:"1769476762" priority:"M" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+---
+time 1769476793
+old [description:"Read multiagent rag paper" due:"1768107600" entry:"1767768155" modified:"1767768155" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+new [description:"Read multiagent rag paper" due:"1768107600" entry:"1767768155" modified:"1769476793" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1769476833
+old [description:"Read multiagent rag paper" due:"1768107600" entry:"1767768155" modified:"1769476793" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+new [description:"Read multiagent rag paper" due:"1769749140" entry:"1767768155" modified:"1769476833" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1769476859
+old [description:"Read multiagent rag paper" due:"1769749140" entry:"1767768155" modified:"1769476833" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+new [description:"Read multiagent rag paper and prepare slides" due:"1769749140" entry:"1767768155" modified:"1769476859" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1769499709
+old [description:"Review lecture 2" due:"1769558399" entry:"1768428047" modified:"1769476675" priority:"M" project:"6127" status:"pending" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+new [description:"Review lecture 2" due:"1769558399" end:"1769499709" entry:"1768428047" modified:"1769499709" priority:"M" project:"6127" status:"completed" uuid:"4574e79f-66ac-4620-95f4-fdf0f529ec08"]
+---
+time 1769541388
+old [description:"Send meeting invite to alireza davoodi for jan 30" due:"1769212799" entry:"1769196355" modified:"1769196355" project:"rxpx" status:"pending" uuid:"4ff0bf00-9dda-4559-a64b-7836b95982ab"]
+new [description:"Send meeting invite to alireza davoodi for jan 30" due:"1769212799" end:"1769541388" entry:"1769196355" modified:"1769541388" project:"rxpx" status:"completed" uuid:"4ff0bf00-9dda-4559-a64b-7836b95982ab"]
+---
+time 1769623763
+new [description:"Review lecture 4" due:"1769835540" entry:"1769623763" modified:"1769623763" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+---
+time 1769623787
+new [description:"Quiz 1" due:"1770008340" entry:"1769623787" modified:"1769623787" priority:"H" project:"6127" status:"pending" uuid:"ccc52379-5402-4039-b200-6620cd40c2fe"]
+---
+time 1769636963
+new [description:"Finish revised protocol" due:"1770051600" entry:"1769636963" modified:"1769636963" priority:"H" project:"6002" status:"pending" uuid:"ecea53c5-101f-4357-a823-a93380381f66"]
+---
+time 1769716775
+new [description:"Prepare slides for meeting with alireza" due:"1769731199" entry:"1769716775" modified:"1769716775" priority:"H" project:"rxpx" status:"pending" uuid:"553156e1-70bc-4787-96f4-3ee9010cb482"]
+---
+time 1769718048
+new [description:"Finish diagram for meeting with alireza" due:"1769731199" entry:"1769718048" modified:"1769718048" priority:"H" project:"rxpx" status:"pending" uuid:"26b8a864-8b0a-44d9-9772-e1171d8dab11"]
+---
+time 1769718157
+old [description:"Read sparksql paper" due:"1769558399" entry:"1769110876" modified:"1769476729" priority:"M" project:"6414" status:"pending" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+new [description:"Read sparksql paper" due:"1769558399" entry:"1769110876" modified:"1769718157" priority:"L" project:"6414" status:"pending" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+---
+time 1769718175
+old [description:"Read sparksql paper" due:"1769558399" entry:"1769110876" modified:"1769718157" priority:"L" project:"6414" status:"pending" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+new [description:"Read sparksql paper" due:"1770008340" entry:"1769110876" modified:"1769718175" priority:"L" project:"6414" status:"pending" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+---
+time 1769718193
+old [description:"Connected minds scholarship application" due:"1769922000" entry:"1767768126" modified:"1767768126" project:"scholarships" status:"pending" uuid:"f052f726-35f3-4773-9ff3-4b4641468666"]
+new [description:"Connected minds scholarship application" due:"1769922000" entry:"1767768126" modified:"1769718193" priority:"H" project:"scholarships" status:"pending" uuid:"f052f726-35f3-4773-9ff3-4b4641468666"]
+---
+time 1769718199
+old [description:"Call for papers for ACM AIWare 2026" due:"1769922000" entry:"1767768106" modified:"1767768106" project:"papers" status:"pending" uuid:"cdc7eaea-f502-423f-95d7-8d613478ba18"]
+new [description:"Call for papers for ACM AIWare 2026" due:"1769922000" end:"1769718199" entry:"1767768106" modified:"1769718199" project:"papers" status:"completed" uuid:"cdc7eaea-f502-423f-95d7-8d613478ba18"]
+---
+time 1769718225
+old [description:"Read paper raf sent" due:"1769576340" entry:"1769110895" modified:"1769476762" priority:"M" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+new [description:"Read paper raf sent" due:"1770008340" entry:"1769110895" modified:"1769718225" priority:"M" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+---
+time 1769718248
+old [description:"Review lecture 3" due:"1769576340" entry:"1769036262" modified:"1769476707" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+new [description:"Review lecture 3" due:"1770008340" entry:"1769036262" modified:"1769718248" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1769718263
+old [description:"Review lecture 4" due:"1769835540" entry:"1769623763" modified:"1769623763" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+new [description:"Review lecture 4" due:"1770008340" entry:"1769623763" modified:"1769718263" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+---
+time 1769718288
+new [description:"Finish data matching" due:"1769731199" entry:"1769718288" modified:"1769718288" priority:"H" project:"rxpx" status:"pending" uuid:"336c4d70-6dd7-4ae5-899a-b79876890c34"]
+---
+time 1769718313
+new [description:"Finish UI upgrades" due:"1769731199" entry:"1769718313" modified:"1769718313" priority:"H" project:"rxpx" status:"pending" uuid:"b374ff9b-d331-4f2b-bfa1-5faedcf810fc"]
+---
+time 1769718324
+old [description:"Check in on ashik and give a deadline" due:"1769317140" entry:"1769208301" modified:"1769208301" project:"rxpx" status:"pending" uuid:"10cecc21-1f23-4ac4-9b49-2413b09de65d"]
+new [description:"Check in on ashik and give a deadline" due:"1769317140" end:"1769718324" entry:"1769208301" modified:"1769718324" project:"rxpx" status:"completed" uuid:"10cecc21-1f23-4ac4-9b49-2413b09de65d"]
+---
+time 1769718408
+old [description:"High level project document for rxpx" due:"1769749140" entry:"1769196175" modified:"1769196175" project:"rxpx" status:"pending" uuid:"dd58ff52-8f4e-4a59-89bd-7dff03da254e"]
+new [description:"High level project document for rxpx" due:"1769749140" end:"1769718408" entry:"1769196175" modified:"1769718408" project:"rxpx" status:"completed" uuid:"dd58ff52-8f4e-4a59-89bd-7dff03da254e"]
+---
+time 1769718464
+old [description:"Finish revised protocol" due:"1770051600" entry:"1769636963" modified:"1769636963" priority:"H" project:"6002" status:"pending" uuid:"ecea53c5-101f-4357-a823-a93380381f66"]
+new [description:"Finished revised protocol for systematic literature review" due:"1770051600" entry:"1769636963" modified:"1769718464" priority:"H" project:"6002" status:"pending" uuid:"ecea53c5-101f-4357-a823-a93380381f66"]
+---
+time 1769718507
+old [description:"Add progress bar to UI and better structure of llm outputs" due:"1769749140" entry:"1769196213" modified:"1769196213" project:"rxpx" status:"pending" uuid:"30c1ec20-943f-4856-8fb7-235f53fdcfaa"]
+new [description:"Add progress bar to UI and better structure of llm outputs" due:"1769749140" end:"1769718507" entry:"1769196213" modified:"1769718507" project:"rxpx" status:"completed" uuid:"30c1ec20-943f-4856-8fb7-235f53fdcfaa"]
+---
+time 1769755868
+old [description:"Finish data matching" due:"1769731199" entry:"1769718288" modified:"1769718288" priority:"H" project:"rxpx" status:"pending" uuid:"336c4d70-6dd7-4ae5-899a-b79876890c34"]
+new [description:"Finish data matching" due:"1769731199" end:"1769755868" entry:"1769718288" modified:"1769755868" priority:"H" project:"rxpx" status:"completed" uuid:"336c4d70-6dd7-4ae5-899a-b79876890c34"]
+---
+time 1769758240
+old [description:"Finish UI upgrades" due:"1769731199" entry:"1769718313" modified:"1769718313" priority:"H" project:"rxpx" status:"pending" uuid:"b374ff9b-d331-4f2b-bfa1-5faedcf810fc"]
+new [description:"Finish UI upgrades" due:"1769731199" end:"1769758240" entry:"1769718313" modified:"1769758240" priority:"H" project:"rxpx" status:"completed" uuid:"b374ff9b-d331-4f2b-bfa1-5faedcf810fc"]
+---
+time 1769900806
+old [description:"Prepare slides for meeting with alireza" due:"1769731199" entry:"1769716775" modified:"1769716775" priority:"H" project:"rxpx" status:"pending" uuid:"553156e1-70bc-4787-96f4-3ee9010cb482"]
+new [description:"Prepare slides for meeting with alireza" due:"1769731199" end:"1769900806" entry:"1769716775" modified:"1769900806" priority:"H" project:"rxpx" status:"completed" uuid:"553156e1-70bc-4787-96f4-3ee9010cb482"]
+---
+time 1769900814
+old [description:"Finish diagram for meeting with alireza" due:"1769731199" entry:"1769718048" modified:"1769718048" priority:"H" project:"rxpx" status:"pending" uuid:"26b8a864-8b0a-44d9-9772-e1171d8dab11"]
+new [description:"Finish diagram for meeting with alireza" due:"1769731199" end:"1769900814" entry:"1769718048" modified:"1769900814" priority:"H" project:"rxpx" status:"completed" uuid:"26b8a864-8b0a-44d9-9772-e1171d8dab11"]
+---
+time 1769976863
+old [description:"Connected minds scholarship application" due:"1769922000" entry:"1767768126" modified:"1769718193" priority:"H" project:"scholarships" status:"pending" uuid:"f052f726-35f3-4773-9ff3-4b4641468666"]
+new [description:"Connected minds scholarship application" due:"1769922000" end:"1769976863" entry:"1767768126" modified:"1769976863" priority:"H" project:"scholarships" status:"completed" uuid:"f052f726-35f3-4773-9ff3-4b4641468666"]
+---
+time 1770054136
+new [description:"Send ashik email about file dropper thing" due:"1770076800" entry:"1770054136" modified:"1770054136" priority:"M" project:"rxpx" status:"pending" uuid:"c9c8f8fa-9a64-4ba2-a637-3772ef014ae0"]
+---
+time 1770060769
+old [description:"Finished revised protocol for systematic literature review" due:"1770051600" entry:"1769636963" modified:"1769718464" priority:"H" project:"6002" status:"pending" uuid:"ecea53c5-101f-4357-a823-a93380381f66"]
+new [description:"Finished revised protocol for systematic literature review" due:"1770051600" end:"1770060769" entry:"1769636963" modified:"1770060769" priority:"H" project:"6002" status:"completed" uuid:"ecea53c5-101f-4357-a823-a93380381f66"]
+---
+time 1770061384
+new [description:"Read ch 5 of experimentation in software engineering" due:"1770094740" entry:"1770061384" modified:"1770061384" priority:"M" project:"6002" status:"pending" uuid:"c4ab7fed-892c-46b5-9f88-5ae80fa47ec8"]
+---
+time 1770061414
+new [description:"Review reader slides" due:"1770156000" entry:"1770061414" modified:"1770061414" priority:"M" project:"6002" status:"pending" uuid:"433d2218-00ee-4679-a0c7-09702ec2c1af"]
+---
+time 1770061618
+old [description:"Quiz 1" due:"1770008340" entry:"1769623787" modified:"1769623787" priority:"H" project:"6127" status:"pending" uuid:"ccc52379-5402-4039-b200-6620cd40c2fe"]
+new [description:"Quiz 1" due:"1770181140" entry:"1769623787" modified:"1770061618" priority:"H" project:"6127" status:"pending" uuid:"ccc52379-5402-4039-b200-6620cd40c2fe"]
+---
+time 1770061638
+old [description:"Review lecture 3" due:"1770008340" entry:"1769036262" modified:"1769718248" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+new [description:"Review lecture 3" due:"1770094740" entry:"1769036262" modified:"1770061638" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1770061649
+old [description:"Review lecture 4" due:"1770008340" entry:"1769623763" modified:"1769718263" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+new [description:"Review lecture 4" due:"1770094740" entry:"1769623763" modified:"1770061649" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+---
+time 1770061674
+old [description:"Review lecture 4" due:"1770094740" entry:"1769623763" modified:"1770061649" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+new [description:"Review lecture 4" due:"1770094740" entry:"1769623763" modified:"1770061674" priority:"H" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+---
+time 1770061684
+old [description:"Review lecture 3" due:"1770094740" entry:"1769036262" modified:"1770061638" priority:"M" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+new [description:"Review lecture 3" due:"1770094740" entry:"1769036262" modified:"1770061684" priority:"H" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1770061762
+old [description:"Read paper raf sent" due:"1770008340" entry:"1769110895" modified:"1769718225" priority:"M" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+new [description:"Read paper raf sent" due:"1770094740" entry:"1769110895" modified:"1770061762" priority:"M" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+---
+time 1770061769
+old [description:"Read paper raf sent" due:"1770094740" entry:"1769110895" modified:"1770061762" priority:"M" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+new [description:"Read paper raf sent" due:"1770094740" entry:"1769110895" modified:"1770061769" priority:"H" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+---
+time 1770062063
+new [description:"Apply to vector internships internships 2026-02-03T23:59:00-0500 H" entry:"1770062063" modified:"1770062063" status:"pending" uuid:"201d6471-099b-40d1-838c-97e429cb48ff"]
+---
+time 1770062078
+new [description:"Apply to vector internships" due:"1770181140" entry:"1770062078" modified:"1770062078" priority:"H" project:"internships" status:"pending" uuid:"3562ff7c-77f5-472a-ae85-96073889b8a3"]
+---
+time 1770062088
+old [description:"Apply to vector internships internships 2026-02-03T23:59:00-0500 H" entry:"1770062063" modified:"1770062063" status:"pending" uuid:"201d6471-099b-40d1-838c-97e429cb48ff"]
+new [description:"Apply to vector internships internships 2026-02-03T23:59:00-0500 H" end:"1770062088" entry:"1770062063" modified:"1770062088" status:"completed" uuid:"201d6471-099b-40d1-838c-97e429cb48ff"]
+---
+time 1770067540
+old [description:"Read sparksql paper" due:"1770008340" entry:"1769110876" modified:"1769718175" priority:"L" project:"6414" status:"pending" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+new [description:"Read sparksql paper" due:"1770008340" end:"1770067540" entry:"1769110876" modified:"1770067540" priority:"L" project:"6414" status:"completed" uuid:"59a415eb-e277-4929-bfad-7f3fca0ac887"]
+---
+time 1770106233
+old [description:"Send ashik email about file dropper thing" due:"1770076800" entry:"1770054136" modified:"1770054136" priority:"M" project:"rxpx" status:"pending" uuid:"c9c8f8fa-9a64-4ba2-a637-3772ef014ae0"]
+new [description:"Send ashik email about file dropper thing" due:"1770076800" end:"1770106233" entry:"1770054136" modified:"1770106233" priority:"M" project:"rxpx" status:"completed" uuid:"c9c8f8fa-9a64-4ba2-a637-3772ef014ae0"]
+---
+time 1770163748
+old [description:"Read ch 5 of experimentation in software engineering" due:"1770094740" entry:"1770061384" modified:"1770061384" priority:"M" project:"6002" status:"pending" uuid:"c4ab7fed-892c-46b5-9f88-5ae80fa47ec8"]
+new [description:"Read ch 5 of experimentation in software engineering" due:"1770094740" end:"1770163748" entry:"1770061384" modified:"1770163748" priority:"M" project:"6002" status:"completed" uuid:"c4ab7fed-892c-46b5-9f88-5ae80fa47ec8"]
+---
+time 1770163760
+old [description:"Review reader slides" due:"1770156000" entry:"1770061414" modified:"1770061414" priority:"M" project:"6002" status:"pending" uuid:"433d2218-00ee-4679-a0c7-09702ec2c1af"]
+new [description:"Review reader slides" due:"1770156000" end:"1770163760" entry:"1770061414" modified:"1770163760" priority:"M" project:"6002" status:"completed" uuid:"433d2218-00ee-4679-a0c7-09702ec2c1af"]
+---
+time 1770163789
+old [description:"Review lecture 3" due:"1770094740" entry:"1769036262" modified:"1770061684" priority:"H" project:"6127" status:"pending" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+new [description:"Review lecture 3" due:"1770094740" end:"1770163789" entry:"1769036262" modified:"1770163789" priority:"H" project:"6127" status:"completed" uuid:"6f366ce2-c2ba-4847-9b65-a2bb2aef33a4"]
+---
+time 1770231013
+new [description:"Finish grading homework 1" due:"1770613140" entry:"1770231012" modified:"1770231012" priority:"M" project:"ta" status:"pending" uuid:"56c51401-1bc3-4807-8901-83b17bd50128"]
+---
+time 1770240744
+new [description:"Review fj yaseen slr protocol" due:"1770440340" entry:"1770240744" modified:"1770240744" priority:"M" project:"6002" status:"pending" uuid:"0962e9c9-4e9b-4574-88b6-14261aaec565"]
+---
+time 1770265776
+new [description:"Review lecture 5" due:"1770526740" entry:"1770265776" modified:"1770265776" priority:"M" project:"6127" status:"pending" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+---
+time 1770613446
+old [description:"Quiz 1" due:"1770181140" entry:"1769623787" modified:"1770061618" priority:"H" project:"6127" status:"pending" uuid:"ccc52379-5402-4039-b200-6620cd40c2fe"]
+new [description:"Quiz 1" due:"1770181140" end:"1770613446" entry:"1769623787" modified:"1770613446" priority:"H" project:"6127" status:"completed" uuid:"ccc52379-5402-4039-b200-6620cd40c2fe"]
+---
+time 1770613477
+new [description:"Review question 3 of quiz 1" due:"1770785940" entry:"1770613477" modified:"1770613477" priority:"L" project:"6127" status:"pending" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+---
+time 1770754301
+old [description:"Read paper raf sent" due:"1770094740" entry:"1769110895" modified:"1770061769" priority:"H" project:"6414" status:"pending" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+new [description:"Read paper raf sent" due:"1770094740" end:"1770754301" entry:"1769110895" modified:"1770754301" priority:"H" project:"6414" status:"completed" uuid:"63c18718-c19c-4c52-8493-c8c4d6b7f28b"]
+---
+time 1770754309
+old [description:"Finish grading homework 1" due:"1770613140" entry:"1770231012" modified:"1770231012" priority:"M" project:"ta" status:"pending" uuid:"56c51401-1bc3-4807-8901-83b17bd50128"]
+new [description:"Finish grading homework 1" due:"1770613140" end:"1770754309" entry:"1770231012" modified:"1770754309" priority:"M" project:"ta" status:"completed" uuid:"56c51401-1bc3-4807-8901-83b17bd50128"]
+---
+time 1770754317
+old [description:"Apply to vector internships" due:"1770181140" entry:"1770062078" modified:"1770062078" priority:"H" project:"internships" status:"pending" uuid:"3562ff7c-77f5-472a-ae85-96073889b8a3"]
+new [description:"Apply to vector internships" due:"1770181140" end:"1770754317" entry:"1770062078" modified:"1770754317" priority:"H" project:"internships" status:"completed" uuid:"3562ff7c-77f5-472a-ae85-96073889b8a3"]
+---
+time 1770754344
+new [description:"MATS coding challenge" due:"1771045140" entry:"1770754344" modified:"1770754344" priority:"H" project:"internships" status:"pending" uuid:"97542094-8c7b-4262-8ba9-dbe12ecebd98"]
+---
+time 1770754358
+new [description:"Mark test 1" due:"1771217940" entry:"1770754358" modified:"1770754358" priority:"M" project:"ta" status:"pending" uuid:"7aaa4eb9-e60d-4572-9514-6a23a65518a5"]
+---
+time 1770754378
+old [description:"Review fj yaseen slr protocol" due:"1770440340" entry:"1770240744" modified:"1770240744" priority:"M" project:"6002" status:"pending" uuid:"0962e9c9-4e9b-4574-88b6-14261aaec565"]
+new [description:"Review fj yaseen slr protocol" due:"1770440340" end:"1770754378" entry:"1770240744" modified:"1770754378" priority:"M" project:"6002" status:"completed" uuid:"0962e9c9-4e9b-4574-88b6-14261aaec565"]
+---
+time 1770771145
+new [description:"Add GSA account instructions to playbook for next admin" due:"1771045140" entry:"1770771145" modified:"1770771145" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+---
+time 1770841091
+new [description:"Review lecture 6" due:"1771217940" entry:"1770841091" modified:"1770841091" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+---
+time 1770916059
+new [description:"Submit grant proposal for wellness grant" due:"1771217940" entry:"1770916059" modified:"1770916059" priority:"L" project:"gsa" status:"pending" uuid:"bda8d568-c4c2-4f47-b982-317651b95d8d"]
+---
+time 1770923793
+new [description:"Research MLR and prepare for meeting with alireza" due:"1770958740" entry:"1770923793" modified:"1770923793" priority:"H" project:"rxpx" status:"pending" uuid:"feb50a31-1d5a-4f6b-8797-f392a94dc732"]
+---
+time 1770923819
+old [description:"Review lecture 4" due:"1770094740" entry:"1769623763" modified:"1770061674" priority:"H" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+new [description:"Review lecture 4" due:"1770958740" entry:"1769623763" modified:"1770923819" priority:"H" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+---
+time 1770923834
+old [description:"Review lecture 5" due:"1770526740" entry:"1770265776" modified:"1770265776" priority:"M" project:"6127" status:"pending" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+new [description:"Review lecture 5" due:"1771045140" entry:"1770265776" modified:"1770923834" priority:"M" project:"6127" status:"pending" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+---
+time 1770923848
+old [description:"Review question 3 of quiz 1" due:"1770785940" entry:"1770613477" modified:"1770613477" priority:"L" project:"6127" status:"pending" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+new [description:"Review question 3 of quiz 1" due:"1770958740" entry:"1770613477" modified:"1770923848" priority:"L" project:"6127" status:"pending" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+---
+time 1770923865
+old [description:"Read multiagent rag paper and prepare slides" due:"1769749140" entry:"1767768155" modified:"1769476859" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+new [description:"Read multiagent rag paper and prepare slides" due:"1771217940" entry:"1767768155" modified:"1770923865" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1770923879
+old [description:"Review lecture 6" due:"1771217940" entry:"1770841091" modified:"1770841091" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+new [description:"Review lecture 6" due:"1771217940" entry:"1770841091" modified:"1770923879" priority:"M" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+---
+time 1770930177
+old [description:"MATS coding challenge" due:"1771045140" entry:"1770754344" modified:"1770754344" priority:"H" project:"internships" status:"pending" uuid:"97542094-8c7b-4262-8ba9-dbe12ecebd98"]
+new [description:"MATS coding challenge" due:"1771045140" end:"1770930177" entry:"1770754344" modified:"1770930177" priority:"H" project:"internships" status:"completed" uuid:"97542094-8c7b-4262-8ba9-dbe12ecebd98"]
+---
+time 1771014746
+old [description:"Review lecture 4" due:"1770958740" entry:"1769623763" modified:"1770923819" priority:"H" project:"6127" status:"pending" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+new [description:"Review lecture 4" due:"1770958740" end:"1771014746" entry:"1769623763" modified:"1771014746" priority:"H" project:"6127" status:"completed" uuid:"71f07ac8-0a46-44ba-80cb-a2f556943730"]
+---
+time 1771014758
+old [description:"Research MLR and prepare for meeting with alireza" due:"1770958740" entry:"1770923793" modified:"1770923793" priority:"H" project:"rxpx" status:"pending" uuid:"feb50a31-1d5a-4f6b-8797-f392a94dc732"]
+new [description:"Research MLR and prepare for meeting with alireza" due:"1770958740" end:"1771014758" entry:"1770923793" modified:"1771014758" priority:"H" project:"rxpx" status:"completed" uuid:"feb50a31-1d5a-4f6b-8797-f392a94dc732"]
+---
+time 1771014779
+new [description:"Set up trello and notion for rxpx" due:"1771045140" entry:"1771014779" modified:"1771014779" priority:"H" project:"rxpx" status:"pending" uuid:"868b6d94-cd2f-45bb-9084-b6ed5e27038c"]
+---
+time 1771014857
+new [description:"Merge ashik updates to main branch" due:"1771045140" entry:"1771014857" modified:"1771014857" priority:"H" project:"rxpx" status:"pending" uuid:"7cbdb342-263f-4fa5-bce2-f7a708f5a4cc"]
+---
+time 1771021629
+old [description:"Set up trello and notion for rxpx" due:"1771045140" entry:"1771014779" modified:"1771014779" priority:"H" project:"rxpx" status:"pending" uuid:"868b6d94-cd2f-45bb-9084-b6ed5e27038c"]
+new [description:"Set up trello and notion for rxpx" due:"1771045140" end:"1771021629" entry:"1771014779" modified:"1771021629" priority:"H" project:"rxpx" status:"completed" uuid:"868b6d94-cd2f-45bb-9084-b6ed5e27038c"]
+---
+time 1771288459
+old [description:"Submit grant proposal for wellness grant" due:"1771217940" entry:"1770916059" modified:"1770916059" priority:"L" project:"gsa" status:"pending" uuid:"bda8d568-c4c2-4f47-b982-317651b95d8d"]
+new [description:"Submit grant proposal for wellness grant" due:"1771217940" end:"1771288459" entry:"1770916059" modified:"1771288459" priority:"L" project:"gsa" status:"completed" uuid:"bda8d568-c4c2-4f47-b982-317651b95d8d"]
+---
+time 1771302307
+new [description:"Grade homework 1" due:"1771822740" entry:"1771302307" modified:"1771302307" priority:"L" project:"ta" status:"pending" uuid:"79e5615c-e8cb-48da-8be2-66963bd63486"]
+---
+time 1771302315
+old [description:"Mark test 1" due:"1771217940" entry:"1770754358" modified:"1770754358" priority:"M" project:"ta" status:"pending" uuid:"7aaa4eb9-e60d-4572-9514-6a23a65518a5"]
+new [description:"Mark test 1" due:"1771217940" end:"1771302315" entry:"1770754358" modified:"1771302315" priority:"M" project:"ta" status:"completed" uuid:"7aaa4eb9-e60d-4572-9514-6a23a65518a5"]
+---
+time 1771349453
+new [description:"Go through test 1 marks again" due:"1771390740" entry:"1771349453" modified:"1771349453" priority:"H" project:"ta" status:"pending" uuid:"35b98d70-6a40-4c28-aa2b-63e3671e5998"]
+---
+time 1771349700
+old [description:"Merge ashik updates to main branch" due:"1771045140" entry:"1771014857" modified:"1771014857" priority:"H" project:"rxpx" status:"pending" uuid:"7cbdb342-263f-4fa5-bce2-f7a708f5a4cc"]
+new [description:"Merge ashik updates to main branch" due:"1771045140" end:"1771349700" entry:"1771014857" modified:"1771349700" priority:"H" project:"rxpx" status:"completed" uuid:"7cbdb342-263f-4fa5-bce2-f7a708f5a4cc"]
+---
+time 1771349719
+old [description:"Review lecture 5" due:"1771045140" entry:"1770265776" modified:"1770923834" priority:"M" project:"6127" status:"pending" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+new [description:"Review lecture 5" due:"1771390740" entry:"1770265776" modified:"1771349719" priority:"M" project:"6127" status:"pending" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+---
+time 1771349735
+old [description:"Review lecture 6" due:"1771217940" entry:"1770841091" modified:"1770923879" priority:"M" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+new [description:"Review lecture 6" due:"1771477140" entry:"1770841091" modified:"1771349735" priority:"M" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+---
+time 1771349751
+old [description:"Add GSA account instructions to playbook for next admin" due:"1771045140" entry:"1770771145" modified:"1770771145" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+new [description:"Add GSA account instructions to playbook for next admin" due:"1771649940" entry:"1770771145" modified:"1771349751" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+---
+time 1771349767
+old [description:"Review question 3 of quiz 1" due:"1770958740" entry:"1770613477" modified:"1770923848" priority:"L" project:"6127" status:"pending" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+new [description:"Review question 3 of quiz 1" due:"1771390740" entry:"1770613477" modified:"1771349767" priority:"L" project:"6127" status:"pending" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+---
+time 1771349792
+old [description:"Read multiagent rag paper and prepare slides" due:"1771217940" entry:"1767768155" modified:"1770923865" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+new [description:"Read multiagent rag paper and prepare slides" due:"1771649940" entry:"1767768155" modified:"1771349792" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1771460647
+old [description:"Go through test 1 marks again" due:"1771390740" entry:"1771349453" modified:"1771349453" priority:"H" project:"ta" status:"pending" uuid:"35b98d70-6a40-4c28-aa2b-63e3671e5998"]
+new [description:"Go through test 1 marks again" due:"1771390740" end:"1771460647" entry:"1771349453" modified:"1771460647" priority:"H" project:"ta" status:"completed" uuid:"35b98d70-6a40-4c28-aa2b-63e3671e5998"]
+---
+time 1771475960
+new [description:"Check with maleknaz about what to present in meeting today" due:"1771520400" entry:"1771475960" modified:"1771475960" project:"rxpx" status:"pending" uuid:"6db61cae-48f5-45e7-bdfe-8852cf80b2e9"]
+---
+time 1771524961
+new [description:"Quiz 2" due:"1771563540" entry:"1771524961" modified:"1771524961" priority:"H" project:"6127" status:"pending" uuid:"6b3300c6-92dd-4d82-b8a0-87fec67975fd"]
+---
+time 1771525454
+old [description:"Check with maleknaz about what to present in meeting today" due:"1771520400" entry:"1771475960" modified:"1771475960" project:"rxpx" status:"pending" uuid:"6db61cae-48f5-45e7-bdfe-8852cf80b2e9"]
+new [description:"Check with maleknaz about what to present in meeting today" due:"1771520400" end:"1771525454" entry:"1771475960" modified:"1771525454" project:"rxpx" status:"completed" uuid:"6db61cae-48f5-45e7-bdfe-8852cf80b2e9"]
+---
+time 1771525516
+old [description:"Review lecture 5" due:"1771390740" entry:"1770265776" modified:"1771349719" priority:"M" project:"6127" status:"pending" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+new [description:"Review lecture 5" due:"1771563540" entry:"1770265776" modified:"1771525516" priority:"M" project:"6127" status:"pending" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+---
+time 1771525534
+old [description:"Review lecture 6" due:"1771477140" entry:"1770841091" modified:"1771349735" priority:"M" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+new [description:"Review lecture 6" due:"1771736340" entry:"1770841091" modified:"1771525534" priority:"M" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+---
+time 1771528463
+new [description:"Remind maleknaz to start rxpx project proposal" due:"1771696800" entry:"1771528463" modified:"1771528463" priority:"M" project:"rxpx" status:"pending" uuid:"d946f9a9-9bcf-4835-9bb9-8f5278bdbfc8"]
+---
+time 1771717523
+old [description:"Quiz 2" due:"1771563540" entry:"1771524961" modified:"1771524961" priority:"H" project:"6127" status:"pending" uuid:"6b3300c6-92dd-4d82-b8a0-87fec67975fd"]
+new [description:"Quiz 2" due:"1771563540" end:"1771717523" entry:"1771524961" modified:"1771717523" priority:"H" project:"6127" status:"completed" uuid:"6b3300c6-92dd-4d82-b8a0-87fec67975fd"]
+---
+time 1771717541
+old [description:"Review lecture 5" due:"1771563540" entry:"1770265776" modified:"1771525516" priority:"M" project:"6127" status:"pending" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+new [description:"Review lecture 5" due:"1771563540" end:"1771717541" entry:"1770265776" modified:"1771717541" priority:"M" project:"6127" status:"completed" uuid:"3940aa15-30d3-424a-801c-0b85c331854d"]
+---
+time 1771790732
+new [description:"SLR" due:"1771822740" entry:"1771790732" modified:"1771790732" project:"6002" status:"pending" uuid:"e2960d5a-a6bf-4b25-97d2-8fb22fa79465"]
+---
+time 1771880458
+new [description:"Elmiras thing" due:"1771909140" entry:"1771880458" modified:"1771880458" priority:"H" project:"lab" status:"pending" uuid:"380220b6-6da9-4829-b78a-5ee4f4960d06"]
+---
+time 1771953684
+old [description:"Elmiras thing" due:"1771909140" entry:"1771880458" modified:"1771880458" priority:"H" project:"lab" status:"pending" uuid:"380220b6-6da9-4829-b78a-5ee4f4960d06"]
+new [description:"Elmiras thing" due:"1771909140" end:"1771953684" entry:"1771880458" modified:"1771953684" priority:"H" project:"lab" status:"completed" uuid:"380220b6-6da9-4829-b78a-5ee4f4960d06"]
+---
+time 1771953699
+old [description:"Remind maleknaz to start rxpx project proposal" due:"1771696800" entry:"1771528463" modified:"1771528463" priority:"M" project:"rxpx" status:"pending" uuid:"d946f9a9-9bcf-4835-9bb9-8f5278bdbfc8"]
+new [description:"Remind maleknaz to start rxpx project proposal" due:"1771696800" end:"1771953699" entry:"1771528463" modified:"1771953699" priority:"M" project:"rxpx" status:"completed" uuid:"d946f9a9-9bcf-4835-9bb9-8f5278bdbfc8"]
+---
+time 1771953718
+old [description:"SLR" due:"1771822740" entry:"1771790732" modified:"1771790732" project:"6002" status:"pending" uuid:"e2960d5a-a6bf-4b25-97d2-8fb22fa79465"]
+new [description:"Run search queries for SLR" due:"1771822740" entry:"1771790732" modified:"1771953718" project:"6002" status:"pending" uuid:"e2960d5a-a6bf-4b25-97d2-8fb22fa79465"]
+---
+time 1771953742
+new [description:"Prepare discussion notes for chapter 9" due:"1771995540" entry:"1771953742" modified:"1771953742" priority:"H" project:"6002" status:"pending" uuid:"37421ce0-b025-460e-8836-81dcb5f6a66a"]
+---
+time 1771953760
+new [description:"Midterm" due:"1772042400" entry:"1771953760" modified:"1771953760" priority:"H" project:"6127" status:"pending" uuid:"f6bc94e0-ba82-4eef-b52a-b46db02a8507"]
+---
+time 1771953775
+old [description:"Read multiagent rag paper and prepare slides" due:"1771649940" entry:"1767768155" modified:"1771349792" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+new [description:"Read multiagent rag paper and prepare slides" due:"1772427540" entry:"1767768155" modified:"1771953775" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1771953784
+old [description:"Add GSA account instructions to playbook for next admin" due:"1771649940" entry:"1770771145" modified:"1771349751" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+new [description:"Add GSA account instructions to playbook for next admin" due:"1772427540" entry:"1770771145" modified:"1771953784" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+---
+time 1771953796
+old [description:"Review lecture 6" due:"1771736340" entry:"1770841091" modified:"1771525534" priority:"M" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+new [description:"Review lecture 6" due:"1772427540" entry:"1770841091" modified:"1771953796" priority:"M" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+---
+time 1771953806
+old [description:"Review question 3 of quiz 1" due:"1771390740" entry:"1770613477" modified:"1771349767" priority:"L" project:"6127" status:"pending" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+new [description:"Review question 3 of quiz 1" due:"1772427540" entry:"1770613477" modified:"1771953806" priority:"L" project:"6127" status:"pending" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+---
+time 1771953826
+old [description:"Grade homework 1" due:"1771822740" entry:"1771302307" modified:"1771302307" priority:"L" project:"ta" status:"pending" uuid:"79e5615c-e8cb-48da-8be2-66963bd63486"]
+new [description:"Grade homework 1" due:"1772254740" entry:"1771302307" modified:"1771953826" priority:"L" project:"ta" status:"pending" uuid:"79e5615c-e8cb-48da-8be2-66963bd63486"]
+---
+time 1771953850
+old [description:"Run search queries for SLR" due:"1771822740" entry:"1771790732" modified:"1771953718" project:"6002" status:"pending" uuid:"e2960d5a-a6bf-4b25-97d2-8fb22fa79465"]
+new [description:"Run search queries for SLR" due:"1771822740" entry:"1771790732" modified:"1771953850" priority:"H" project:"6002" status:"pending" uuid:"e2960d5a-a6bf-4b25-97d2-8fb22fa79465"]
+---
+time 1771953859
+old [description:"Grade homework 1" due:"1772254740" entry:"1771302307" modified:"1771953826" priority:"L" project:"ta" status:"pending" uuid:"79e5615c-e8cb-48da-8be2-66963bd63486"]
+new [description:"Grade homework 1" due:"1772254740" entry:"1771302307" modified:"1771953859" priority:"H" project:"ta" status:"pending" uuid:"79e5615c-e8cb-48da-8be2-66963bd63486"]
+---
+time 1771953905
+new [description:"Data vis project proposal presentation" due:"1771966800" entry:"1771953905" modified:"1771953905" priority:"H" project:"6414" status:"pending" uuid:"5b528853-9931-4484-9385-8ddf3aef814a"]
+---
+time 1771953927
+new [description:"Data vis project proposal report" due:"1772254740" entry:"1771953927" modified:"1771953927" priority:"M" project:"6414" status:"pending" uuid:"03f18947-0506-4b7c-8f49-49453e564f54"]
+---
+time 1771965801
+new [description:"Search for gradual incontext learning papers" due:"1772168340" entry:"1771965801" modified:"1771965801" priority:"M" project:"rxpx" status:"pending" uuid:"6b3553de-34b2-4ff3-861c-15b1d13cdfe8"]
+---
+time 1771975053
+old [description:"Data vis project proposal presentation" due:"1771966800" entry:"1771953905" modified:"1771953905" priority:"H" project:"6414" status:"pending" uuid:"5b528853-9931-4484-9385-8ddf3aef814a"]
+new [description:"Data vis project proposal presentation" due:"1771966800" end:"1771975053" entry:"1771953905" modified:"1771975053" priority:"H" project:"6414" status:"completed" uuid:"5b528853-9931-4484-9385-8ddf3aef814a"]
+---
+time 1772056240
+new [description:"Submit for ISCME" due:"1772081940" entry:"1772056240" modified:"1772056240" priority:"H" project:"lab" status:"pending" uuid:"edcf37d9-a597-478b-824f-8a56ac11be52"]
+---
+time 1772056262
+new [description:"Talk to ashik" due:"1772081940" entry:"1772056262" modified:"1772056262" priority:"H" project:"rxpx" status:"pending" uuid:"5bbce324-35dc-4be9-a042-fe5a5ce9f538"]
+---
+time 1772056501
+old [description:"Prepare discussion notes for chapter 9" due:"1771995540" entry:"1771953742" modified:"1771953742" priority:"H" project:"6002" status:"pending" uuid:"37421ce0-b025-460e-8836-81dcb5f6a66a"]
+new [description:"Prepare discussion notes for chapter 9" due:"1771995540" end:"1772056501" entry:"1771953742" modified:"1772056501" priority:"H" project:"6002" status:"completed" uuid:"37421ce0-b025-460e-8836-81dcb5f6a66a"]
+---
+time 1772056514
+old [description:"Midterm" due:"1772042400" entry:"1771953760" modified:"1771953760" priority:"H" project:"6127" status:"pending" uuid:"f6bc94e0-ba82-4eef-b52a-b46db02a8507"]
+new [description:"Midterm" due:"1772042400" end:"1772056514" entry:"1771953760" modified:"1772056514" priority:"H" project:"6127" status:"completed" uuid:"f6bc94e0-ba82-4eef-b52a-b46db02a8507"]
+---
+time 1772057444
+new [description:"Read ch10 of ese book" due:"1772513940" entry:"1772057444" modified:"1772057444" priority:"M" project:"6002" status:"pending" uuid:"258b6537-ae31-4ba2-9579-e331e2c9642d"]
+---
+time 1772057569
+new [description:"Prepare discussion notes for ch10" due:"1772513940" entry:"1772057569" modified:"1772057569" priority:"M" project:"6002" status:"pending" uuid:"0c354e7b-bd8c-471c-8bc8-309f72234687"]
+---
+time 1772211303
+new [description:"Check veeva developer api" due:"1772686740" entry:"1772211303" modified:"1772211303" priority:"M" project:"rxpx" status:"pending" uuid:"0475a6cf-047d-4a16-bff4-470c859cd8fb"]
+---
+time 1772235816
+old [description:"Grade homework 1" due:"1772254740" entry:"1771302307" modified:"1771953859" priority:"H" project:"ta" status:"pending" uuid:"79e5615c-e8cb-48da-8be2-66963bd63486"]
+new [description:"Grade homework 1" due:"1772254740" end:"1772235816" entry:"1771302307" modified:"1772235816" priority:"H" project:"ta" status:"completed" uuid:"79e5615c-e8cb-48da-8be2-66963bd63486"]
+---
+time 1772235852
+old [description:"Data vis project proposal report" due:"1772254740" entry:"1771953927" modified:"1771953927" priority:"M" project:"6414" status:"pending" uuid:"03f18947-0506-4b7c-8f49-49453e564f54"]
+new [description:"Data vis project proposal report" due:"1772773140" entry:"1771953927" modified:"1772235852" priority:"M" project:"6414" status:"pending" uuid:"03f18947-0506-4b7c-8f49-49453e564f54"]
+---
+time 1772423164
+old [description:"Run search queries for SLR" due:"1771822740" entry:"1771790732" modified:"1771953850" priority:"H" project:"6002" status:"pending" uuid:"e2960d5a-a6bf-4b25-97d2-8fb22fa79465"]
+new [description:"Run search queries for SLR" due:"1771822740" end:"1772423164" entry:"1771790732" modified:"1772423164" priority:"H" project:"6002" status:"completed" uuid:"e2960d5a-a6bf-4b25-97d2-8fb22fa79465"]
+---
+time 1772423172
+old [description:"Submit for ISCME" due:"1772081940" entry:"1772056240" modified:"1772056240" priority:"H" project:"lab" status:"pending" uuid:"edcf37d9-a597-478b-824f-8a56ac11be52"]
+new [description:"Submit for ISCME" due:"1772081940" end:"1772423172" entry:"1772056240" modified:"1772423172" priority:"H" project:"lab" status:"completed" uuid:"edcf37d9-a597-478b-824f-8a56ac11be52"]
+---
+time 1772423208
+new [description:"Run full swebench benchmark with openhands versa" due:"1772859540" entry:"1772423208" modified:"1772423208" priority:"M" project:"lab" status:"pending" uuid:"91f1172f-c534-4050-8423-4b23672fb584"]
+---
+time 1772423216
+old [description:"Talk to ashik" due:"1772081940" entry:"1772056262" modified:"1772056262" priority:"H" project:"rxpx" status:"pending" uuid:"5bbce324-35dc-4be9-a042-fe5a5ce9f538"]
+new [description:"Talk to ashik" due:"1772081940" end:"1772423216" entry:"1772056262" modified:"1772423216" priority:"H" project:"rxpx" status:"completed" uuid:"5bbce324-35dc-4be9-a042-fe5a5ce9f538"]
+---
+time 1772434665
+old [description:"Review lecture 6" due:"1772427540" entry:"1770841091" modified:"1771953796" priority:"M" project:"6127" status:"pending" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+new [description:"Review lecture 6" due:"1772427540" end:"1772434665" entry:"1770841091" modified:"1772434665" priority:"M" project:"6127" status:"completed" uuid:"619f5e98-ff85-4400-b29c-c2dc64a3b186"]
+---
+time 1772434723
+old [description:"Review question 3 of quiz 1" due:"1772427540" entry:"1770613477" modified:"1771953806" priority:"L" project:"6127" status:"pending" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+new [description:"Review question 3 of quiz 1" due:"1772427540" end:"1772434723" entry:"1770613477" modified:"1772434723" priority:"L" project:"6127" status:"completed" uuid:"e646a7f6-a4f6-4f90-a476-35b1948f5457"]
+---
+time 1772434750
+new [description:"Notes on SGD" due:"1772600340" entry:"1772434750" modified:"1772434750" priority:"M" project:"6127" status:"pending" uuid:"b6873648-29e0-4b48-a01b-c077776396fb"]
+---
+time 1772434773
+old [description:"Search for gradual incontext learning papers" due:"1772168340" entry:"1771965801" modified:"1771965801" priority:"M" project:"rxpx" status:"pending" uuid:"6b3553de-34b2-4ff3-861c-15b1d13cdfe8"]
+new [description:"Search for gradual incontext learning papers" due:"1772168340" end:"1772434773" entry:"1771965801" modified:"1772434773" priority:"M" project:"rxpx" status:"completed" uuid:"6b3553de-34b2-4ff3-861c-15b1d13cdfe8"]
+---
+time 1772434791
+old [description:"Read multiagent rag paper and prepare slides" due:"1772427540" entry:"1767768155" modified:"1771953775" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+new [description:"Read multiagent rag paper and prepare slides" due:"1773028740" entry:"1767768155" modified:"1772434791" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1772434813
+old [description:"Add GSA account instructions to playbook for next admin" due:"1772427540" entry:"1770771145" modified:"1771953784" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+new [description:"Add GSA account instructions to playbook for next admin" due:"1773028740" entry:"1770771145" modified:"1772434813" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+---
+time 1772434843
+new [description:"Prepare for rxpx internal meeting" due:"1772600340" entry:"1772434843" modified:"1772434843" priority:"H" project:"rxpx" status:"pending" uuid:"a0b63560-4c5b-4f2b-8248-a5435731f597"]
+---
+time 1772476201
+old [description:"Read ch10 of ese book" due:"1772513940" entry:"1772057444" modified:"1772057444" priority:"M" project:"6002" status:"pending" uuid:"258b6537-ae31-4ba2-9579-e331e2c9642d"]
+new [description:"Read chs 9 and 11 of ese book" due:"1772513940" entry:"1772057444" modified:"1772476201" priority:"M" project:"6002" status:"pending" uuid:"258b6537-ae31-4ba2-9579-e331e2c9642d"]
+---
+time 1772476220
+old [description:"Prepare discussion notes for ch10" due:"1772513940" entry:"1772057569" modified:"1772057569" priority:"M" project:"6002" status:"pending" uuid:"0c354e7b-bd8c-471c-8bc8-309f72234687"]
+new [description:"Prepare discussion notes for chs9 and 11" due:"1772513940" entry:"1772057569" modified:"1772476220" priority:"M" project:"6002" status:"pending" uuid:"0c354e7b-bd8c-471c-8bc8-309f72234687"]
+---
+time 1772476261
+new [description:"Apply incusion and exclusion criteria for SLR" due:"1772513940" entry:"1772476261" modified:"1772476261" priority:"H" project:"6002" status:"pending" uuid:"6747c4d5-92dd-4d23-b1bc-20ed30acd5e0"]
+---
+time 1772555359
+new [description:"Make list of tasks for RxPx architecture" due:"1772686740" entry:"1772555359" modified:"1772555359" priority:"H" project:"rxpx" status:"pending" uuid:"707050a8-59f9-459c-a59f-858025d3d1b8"]
+---
+time 1772555515
+new [description:"Email RxPx about Veeva developer account" due:"1772600340" entry:"1772555515" modified:"1772555515" priority:"H" project:"rxpx" status:"pending" uuid:"7919278f-9c91-4b34-83ac-74f147ac1095"]
+---
+time 1772562649
+old [description:"Read chs 9 and 11 of ese book" due:"1772513940" entry:"1772057444" modified:"1772476201" priority:"M" project:"6002" status:"pending" uuid:"258b6537-ae31-4ba2-9579-e331e2c9642d"]
+new [description:"Read chs 9 and 11 of ese book" due:"1772513940" end:"1772562649" entry:"1772057444" modified:"1772562649" priority:"M" project:"6002" status:"completed" uuid:"258b6537-ae31-4ba2-9579-e331e2c9642d"]
+---
+time 1772575050
+old [description:"Prepare for rxpx internal meeting" due:"1772600340" entry:"1772434843" modified:"1772434843" priority:"H" project:"rxpx" status:"pending" uuid:"a0b63560-4c5b-4f2b-8248-a5435731f597"]
+new [description:"Prepare for rxpx internal meeting" due:"1772600340" end:"1772575050" entry:"1772434843" modified:"1772575050" priority:"H" project:"rxpx" status:"completed" uuid:"a0b63560-4c5b-4f2b-8248-a5435731f597"]
+---
+time 1772575060
+old [description:"Run full swebench benchmark with openhands versa" due:"1772859540" entry:"1772423208" modified:"1772423208" priority:"M" project:"lab" status:"pending" uuid:"91f1172f-c534-4050-8423-4b23672fb584"]
+new [description:"Run full swebench benchmark with openhands versa" due:"1772859540" end:"1772575060" entry:"1772423208" modified:"1772575060" priority:"M" project:"lab" status:"completed" uuid:"91f1172f-c534-4050-8423-4b23672fb584"]
+---
+time 1772575122
+new [description:"Finish aggregating swe-bench M results" due:"1772600340" entry:"1772575122" modified:"1772575122" priority:"H" project:"paper" status:"pending" uuid:"fe0f8ad1-352a-4b16-a86d-e4c26433f9bf"]
+---
+time 1772660345
+new [description:"Go through titles and abstracts manually and send spreadsheet to maleknaz with results" due:"1772859540" entry:"1772660345" modified:"1772660345" priority:"M" project:"6002" status:"pending" uuid:"f8e233c2-e128-4cc7-bd27-a5f0e2825f24"]
+---
+time 1773036179
+old [description:"Email RxPx about Veeva developer account" due:"1772600340" entry:"1772555515" modified:"1772555515" priority:"H" project:"rxpx" status:"pending" uuid:"7919278f-9c91-4b34-83ac-74f147ac1095"]
+new [description:"Email RxPx about Veeva developer account" due:"1772600340" end:"1773036179" entry:"1772555515" modified:"1773036179" priority:"H" project:"rxpx" status:"completed" uuid:"7919278f-9c91-4b34-83ac-74f147ac1095"]
+---
+time 1773036185
+old [description:"Finish aggregating swe-bench M results" due:"1772600340" entry:"1772575122" modified:"1772575122" priority:"H" project:"paper" status:"pending" uuid:"fe0f8ad1-352a-4b16-a86d-e4c26433f9bf"]
+new [description:"Finish aggregating swe-bench M results" due:"1772600340" end:"1773036185" entry:"1772575122" modified:"1773036185" priority:"H" project:"paper" status:"completed" uuid:"fe0f8ad1-352a-4b16-a86d-e4c26433f9bf"]
+---
+time 1773036194
+old [description:"Prepare discussion notes for chs9 and 11" due:"1772513940" entry:"1772057569" modified:"1772476220" priority:"M" project:"6002" status:"pending" uuid:"0c354e7b-bd8c-471c-8bc8-309f72234687"]
+new [description:"Prepare discussion notes for chs9 and 11" due:"1772513940" end:"1773036194" entry:"1772057569" modified:"1773036194" priority:"M" project:"6002" status:"completed" uuid:"0c354e7b-bd8c-471c-8bc8-309f72234687"]
+---
+time 1773036208
+old [description:"Check veeva developer api" due:"1772686740" entry:"1772211303" modified:"1772211303" priority:"M" project:"rxpx" status:"pending" uuid:"0475a6cf-047d-4a16-bff4-470c859cd8fb"]
+new [description:"Check veeva developer api" due:"1772686740" end:"1773036208" entry:"1772211303" modified:"1773036208" priority:"M" project:"rxpx" status:"completed" uuid:"0475a6cf-047d-4a16-bff4-470c859cd8fb"]
+---
+time 1773036217
+old [description:"Apply incusion and exclusion criteria for SLR" due:"1772513940" entry:"1772476261" modified:"1772476261" priority:"H" project:"6002" status:"pending" uuid:"6747c4d5-92dd-4d23-b1bc-20ed30acd5e0"]
+new [description:"Apply incusion and exclusion criteria for SLR" due:"1772513940" end:"1773036217" entry:"1772476261" modified:"1773036217" priority:"H" project:"6002" status:"completed" uuid:"6747c4d5-92dd-4d23-b1bc-20ed30acd5e0"]
+---
+time 1773036248
+new [description:"Respond to feedback on reader slides" due:"1773201540" entry:"1773036248" modified:"1773036248" project:"6002" status:"pending" uuid:"ea639572-829b-4c4a-ae95-293d4a40f2d0"]
+---
+time 1773036276
+new [description:"Notes on last wednesday mar 2 lecture" due:"1773201540" entry:"1773036276" modified:"1773036276" project:"6127" status:"pending" uuid:"75936db0-cb50-421d-8a4e-400106920bff"]
+---
+time 1773039678
+new [description:"Start project" due:"1773287940" entry:"1773039678" modified:"1773039678" priority:"H" project:"6414" status:"pending" uuid:"740b5ec0-db40-4bd6-a71d-3886b10eaa97"]
+---
+time 1773086926
+new [description:"Run 32 failed instances with images" due:"1773460740" entry:"1773086926" modified:"1773086926" project:"paper" status:"pending" uuid:"7cd8475d-db3a-4e09-a507-1f66c5fd47e0"]
+---
+time 1773087550
+new [description:"Categorization of images" due:"1773374340" entry:"1773087550" modified:"1773087550" project:"paper" status:"pending" uuid:"0b8e6cc1-420b-42a0-b3ad-cb57338ee073"]
+---
+time 1773193330
+old [description:"Data vis project proposal report" due:"1772773140" entry:"1771953927" modified:"1772235852" priority:"M" project:"6414" status:"pending" uuid:"03f18947-0506-4b7c-8f49-49453e564f54"]
+new [description:"Data vis project proposal report" due:"1772773140" end:"1773193330" entry:"1771953927" modified:"1773193330" priority:"M" project:"6414" status:"completed" uuid:"03f18947-0506-4b7c-8f49-49453e564f54"]
+---
+time 1773193466
+old [description:"Read multiagent rag paper and prepare slides" due:"1773028740" entry:"1767768155" modified:"1772434791" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+new [description:"Read multiagent rag paper and prepare slides" due:"1773633540" entry:"1767768155" modified:"1773193466" priority:"H" project:"papers" status:"pending" uuid:"5706fe06-22db-48f5-85f3-beb4e17a2f93"]
+---
+time 1773193478
+old [description:"Add GSA account instructions to playbook for next admin" due:"1773028740" entry:"1770771145" modified:"1772434813" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+new [description:"Add GSA account instructions to playbook for next admin" due:"1773633540" entry:"1770771145" modified:"1773193478" priority:"L" project:"gsa" status:"pending" uuid:"52a247da-bea7-461c-b4aa-eda0da1368da"]
+---
+time 1773251781
+new [description:"Notes on mar 11 lecture" due:"1773633540" entry:"1773251780" modified:"1773251780" priority:"M" project:"6127" status:"pending" uuid:"f62a68cc-4cb6-40a0-8617-4ccaeeebfbab"]
+---
+time 1773252261
+new [description:"Choose project" due:"1773287940" entry:"1773252261" modified:"1773252261" priority:"H" project:"6127" status:"pending" uuid:"edf0bbb7-fb13-4ae2-ba37-cc6ed6dad27a"]
+---
+time 1773264930
+new [description:"Finish 3 RQs" due:"1774497540" entry:"1773264930" modified:"1773264930" project:"6002" status:"pending" uuid:"fe774c52-c730-49b9-a2ad-4adc7b61cba7"]
+---
+time 1773264949
+new [description:"Presentation on hypothesis testing" due:"1773633540" entry:"1773264949" modified:"1773264949" project:"6002" status:"pending" uuid:"5094773a-6e3f-4f9a-a4c8-0acc401040b9"]
+---
+time 1773312456
+new [description:"Homework 3 grading" due:"1773806340" entry:"1773312456" modified:"1773312456" project:"ta" status:"pending" uuid:"6993a319-5db0-4c21-a073-f77d95a77d6f"]
+---
+time 1773344287
+old [description:"Go through titles and abstracts manually and send spreadsheet to maleknaz with results" due:"1772859540" entry:"1772660345" modified:"1772660345" priority:"M" project:"6002" status:"pending" uuid:"f8e233c2-e128-4cc7-bd27-a5f0e2825f24"]
+new [description:"Go through titles and abstracts manually and send spreadsheet to maleknaz with results" due:"1772859540" end:"1773344287" entry:"1772660345" modified:"1773344287" priority:"M" project:"6002" status:"completed" uuid:"f8e233c2-e128-4cc7-bd27-a5f0e2825f24"]
+---
+time 1773344339
+old [description:"Respond to feedback on reader slides" due:"1773201540" entry:"1773036248" modified:"1773036248" project:"6002" status:"pending" uuid:"ea639572-829b-4c4a-ae95-293d4a40f2d0"]
+new [description:"Respond to feedback on reader slides" due:"1773201540" end:"1773344339" entry:"1773036248" modified:"1773344339" project:"6002" status:"completed" uuid:"ea639572-829b-4c4a-ae95-293d4a40f2d0"]
+---
+time 1773344405
+old [description:"Categorization of images" due:"1773374340" entry:"1773087550" modified:"1773087550" project:"paper" status:"pending" uuid:"0b8e6cc1-420b-42a0-b3ad-cb57338ee073"]
+new [description:"Categorization of images" due:"1773374340" end:"1773344405" entry:"1773087550" modified:"1773344405" project:"paper" status:"completed" uuid:"0b8e6cc1-420b-42a0-b3ad-cb57338ee073"]
+---
